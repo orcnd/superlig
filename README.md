@@ -1,18 +1,10 @@
 # Adil Oyun Endeksi
-
-Süper Lig'de hakem kararlarının gözlemlenebilir sportif sonuçlarını, niyet atfetmeden ve kaynak temelli biçimde incelemek için tasarlanmış statik Next.js uygulaması.
+'Amaç hakemler x takımı kayırdı' iddasını bilimsel bir zemine oturtmaya çalışmak. bunun için ölçülebilir değerlerin futbola olan etkisini bir formüle döktüm. fork edebilir yada geliştirmem için bana info@orcuncandan.com adresinden ulaşabilirsiniz
 
 ## Geliştirme
-
-```bash
-# Süper Lig Adil Oyun Endeksi
-
-Süper Lig'in dört büyük takımı için hakem ve maç verilerinin gözlemlenebilir sportif etkilerini inceleyen, kaynakları ve hesaplama yöntemi açık bir futbol analitiği projesi. Uygulama 2023-24, 2024-25 ve 2025-26 sezonlarını kapsar ve Cloudflare Pages'te yayımlanabilen statik bir Next.js uygulaması olarak derlenir.
-
-Endeks, hakemlerin veya kurumların niyetini ölçmez. Pozitif ya da negatif skor kasıtlı kayırma veya mağduriyet kanıtı değildir. Penaltı verisi, TFF kayıtlarında `(P)` ile gösterilen penaltı gollerini ifade eder; kararın doğruluğunu değerlendirmez. Kadroda görünmeyen bir oyuncu da tıbbi kaynak olmadan sakat olarak etiketlenmez.
+4 büyük takımın gördüğü ve rakiplerinin gördüğü kartlar, bu kartların kritik maçlar öncesinde olup olmadığı, kazanılan ve verilen penaltılar, sakatlıklar, Kart gören oyuncuların takım içindeki değeri gibi kriterler üzerinden bir hesaplama yapmaya çalıştım
 
 ## Uygulama
-
 - Ana sayfa: sezonlar arası endeks sıralaması, bileşenler ve veri kapsamı.
 - `/data`: olay ve maç kayıtlarını incelemek için veri gezgini.
 - `/methodology`: puanlama formülü, ağırlıklar ve güven yaklaşımı.
@@ -59,17 +51,4 @@ Olay defterindeki kart, penaltı golü ve bazı maç bağlamı kayıtları TFF v
 ## Puanlama yaklaşımı
 
 Olayların etkisi ham etki, güven katsayısı ve kategori ağırlığı üzerinden hesaplanır. Aynı `eventId` puanlamada bir kez işlenir. Veri yokluğu sıfır etki olarak varsayılmaz; bilinmeyen ölçümler ayrı tutulur. Başlangıç ağırlıkları ve normalizasyon yaklaşımı uygulamadaki `/methodology` sayfasında açıklanır.
-
-## Cloudflare Pages
-
-Proje Next.js statik export kullanır. Cloudflare Pages projesinde build komutu `npm run pages:build`, çıktı dizini `out` olmalıdır. Depo Pages'e bağlandıktan sonra her dağıtım bu derleme ayarlarıyla yapılabilir.
-
-Cloudflare hesabında oturum açmış yerel ortamdan elle dağıtım:
-
-```bash
-npm run pages:build
-npm run pages:deploy
-```
-
-Özel alan adı Cloudflare Pages projesinin **Custom domains** bölümünden yapılandırılır.
 
