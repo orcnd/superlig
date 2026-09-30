@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-30T19:19:41.202Z",
+  "sources": [
+    {
+      "season": "2023-24",
+      "file": "data/raw/tff/fixtures-2023-24.json",
+      "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1648",
+      "retrievedAt": "2026-09-30T17:36:44.412Z",
+      "records": 380,
+      "sha256": "36796028f3bf6e436b79ad816ceab6917072eea823f0c2a12152ed957cb1ab24"
+    },
+    {
+      "season": "2024-25",
+      "file": "data/raw/tff/fixtures-2024-25.json",
+      "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1730",
+      "retrievedAt": "2026-09-30T17:36:44.767Z",
+      "records": 342,
+      "sha256": "ede170308daa84f01780da0f78357397a7d8fd63324c44d91ca5cbad625937a2"
+    },
+    {
+      "season": "2025-26",
+      "file": "data/raw/tff/fixtures-2025-26.json",
+      "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1768",
+      "retrievedAt": "2026-09-30T17:36:45.081Z",
+      "records": 306,
+      "sha256": "0887d4fd38fa4321b253424d438a4a4df31ea3e4cf9bd24327bc28c6f7d88fa2"
+    }
+  ],
+  "matchDetails": [
+    {
+      "season": "2023-24",
+      "file": "data/raw/tff/match-details-2023-24.json",
+      "source": "TFF match detail pages",
+      "records": 140,
+      "cardEvents": 630,
+      "goalEvents": 430,
+      "penaltyGoals": 41,
+      "lineupPlayers": 5867,
+      "sha256": "5d9b24e2eca1182a639bf67ee1eec418ee9a0902832689d4d3c40cc3fc1b7a65"
+    },
+    {
+      "season": "2024-25",
+      "file": "data/raw/tff/match-details-2024-25.json",
+      "source": "TFF match detail pages",
+      "records": 132,
+      "cardEvents": 637,
+      "goalEvents": 410,
+      "penaltyGoals": 53,
+      "lineupPlayers": 5525,
+      "sha256": "e3d0f94fe425a9703ba55e3ba67b1329f9c6b46c76fb3c3d740751427da94dc9"
+    },
+    {
+      "season": "2025-26",
+      "file": "data/raw/tff/match-details-2025-26.json",
+      "source": "TFF match detail pages",
+      "records": 124,
+      "cardEvents": 574,
+      "goalEvents": 388,
+      "penaltyGoals": 32,
+      "lineupPlayers": 5167,
+      "sha256": "4be214072632cb17fcfb6386ededbad772727f37313fcda34b0367c371858ce7"
+    }
+  ]
+}

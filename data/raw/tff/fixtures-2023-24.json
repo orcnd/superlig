@@ -1,0 +1,7232 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "tff-fixtures-2023-24",
+  "season": "2023-24",
+  "retrievedAt": "2026-09-30T17:36:44.412Z",
+  "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1648",
+  "sourceType": "federation",
+  "reliability": 1,
+  "dataQuality": "VERIFIED",
+  "records": [
+    {
+      "matchId": "249162",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249162"
+    },
+    {
+      "matchId": "249157",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249157"
+    },
+    {
+      "matchId": "249158",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249158"
+    },
+    {
+      "matchId": "249156",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249156"
+    },
+    {
+      "matchId": "249165",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249165"
+    },
+    {
+      "matchId": "249160",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249160"
+    },
+    {
+      "matchId": "249163",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249163"
+    },
+    {
+      "matchId": "249164",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249164"
+    },
+    {
+      "matchId": "249161",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249161"
+    },
+    {
+      "matchId": "249159",
+      "season": "2023-24",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249159"
+    },
+    {
+      "matchId": "249167",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249167"
+    },
+    {
+      "matchId": "249172",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249172"
+    },
+    {
+      "matchId": "249168",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249168"
+    },
+    {
+      "matchId": "249166",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249166"
+    },
+    {
+      "matchId": "249175",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249175"
+    },
+    {
+      "matchId": "249170",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249170"
+    },
+    {
+      "matchId": "249171",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249171"
+    },
+    {
+      "matchId": "249173",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249173"
+    },
+    {
+      "matchId": "249169",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249169"
+    },
+    {
+      "matchId": "249174",
+      "season": "2023-24",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249174"
+    },
+    {
+      "matchId": "249185",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249185"
+    },
+    {
+      "matchId": "249178",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249178"
+    },
+    {
+      "matchId": "249182",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249182"
+    },
+    {
+      "matchId": "249184",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249184"
+    },
+    {
+      "matchId": "249179",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249179"
+    },
+    {
+      "matchId": "249181",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249181"
+    },
+    {
+      "matchId": "249176",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249176"
+    },
+    {
+      "matchId": "249177",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249177"
+    },
+    {
+      "matchId": "249180",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249180"
+    },
+    {
+      "matchId": "249183",
+      "season": "2023-24",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249183"
+    },
+    {
+      "matchId": "249188",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249188"
+    },
+    {
+      "matchId": "249195",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249195"
+    },
+    {
+      "matchId": "249191",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249191"
+    },
+    {
+      "matchId": "249190",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249190"
+    },
+    {
+      "matchId": "249192",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249192"
+    },
+    {
+      "matchId": "249187",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249187"
+    },
+    {
+      "matchId": "249193",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249193"
+    },
+    {
+      "matchId": "249186",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249186"
+    },
+    {
+      "matchId": "249194",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249194"
+    },
+    {
+      "matchId": "252523",
+      "season": "2023-24",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=252523"
+    },
+    {
+      "matchId": "249198",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249198"
+    },
+    {
+      "matchId": "249205",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249205"
+    },
+    {
+      "matchId": "249200",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249200"
+    },
+    {
+      "matchId": "249196",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249196"
+    },
+    {
+      "matchId": "249197",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249197"
+    },
+    {
+      "matchId": "249202",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249202"
+    },
+    {
+      "matchId": "249199",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249199"
+    },
+    {
+      "matchId": "249203",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249203"
+    },
+    {
+      "matchId": "249201",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249201"
+    },
+    {
+      "matchId": "249204",
+      "season": "2023-24",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249204"
+    },
+    {
+      "matchId": "249210",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249210"
+    },
+    {
+      "matchId": "249212",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249212"
+    },
+    {
+      "matchId": "249211",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249211"
+    },
+    {
+      "matchId": "249207",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249207"
+    },
+    {
+      "matchId": "249215",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249215"
+    },
+    {
+      "matchId": "249213",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249213"
+    },
+    {
+      "matchId": "249208",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249208"
+    },
+    {
+      "matchId": "249214",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249214"
+    },
+    {
+      "matchId": "249209",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249209"
+    },
+    {
+      "matchId": "249206",
+      "season": "2023-24",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249206"
+    },
+    {
+      "matchId": "249219",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249219"
+    },
+    {
+      "matchId": "249222",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249222"
+    },
+    {
+      "matchId": "249224",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249224"
+    },
+    {
+      "matchId": "249217",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249217"
+    },
+    {
+      "matchId": "249218",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249218"
+    },
+    {
+      "matchId": "249221",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249221"
+    },
+    {
+      "matchId": "249220",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249220"
+    },
+    {
+      "matchId": "249225",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249225"
+    },
+    {
+      "matchId": "249223",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 5,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249223"
+    },
+    {
+      "matchId": "249216",
+      "season": "2023-24",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249216"
+    },
+    {
+      "matchId": "249230",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249230"
+    },
+    {
+      "matchId": "249229",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249229"
+    },
+    {
+      "matchId": "249232",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249232"
+    },
+    {
+      "matchId": "249227",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249227"
+    },
+    {
+      "matchId": "249234",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249234"
+    },
+    {
+      "matchId": "249231",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249231"
+    },
+    {
+      "matchId": "249233",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249233"
+    },
+    {
+      "matchId": "249226",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249226"
+    },
+    {
+      "matchId": "249235",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249235"
+    },
+    {
+      "matchId": "249228",
+      "season": "2023-24",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249228"
+    },
+    {
+      "matchId": "249240",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249240"
+    },
+    {
+      "matchId": "249238",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249238"
+    },
+    {
+      "matchId": "249245",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249245"
+    },
+    {
+      "matchId": "249236",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249236"
+    },
+    {
+      "matchId": "249239",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249239"
+    },
+    {
+      "matchId": "249243",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249243"
+    },
+    {
+      "matchId": "249244",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249244"
+    },
+    {
+      "matchId": "249237",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249237"
+    },
+    {
+      "matchId": "249241",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249241"
+    },
+    {
+      "matchId": "249242",
+      "season": "2023-24",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249242"
+    },
+    {
+      "matchId": "249246",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249246"
+    },
+    {
+      "matchId": "249248",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249248"
+    },
+    {
+      "matchId": "249249",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249249"
+    },
+    {
+      "matchId": "249250",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249250"
+    },
+    {
+      "matchId": "249255",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249255"
+    },
+    {
+      "matchId": "249254",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249254"
+    },
+    {
+      "matchId": "249251",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249251"
+    },
+    {
+      "matchId": "249247",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249247"
+    },
+    {
+      "matchId": "249252",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249252"
+    },
+    {
+      "matchId": "249253",
+      "season": "2023-24",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249253"
+    },
+    {
+      "matchId": "249258",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249258"
+    },
+    {
+      "matchId": "249259",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249259"
+    },
+    {
+      "matchId": "249263",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249263"
+    },
+    {
+      "matchId": "249257",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249257"
+    },
+    {
+      "matchId": "249261",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249261"
+    },
+    {
+      "matchId": "249265",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249265"
+    },
+    {
+      "matchId": "249264",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249264"
+    },
+    {
+      "matchId": "249262",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249262"
+    },
+    {
+      "matchId": "249256",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249256"
+    },
+    {
+      "matchId": "249260",
+      "season": "2023-24",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249260"
+    },
+    {
+      "matchId": "249274",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249274"
+    },
+    {
+      "matchId": "249272",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249272"
+    },
+    {
+      "matchId": "249266",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249266"
+    },
+    {
+      "matchId": "249271",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249271"
+    },
+    {
+      "matchId": "249268",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249268"
+    },
+    {
+      "matchId": "249269",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249269"
+    },
+    {
+      "matchId": "249275",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249275"
+    },
+    {
+      "matchId": "249273",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249273"
+    },
+    {
+      "matchId": "249270",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249270"
+    },
+    {
+      "matchId": "249267",
+      "season": "2023-24",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249267"
+    },
+    {
+      "matchId": "249280",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249280"
+    },
+    {
+      "matchId": "249277",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249277"
+    },
+    {
+      "matchId": "249278",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249278"
+    },
+    {
+      "matchId": "249285",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249285"
+    },
+    {
+      "matchId": "249279",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249279"
+    },
+    {
+      "matchId": "249283",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249283"
+    },
+    {
+      "matchId": "249276",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249276"
+    },
+    {
+      "matchId": "249282",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249282"
+    },
+    {
+      "matchId": "249281",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249281"
+    },
+    {
+      "matchId": "249284",
+      "season": "2023-24",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249284"
+    },
+    {
+      "matchId": "249286",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249286"
+    },
+    {
+      "matchId": "249291",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249291"
+    },
+    {
+      "matchId": "249295",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249295"
+    },
+    {
+      "matchId": "249290",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249290"
+    },
+    {
+      "matchId": "249289",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249289"
+    },
+    {
+      "matchId": "249287",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249287"
+    },
+    {
+      "matchId": "249292",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249292"
+    },
+    {
+      "matchId": "249294",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249294"
+    },
+    {
+      "matchId": "249288",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249288"
+    },
+    {
+      "matchId": "249293",
+      "season": "2023-24",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249293"
+    },
+    {
+      "matchId": "249298",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249298"
+    },
+    {
+      "matchId": "249302",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249302"
+    },
+    {
+      "matchId": "249303",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249303"
+    },
+    {
+      "matchId": "249299",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249299"
+    },
+    {
+      "matchId": "249297",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249297"
+    },
+    {
+      "matchId": "249301",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249301"
+    },
+    {
+      "matchId": "249300",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249300"
+    },
+    {
+      "matchId": "249296",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249296"
+    },
+    {
+      "matchId": "249304",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249304"
+    },
+    {
+      "matchId": "249305",
+      "season": "2023-24",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249305"
+    },
+    {
+      "matchId": "249315",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249315"
+    },
+    {
+      "matchId": "249307",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249307"
+    },
+    {
+      "matchId": "249309",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249309"
+    },
+    {
+      "matchId": "249308",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249308"
+    },
+    {
+      "matchId": "249310",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249310"
+    },
+    {
+      "matchId": "249306",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249306"
+    },
+    {
+      "matchId": "249313",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 7,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249313"
+    },
+    {
+      "matchId": "249311",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249311"
+    },
+    {
+      "matchId": "249314",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249314"
+    },
+    {
+      "matchId": "249312",
+      "season": "2023-24",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249312"
+    },
+    {
+      "matchId": "249321",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249321"
+    },
+    {
+      "matchId": "249317",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249317"
+    },
+    {
+      "matchId": "249320",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249320"
+    },
+    {
+      "matchId": "249318",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249318"
+    },
+    {
+      "matchId": "249316",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249316"
+    },
+    {
+      "matchId": "249322",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249322"
+    },
+    {
+      "matchId": "249323",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249323"
+    },
+    {
+      "matchId": "249324",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249324"
+    },
+    {
+      "matchId": "249319",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249319"
+    },
+    {
+      "matchId": "249325",
+      "season": "2023-24",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 5,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249325"
+    },
+    {
+      "matchId": "249332",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249332"
+    },
+    {
+      "matchId": "249334",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249334"
+    },
+    {
+      "matchId": "249331",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249331"
+    },
+    {
+      "matchId": "249333",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249333"
+    },
+    {
+      "matchId": "249335",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249335"
+    },
+    {
+      "matchId": "249330",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249330"
+    },
+    {
+      "matchId": "249326",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249326"
+    },
+    {
+      "matchId": "249327",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249327"
+    },
+    {
+      "matchId": "249329",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249329"
+    },
+    {
+      "matchId": "249328",
+      "season": "2023-24",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249328"
+    },
+    {
+      "matchId": "249340",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249340"
+    },
+    {
+      "matchId": "249342",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249342"
+    },
+    {
+      "matchId": "249343",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249343"
+    },
+    {
+      "matchId": "249345",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249345"
+    },
+    {
+      "matchId": "249344",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249344"
+    },
+    {
+      "matchId": "249339",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249339"
+    },
+    {
+      "matchId": "249341",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249341"
+    },
+    {
+      "matchId": "249338",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249338"
+    },
+    {
+      "matchId": "249336",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249336"
+    },
+    {
+      "matchId": "249337",
+      "season": "2023-24",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249337"
+    },
+    {
+      "matchId": "249351",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249351"
+    },
+    {
+      "matchId": "249350",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249350"
+    },
+    {
+      "matchId": "249348",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249348"
+    },
+    {
+      "matchId": "249349",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249349"
+    },
+    {
+      "matchId": "249347",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249347"
+    },
+    {
+      "matchId": "249353",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249353"
+    },
+    {
+      "matchId": "249354",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249354"
+    },
+    {
+      "matchId": "249355",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249355"
+    },
+    {
+      "matchId": "249352",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249352"
+    },
+    {
+      "matchId": "249346",
+      "season": "2023-24",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249346"
+    },
+    {
+      "matchId": "249363",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249363"
+    },
+    {
+      "matchId": "249356",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249356"
+    },
+    {
+      "matchId": "249364",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249364"
+    },
+    {
+      "matchId": "249365",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249365"
+    },
+    {
+      "matchId": "249361",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249361"
+    },
+    {
+      "matchId": "249360",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249360"
+    },
+    {
+      "matchId": "249359",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249359"
+    },
+    {
+      "matchId": "249358",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249358"
+    },
+    {
+      "matchId": "249362",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249362"
+    },
+    {
+      "matchId": "249357",
+      "season": "2023-24",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249357"
+    },
+    {
+      "matchId": "249369",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249369"
+    },
+    {
+      "matchId": "249368",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249368"
+    },
+    {
+      "matchId": "249370",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249370"
+    },
+    {
+      "matchId": "249371",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249371"
+    },
+    {
+      "matchId": "249375",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249375"
+    },
+    {
+      "matchId": "249373",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249373"
+    },
+    {
+      "matchId": "249374",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249374"
+    },
+    {
+      "matchId": "249366",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249366"
+    },
+    {
+      "matchId": "249372",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249372"
+    },
+    {
+      "matchId": "249367",
+      "season": "2023-24",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249367"
+    },
+    {
+      "matchId": "249377",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249377"
+    },
+    {
+      "matchId": "249376",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249376"
+    },
+    {
+      "matchId": "249383",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249383"
+    },
+    {
+      "matchId": "249384",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249384"
+    },
+    {
+      "matchId": "249381",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249381"
+    },
+    {
+      "matchId": "249385",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249385"
+    },
+    {
+      "matchId": "249380",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249380"
+    },
+    {
+      "matchId": "249379",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249379"
+    },
+    {
+      "matchId": "249382",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249382"
+    },
+    {
+      "matchId": "249378",
+      "season": "2023-24",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249378"
+    },
+    {
+      "matchId": "249394",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249394"
+    },
+    {
+      "matchId": "249388",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249388"
+    },
+    {
+      "matchId": "249391",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249391"
+    },
+    {
+      "matchId": "249395",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249395"
+    },
+    {
+      "matchId": "249393",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249393"
+    },
+    {
+      "matchId": "249386",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249386"
+    },
+    {
+      "matchId": "249387",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249387"
+    },
+    {
+      "matchId": "249389",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249389"
+    },
+    {
+      "matchId": "249392",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249392"
+    },
+    {
+      "matchId": "249390",
+      "season": "2023-24",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249390"
+    },
+    {
+      "matchId": "249398",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249398"
+    },
+    {
+      "matchId": "249397",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249397"
+    },
+    {
+      "matchId": "249401",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249401"
+    },
+    {
+      "matchId": "249400",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249400"
+    },
+    {
+      "matchId": "249405",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249405"
+    },
+    {
+      "matchId": "249399",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249399"
+    },
+    {
+      "matchId": "249404",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249404"
+    },
+    {
+      "matchId": "249402",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249402"
+    },
+    {
+      "matchId": "249396",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249396"
+    },
+    {
+      "matchId": "249403",
+      "season": "2023-24",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249403"
+    },
+    {
+      "matchId": "249411",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249411"
+    },
+    {
+      "matchId": "249413",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249413"
+    },
+    {
+      "matchId": "249414",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249414"
+    },
+    {
+      "matchId": "249407",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249407"
+    },
+    {
+      "matchId": "249408",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249408"
+    },
+    {
+      "matchId": "249410",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249410"
+    },
+    {
+      "matchId": "249412",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249412"
+    },
+    {
+      "matchId": "249409",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249409"
+    },
+    {
+      "matchId": "249415",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249415"
+    },
+    {
+      "matchId": "249406",
+      "season": "2023-24",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249406"
+    },
+    {
+      "matchId": "249425",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249425"
+    },
+    {
+      "matchId": "249421",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249421"
+    },
+    {
+      "matchId": "249418",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249418"
+    },
+    {
+      "matchId": "249416",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249416"
+    },
+    {
+      "matchId": "249424",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249424"
+    },
+    {
+      "matchId": "249420",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249420"
+    },
+    {
+      "matchId": "249423",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249423"
+    },
+    {
+      "matchId": "249419",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249419"
+    },
+    {
+      "matchId": "249417",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249417"
+    },
+    {
+      "matchId": "249422",
+      "season": "2023-24",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249422"
+    },
+    {
+      "matchId": "249434",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249434"
+    },
+    {
+      "matchId": "249426",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249426"
+    },
+    {
+      "matchId": "249433",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249433"
+    },
+    {
+      "matchId": "249427",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249427"
+    },
+    {
+      "matchId": "249429",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249429"
+    },
+    {
+      "matchId": "249435",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249435"
+    },
+    {
+      "matchId": "249428",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249428"
+    },
+    {
+      "matchId": "249431",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249431"
+    },
+    {
+      "matchId": "249432",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249432"
+    },
+    {
+      "matchId": "249430",
+      "season": "2023-24",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249430"
+    },
+    {
+      "matchId": "249445",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 6,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249445"
+    },
+    {
+      "matchId": "249441",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 5,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249441"
+    },
+    {
+      "matchId": "249440",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249440"
+    },
+    {
+      "matchId": "249442",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249442"
+    },
+    {
+      "matchId": "249439",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249439"
+    },
+    {
+      "matchId": "249438",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249438"
+    },
+    {
+      "matchId": "249436",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249436"
+    },
+    {
+      "matchId": "249444",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249444"
+    },
+    {
+      "matchId": "249437",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249437"
+    },
+    {
+      "matchId": "249443",
+      "season": "2023-24",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249443"
+    },
+    {
+      "matchId": "249455",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249455"
+    },
+    {
+      "matchId": "249447",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249447"
+    },
+    {
+      "matchId": "249451",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249451"
+    },
+    {
+      "matchId": "249446",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249446"
+    },
+    {
+      "matchId": "249454",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249454"
+    },
+    {
+      "matchId": "249452",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249452"
+    },
+    {
+      "matchId": "249448",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249448"
+    },
+    {
+      "matchId": "249453",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249453"
+    },
+    {
+      "matchId": "249449",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249449"
+    },
+    {
+      "matchId": "249450",
+      "season": "2023-24",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249450"
+    },
+    {
+      "matchId": "249465",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249465"
+    },
+    {
+      "matchId": "249464",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249464"
+    },
+    {
+      "matchId": "249459",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249459"
+    },
+    {
+      "matchId": "249456",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249456"
+    },
+    {
+      "matchId": "249458",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249458"
+    },
+    {
+      "matchId": "249462",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249462"
+    },
+    {
+      "matchId": "249461",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249461"
+    },
+    {
+      "matchId": "249460",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249460"
+    },
+    {
+      "matchId": "249463",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249463"
+    },
+    {
+      "matchId": "249457",
+      "season": "2023-24",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249457"
+    },
+    {
+      "matchId": "249474",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249474"
+    },
+    {
+      "matchId": "249466",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249466"
+    },
+    {
+      "matchId": "249475",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249475"
+    },
+    {
+      "matchId": "249469",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249469"
+    },
+    {
+      "matchId": "249470",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249470"
+    },
+    {
+      "matchId": "249471",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249471"
+    },
+    {
+      "matchId": "249467",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249467"
+    },
+    {
+      "matchId": "249472",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249472"
+    },
+    {
+      "matchId": "249473",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249473"
+    },
+    {
+      "matchId": "249468",
+      "season": "2023-24",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249468"
+    },
+    {
+      "matchId": "249484",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249484"
+    },
+    {
+      "matchId": "249482",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249482"
+    },
+    {
+      "matchId": "249481",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249481"
+    },
+    {
+      "matchId": "249480",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249480"
+    },
+    {
+      "matchId": "249479",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249479"
+    },
+    {
+      "matchId": "249478",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249478"
+    },
+    {
+      "matchId": "249476",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249476"
+    },
+    {
+      "matchId": "249477",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249477"
+    },
+    {
+      "matchId": "249485",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249485"
+    },
+    {
+      "matchId": "249483",
+      "season": "2023-24",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249483"
+    },
+    {
+      "matchId": "249488",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249488"
+    },
+    {
+      "matchId": "249495",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249495"
+    },
+    {
+      "matchId": "249489",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249489"
+    },
+    {
+      "matchId": "249493",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249493"
+    },
+    {
+      "matchId": "249491",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249491"
+    },
+    {
+      "matchId": "249487",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 6,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249487"
+    },
+    {
+      "matchId": "249490",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249490"
+    },
+    {
+      "matchId": "249486",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249486"
+    },
+    {
+      "matchId": "249494",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249494"
+    },
+    {
+      "matchId": "249492",
+      "season": "2023-24",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249492"
+    },
+    {
+      "matchId": "249499",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249499"
+    },
+    {
+      "matchId": "249505",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249505"
+    },
+    {
+      "matchId": "249502",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249502"
+    },
+    {
+      "matchId": "249500",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249500"
+    },
+    {
+      "matchId": "249501",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249501"
+    },
+    {
+      "matchId": "249498",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249498"
+    },
+    {
+      "matchId": "249504",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 6,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249504"
+    },
+    {
+      "matchId": "249496",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249496"
+    },
+    {
+      "matchId": "249503",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249503"
+    },
+    {
+      "matchId": "249497",
+      "season": "2023-24",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249497"
+    },
+    {
+      "matchId": "249507",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249507"
+    },
+    {
+      "matchId": "249511",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249511"
+    },
+    {
+      "matchId": "249515",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249515"
+    },
+    {
+      "matchId": "249510",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 6,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249510"
+    },
+    {
+      "matchId": "249513",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249513"
+    },
+    {
+      "matchId": "249506",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249506"
+    },
+    {
+      "matchId": "249512",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249512"
+    },
+    {
+      "matchId": "249508",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249508"
+    },
+    {
+      "matchId": "249509",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249509"
+    },
+    {
+      "matchId": "249514",
+      "season": "2023-24",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249514"
+    },
+    {
+      "matchId": "249520",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249520"
+    },
+    {
+      "matchId": "249524",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249524"
+    },
+    {
+      "matchId": "249516",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249516"
+    },
+    {
+      "matchId": "249519",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249519"
+    },
+    {
+      "matchId": "249518",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249518"
+    },
+    {
+      "matchId": "249525",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249525"
+    },
+    {
+      "matchId": "249522",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249522"
+    },
+    {
+      "matchId": "249521",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249521"
+    },
+    {
+      "matchId": "249517",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249517"
+    },
+    {
+      "matchId": "249523",
+      "season": "2023-24",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249523"
+    },
+    {
+      "matchId": "249532",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "BITEXEN ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249532"
+    },
+    {
+      "matchId": "249526",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "EMS YAPI SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "MONDİHOME KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249526"
+    },
+    {
+      "matchId": "249529",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "VAVACARS FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "YILPORT SAMSUNSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249529"
+    },
+    {
+      "matchId": "249534",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3595",
+        "sourceName": "MKE ANKARAGÜCÜ"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249534"
+    },
+    {
+      "matchId": "249528",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249528"
+    },
+    {
+      "matchId": "249533",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249533"
+    },
+    {
+      "matchId": "249527",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3617",
+        "sourceName": "İSTANBULSPOR A.Ş."
+      },
+      "score": {
+        "home": 6,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249527"
+    },
+    {
+      "matchId": "249535",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249535"
+    },
+    {
+      "matchId": "249530",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3623",
+        "sourceName": "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249530"
+    },
+    {
+      "matchId": "249531",
+      "season": "2023-24",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "YUKATEL ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 6,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=249531"
+    }
+  ]
+}

@@ -1,0 +1,5826 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "tff-fixtures-2025-26",
+  "season": "2025-26",
+  "retrievedAt": "2026-09-30T17:36:45.081Z",
+  "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1768",
+  "sourceType": "federation",
+  "reliability": 1,
+  "dataQuality": "VERIFIED",
+  "records": [
+    {
+      "matchId": "283559",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283559"
+    },
+    {
+      "matchId": "283557",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283557"
+    },
+    {
+      "matchId": "283555",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283555"
+    },
+    {
+      "matchId": "283554",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283554"
+    },
+    {
+      "matchId": "283561",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283561"
+    },
+    {
+      "matchId": "283556",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283556"
+    },
+    {
+      "matchId": "283558",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283558"
+    },
+    {
+      "matchId": "283560",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283560"
+    },
+    {
+      "matchId": "283562",
+      "season": "2025-26",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283562"
+    },
+    {
+      "matchId": "283569",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "FATİH KARAGÜMRÜK A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283569"
+    },
+    {
+      "matchId": "283566",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283566"
+    },
+    {
+      "matchId": "283568",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283568"
+    },
+    {
+      "matchId": "283571",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283571"
+    },
+    {
+      "matchId": "283570",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283570"
+    },
+    {
+      "matchId": "283567",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283567"
+    },
+    {
+      "matchId": "283564",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283564"
+    },
+    {
+      "matchId": "283565",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283565"
+    },
+    {
+      "matchId": "283563",
+      "season": "2025-26",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283563"
+    },
+    {
+      "matchId": "283576",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283576"
+    },
+    {
+      "matchId": "283578",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283578"
+    },
+    {
+      "matchId": "283577",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283577"
+    },
+    {
+      "matchId": "283580",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283580"
+    },
+    {
+      "matchId": "283574",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283574"
+    },
+    {
+      "matchId": "283572",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283572"
+    },
+    {
+      "matchId": "283575",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283575"
+    },
+    {
+      "matchId": "283573",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283573"
+    },
+    {
+      "matchId": "283579",
+      "season": "2025-26",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283579"
+    },
+    {
+      "matchId": "283586",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283586"
+    },
+    {
+      "matchId": "283581",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283581"
+    },
+    {
+      "matchId": "283587",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283587"
+    },
+    {
+      "matchId": "283582",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283582"
+    },
+    {
+      "matchId": "283589",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283589"
+    },
+    {
+      "matchId": "283583",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283583"
+    },
+    {
+      "matchId": "283588",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283588"
+    },
+    {
+      "matchId": "283584",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283584"
+    },
+    {
+      "matchId": "283585",
+      "season": "2025-26",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283585"
+    },
+    {
+      "matchId": "283590",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283590"
+    },
+    {
+      "matchId": "283592",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283592"
+    },
+    {
+      "matchId": "283593",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283593"
+    },
+    {
+      "matchId": "283591",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283591"
+    },
+    {
+      "matchId": "283594",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283594"
+    },
+    {
+      "matchId": "283595",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283595"
+    },
+    {
+      "matchId": "283596",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283596"
+    },
+    {
+      "matchId": "283598",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283598"
+    },
+    {
+      "matchId": "283597",
+      "season": "2025-26",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283597"
+    },
+    {
+      "matchId": "283604",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283604"
+    },
+    {
+      "matchId": "283600",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283600"
+    },
+    {
+      "matchId": "283601",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283601"
+    },
+    {
+      "matchId": "283606",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283606"
+    },
+    {
+      "matchId": "283602",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283602"
+    },
+    {
+      "matchId": "283607",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283607"
+    },
+    {
+      "matchId": "283603",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283603"
+    },
+    {
+      "matchId": "283599",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283599"
+    },
+    {
+      "matchId": "283605",
+      "season": "2025-26",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283605"
+    },
+    {
+      "matchId": "283611",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283611"
+    },
+    {
+      "matchId": "283613",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283613"
+    },
+    {
+      "matchId": "283612",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283612"
+    },
+    {
+      "matchId": "283608",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283608"
+    },
+    {
+      "matchId": "283615",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283615"
+    },
+    {
+      "matchId": "283614",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283614"
+    },
+    {
+      "matchId": "283616",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283616"
+    },
+    {
+      "matchId": "283609",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283609"
+    },
+    {
+      "matchId": "283610",
+      "season": "2025-26",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283610"
+    },
+    {
+      "matchId": "283619",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283619"
+    },
+    {
+      "matchId": "283618",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283618"
+    },
+    {
+      "matchId": "283625",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283625"
+    },
+    {
+      "matchId": "283624",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283624"
+    },
+    {
+      "matchId": "283623",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283623"
+    },
+    {
+      "matchId": "283620",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283620"
+    },
+    {
+      "matchId": "283617",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283617"
+    },
+    {
+      "matchId": "283622",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283622"
+    },
+    {
+      "matchId": "283621",
+      "season": "2025-26",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283621"
+    },
+    {
+      "matchId": "283630",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283630"
+    },
+    {
+      "matchId": "283628",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283628"
+    },
+    {
+      "matchId": "283633",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283633"
+    },
+    {
+      "matchId": "283627",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283627"
+    },
+    {
+      "matchId": "283634",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283634"
+    },
+    {
+      "matchId": "283631",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283631"
+    },
+    {
+      "matchId": "283632",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283632"
+    },
+    {
+      "matchId": "283629",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283629"
+    },
+    {
+      "matchId": "283626",
+      "season": "2025-26",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283626"
+    },
+    {
+      "matchId": "283639",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283639"
+    },
+    {
+      "matchId": "283643",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283643"
+    },
+    {
+      "matchId": "283637",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283637"
+    },
+    {
+      "matchId": "283642",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283642"
+    },
+    {
+      "matchId": "283636",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283636"
+    },
+    {
+      "matchId": "283635",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283635"
+    },
+    {
+      "matchId": "283641",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283641"
+    },
+    {
+      "matchId": "283640",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283640"
+    },
+    {
+      "matchId": "283638",
+      "season": "2025-26",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283638"
+    },
+    {
+      "matchId": "283648",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283648"
+    },
+    {
+      "matchId": "283650",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283650"
+    },
+    {
+      "matchId": "283649",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283649"
+    },
+    {
+      "matchId": "283645",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283645"
+    },
+    {
+      "matchId": "283646",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283646"
+    },
+    {
+      "matchId": "283652",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283652"
+    },
+    {
+      "matchId": "283644",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283644"
+    },
+    {
+      "matchId": "283651",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283651"
+    },
+    {
+      "matchId": "283647",
+      "season": "2025-26",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283647"
+    },
+    {
+      "matchId": "283660",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283660"
+    },
+    {
+      "matchId": "283658",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283658"
+    },
+    {
+      "matchId": "283655",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283655"
+    },
+    {
+      "matchId": "283654",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283654"
+    },
+    {
+      "matchId": "283653",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283653"
+    },
+    {
+      "matchId": "283659",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283659"
+    },
+    {
+      "matchId": "283656",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283656"
+    },
+    {
+      "matchId": "283657",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283657"
+    },
+    {
+      "matchId": "283661",
+      "season": "2025-26",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283661"
+    },
+    {
+      "matchId": "283668",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283668"
+    },
+    {
+      "matchId": "283662",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283662"
+    },
+    {
+      "matchId": "283670",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283670"
+    },
+    {
+      "matchId": "283664",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283664"
+    },
+    {
+      "matchId": "283665",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283665"
+    },
+    {
+      "matchId": "283667",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283667"
+    },
+    {
+      "matchId": "283669",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 5,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283669"
+    },
+    {
+      "matchId": "283666",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283666"
+    },
+    {
+      "matchId": "283663",
+      "season": "2025-26",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283663"
+    },
+    {
+      "matchId": "283679",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283679"
+    },
+    {
+      "matchId": "283673",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283673"
+    },
+    {
+      "matchId": "283671",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283671"
+    },
+    {
+      "matchId": "283676",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283676"
+    },
+    {
+      "matchId": "283678",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283678"
+    },
+    {
+      "matchId": "283675",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283675"
+    },
+    {
+      "matchId": "283672",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283672"
+    },
+    {
+      "matchId": "283674",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283674"
+    },
+    {
+      "matchId": "283677",
+      "season": "2025-26",
+      "week": 14,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283677"
+    },
+    {
+      "matchId": "283686",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283686"
+    },
+    {
+      "matchId": "283684",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283684"
+    },
+    {
+      "matchId": "283680",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283680"
+    },
+    {
+      "matchId": "283681",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283681"
+    },
+    {
+      "matchId": "283687",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283687"
+    },
+    {
+      "matchId": "283688",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283688"
+    },
+    {
+      "matchId": "283685",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283685"
+    },
+    {
+      "matchId": "283683",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283683"
+    },
+    {
+      "matchId": "283682",
+      "season": "2025-26",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283682"
+    },
+    {
+      "matchId": "283689",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283689"
+    },
+    {
+      "matchId": "283696",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283696"
+    },
+    {
+      "matchId": "283690",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283690"
+    },
+    {
+      "matchId": "283697",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283697"
+    },
+    {
+      "matchId": "283693",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283693"
+    },
+    {
+      "matchId": "283691",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283691"
+    },
+    {
+      "matchId": "283694",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283694"
+    },
+    {
+      "matchId": "283692",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283692"
+    },
+    {
+      "matchId": "283695",
+      "season": "2025-26",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283695"
+    },
+    {
+      "matchId": "283706",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283706"
+    },
+    {
+      "matchId": "283699",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283699"
+    },
+    {
+      "matchId": "283698",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283698"
+    },
+    {
+      "matchId": "283700",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283700"
+    },
+    {
+      "matchId": "283701",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283701"
+    },
+    {
+      "matchId": "283703",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283703"
+    },
+    {
+      "matchId": "283704",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283704"
+    },
+    {
+      "matchId": "283705",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283705"
+    },
+    {
+      "matchId": "283702",
+      "season": "2025-26",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 5,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283702"
+    },
+    {
+      "matchId": "283711",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283711"
+    },
+    {
+      "matchId": "283712",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283712"
+    },
+    {
+      "matchId": "283709",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283709"
+    },
+    {
+      "matchId": "283710",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283710"
+    },
+    {
+      "matchId": "283713",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283713"
+    },
+    {
+      "matchId": "283708",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283708"
+    },
+    {
+      "matchId": "283715",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283715"
+    },
+    {
+      "matchId": "283707",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283707"
+    },
+    {
+      "matchId": "283714",
+      "season": "2025-26",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283714"
+    },
+    {
+      "matchId": "283716",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283716"
+    },
+    {
+      "matchId": "283724",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283724"
+    },
+    {
+      "matchId": "283720",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283720"
+    },
+    {
+      "matchId": "283722",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283722"
+    },
+    {
+      "matchId": "283723",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283723"
+    },
+    {
+      "matchId": "283717",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283717"
+    },
+    {
+      "matchId": "283719",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283719"
+    },
+    {
+      "matchId": "283721",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283721"
+    },
+    {
+      "matchId": "283718",
+      "season": "2025-26",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283718"
+    },
+    {
+      "matchId": "283727",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283727"
+    },
+    {
+      "matchId": "283728",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283728"
+    },
+    {
+      "matchId": "283726",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283726"
+    },
+    {
+      "matchId": "283725",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283725"
+    },
+    {
+      "matchId": "283732",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283732"
+    },
+    {
+      "matchId": "283729",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283729"
+    },
+    {
+      "matchId": "283730",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283730"
+    },
+    {
+      "matchId": "283733",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283733"
+    },
+    {
+      "matchId": "283731",
+      "season": "2025-26",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283731"
+    },
+    {
+      "matchId": "283736",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283736"
+    },
+    {
+      "matchId": "283735",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283735"
+    },
+    {
+      "matchId": "283737",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283737"
+    },
+    {
+      "matchId": "283738",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283738"
+    },
+    {
+      "matchId": "283740",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283740"
+    },
+    {
+      "matchId": "283739",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283739"
+    },
+    {
+      "matchId": "283741",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283741"
+    },
+    {
+      "matchId": "283734",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283734"
+    },
+    {
+      "matchId": "283742",
+      "season": "2025-26",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283742"
+    },
+    {
+      "matchId": "283746",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283746"
+    },
+    {
+      "matchId": "283743",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 5,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283743"
+    },
+    {
+      "matchId": "283744",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283744"
+    },
+    {
+      "matchId": "283750",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283750"
+    },
+    {
+      "matchId": "283749",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283749"
+    },
+    {
+      "matchId": "283745",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283745"
+    },
+    {
+      "matchId": "283751",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283751"
+    },
+    {
+      "matchId": "283748",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283748"
+    },
+    {
+      "matchId": "283747",
+      "season": "2025-26",
+      "week": 22,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283747"
+    },
+    {
+      "matchId": "283760",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283760"
+    },
+    {
+      "matchId": "283756",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283756"
+    },
+    {
+      "matchId": "283758",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283758"
+    },
+    {
+      "matchId": "283759",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283759"
+    },
+    {
+      "matchId": "283755",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283755"
+    },
+    {
+      "matchId": "283754",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283754"
+    },
+    {
+      "matchId": "283753",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283753"
+    },
+    {
+      "matchId": "283757",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283757"
+    },
+    {
+      "matchId": "283752",
+      "season": "2025-26",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283752"
+    },
+    {
+      "matchId": "283762",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283762"
+    },
+    {
+      "matchId": "283765",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283765"
+    },
+    {
+      "matchId": "283768",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283768"
+    },
+    {
+      "matchId": "283761",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283761"
+    },
+    {
+      "matchId": "283764",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283764"
+    },
+    {
+      "matchId": "283763",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283763"
+    },
+    {
+      "matchId": "283767",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283767"
+    },
+    {
+      "matchId": "283769",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283769"
+    },
+    {
+      "matchId": "283766",
+      "season": "2025-26",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283766"
+    },
+    {
+      "matchId": "283775",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283775"
+    },
+    {
+      "matchId": "283776",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283776"
+    },
+    {
+      "matchId": "283774",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283774"
+    },
+    {
+      "matchId": "283771",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283771"
+    },
+    {
+      "matchId": "283770",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283770"
+    },
+    {
+      "matchId": "283773",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283773"
+    },
+    {
+      "matchId": "283772",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283772"
+    },
+    {
+      "matchId": "283778",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283778"
+    },
+    {
+      "matchId": "283777",
+      "season": "2025-26",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283777"
+    },
+    {
+      "matchId": "283784",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283784"
+    },
+    {
+      "matchId": "283785",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283785"
+    },
+    {
+      "matchId": "283782",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283782"
+    },
+    {
+      "matchId": "283783",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283783"
+    },
+    {
+      "matchId": "283786",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283786"
+    },
+    {
+      "matchId": "283780",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283780"
+    },
+    {
+      "matchId": "283779",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283779"
+    },
+    {
+      "matchId": "283787",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283787"
+    },
+    {
+      "matchId": "283781",
+      "season": "2025-26",
+      "week": 26,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283781"
+    },
+    {
+      "matchId": "283793",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283793"
+    },
+    {
+      "matchId": "283796",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 5,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283796"
+    },
+    {
+      "matchId": "283790",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283790"
+    },
+    {
+      "matchId": "283789",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283789"
+    },
+    {
+      "matchId": "283788",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283788"
+    },
+    {
+      "matchId": "283792",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283792"
+    },
+    {
+      "matchId": "283795",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283795"
+    },
+    {
+      "matchId": "283794",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283794"
+    },
+    {
+      "matchId": "283791",
+      "season": "2025-26",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283791"
+    },
+    {
+      "matchId": "283803",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283803"
+    },
+    {
+      "matchId": "283800",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283800"
+    },
+    {
+      "matchId": "283805",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283805"
+    },
+    {
+      "matchId": "283802",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283802"
+    },
+    {
+      "matchId": "283799",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283799"
+    },
+    {
+      "matchId": "283797",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283797"
+    },
+    {
+      "matchId": "283798",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283798"
+    },
+    {
+      "matchId": "283804",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283804"
+    },
+    {
+      "matchId": "283801",
+      "season": "2025-26",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283801"
+    },
+    {
+      "matchId": "283807",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283807"
+    },
+    {
+      "matchId": "283812",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283812"
+    },
+    {
+      "matchId": "283808",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283808"
+    },
+    {
+      "matchId": "283813",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283813"
+    },
+    {
+      "matchId": "283810",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283810"
+    },
+    {
+      "matchId": "283814",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283814"
+    },
+    {
+      "matchId": "283806",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283806"
+    },
+    {
+      "matchId": "283809",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283809"
+    },
+    {
+      "matchId": "283811",
+      "season": "2025-26",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283811"
+    },
+    {
+      "matchId": "283822",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283822"
+    },
+    {
+      "matchId": "283816",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283816"
+    },
+    {
+      "matchId": "283821",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283821"
+    },
+    {
+      "matchId": "283815",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283815"
+    },
+    {
+      "matchId": "283820",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283820"
+    },
+    {
+      "matchId": "283819",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283819"
+    },
+    {
+      "matchId": "283817",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283817"
+    },
+    {
+      "matchId": "283818",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283818"
+    },
+    {
+      "matchId": "283823",
+      "season": "2025-26",
+      "week": 30,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283823"
+    },
+    {
+      "matchId": "283824",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283824"
+    },
+    {
+      "matchId": "283825",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283825"
+    },
+    {
+      "matchId": "283829",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283829"
+    },
+    {
+      "matchId": "283831",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283831"
+    },
+    {
+      "matchId": "283832",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283832"
+    },
+    {
+      "matchId": "283830",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283830"
+    },
+    {
+      "matchId": "283827",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283827"
+    },
+    {
+      "matchId": "283826",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283826"
+    },
+    {
+      "matchId": "283828",
+      "season": "2025-26",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283828"
+    },
+    {
+      "matchId": "283834",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283834"
+    },
+    {
+      "matchId": "283835",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283835"
+    },
+    {
+      "matchId": "283839",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283839"
+    },
+    {
+      "matchId": "283837",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283837"
+    },
+    {
+      "matchId": "283838",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283838"
+    },
+    {
+      "matchId": "283833",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283833"
+    },
+    {
+      "matchId": "283840",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283840"
+    },
+    {
+      "matchId": "283841",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283841"
+    },
+    {
+      "matchId": "283836",
+      "season": "2025-26",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283836"
+    },
+    {
+      "matchId": "283842",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283842"
+    },
+    {
+      "matchId": "283850",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283850"
+    },
+    {
+      "matchId": "283843",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "score": {
+        "home": 4,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283843"
+    },
+    {
+      "matchId": "283844",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283844"
+    },
+    {
+      "matchId": "283845",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283845"
+    },
+    {
+      "matchId": "283848",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283848"
+    },
+    {
+      "matchId": "283847",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283847"
+    },
+    {
+      "matchId": "283846",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283846"
+    },
+    {
+      "matchId": "283849",
+      "season": "2025-26",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283849"
+    },
+    {
+      "matchId": "283853",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283853"
+    },
+    {
+      "matchId": "283854",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3611",
+        "sourceName": "MISIRLI.COM.TR FATİH KARAGÜMRÜK"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283854"
+    },
+    {
+      "matchId": "283855",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283855"
+    },
+    {
+      "matchId": "283856",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283856"
+    },
+    {
+      "matchId": "283858",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3606",
+        "sourceName": "NATURA DÜNYASI GENÇLERBİRLİĞİ"
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283858"
+    },
+    {
+      "matchId": "283851",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283851"
+    },
+    {
+      "matchId": "283857",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283857"
+    },
+    {
+      "matchId": "283852",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "ZECORNER KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283852"
+    },
+    {
+      "matchId": "283859",
+      "season": "2025-26",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "HESAP.COM ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "132",
+        "sourceName": "KOCAELİSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=283859"
+    }
+  ]
+}
