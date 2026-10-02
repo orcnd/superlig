@@ -12,7 +12,7 @@
 .compact-dashboard.playful-dashboard nav a {color:#e2e9e5;padding:8px 0;font-weight:700}
 .compact-dashboard.playful-dashboard nav a::after {background:var(--accent);bottom:0}
 .compact-dashboard.playful-dashboard .hero {max-width:none;padding:36px max(24px,calc((100vw - 1132px)/2)) 28px;background:var(--pitch);color:var(--paper);border-bottom:7px solid var(--accent);overflow:hidden}
-.compact-dashboard.playful-dashboard .hero::after {width:240px;height:240px;border:2px solid #ffffff16;right:5%;top:40px;border-radius:50%;z-index:-1}
+.compact-dashboard.playful-dashboard .hero::after {width:240px;height:240px;border:0;background:url('/mikasa-football.svg') center/contain no-repeat;right:5%;top:40px;border-radius:50%;z-index:-1;opacity:.18}
 .compact-dashboard.playful-dashboard .hero-label {color:var(--accent);font-size:11px;letter-spacing:.16em;margin-bottom:16px}
 .compact-dashboard.playful-dashboard .hero h1 {max-width:920px;font-size:clamp(36px,5.8vw,66px);font-weight:900;line-height:1.02;letter-spacing:-.045em;margin-bottom:20px;text-transform:uppercase}
 .compact-dashboard.playful-dashboard .hero em {color:var(--accent);background:none;font-family:inherit;font-weight:900;font-style:normal}
@@ -68,5 +68,6 @@
 .compact-dashboard.playful-dashboard .decision-pie li {color:#374a60;line-height:1.6}
 .compact-dashboard.playful-dashboard .formula-band .formula-detail {color:#e0e9ee;font-size:14px;line-height:1.65}
 .compact-dashboard.playful-dashboard .formula-band .formula-detail small {color:#c6d5e0;font-size:12px}
+.compact-dashboard.playful-dashboard .hero.audit-hero::after {border:0;background-image:url('/mikasa-football.svg')}
 @media(max-width:850px){.compact-dashboard.playful-dashboard .hero{padding:28px 24px}.compact-dashboard.playful-dashboard .hero h1{font-size:46px}.compact-dashboard.playful-dashboard .site-header{padding:14px 24px}.compact-dashboard.playful-dashboard .compact-season-grid{grid-template-columns:1fr}.compact-dashboard.playful-dashboard .section h2{font-size:25px}}
 @media(max-width:540px){.compact-dashboard.playful-dashboard .hero{padding:26px 16px}.compact-dashboard.playful-dashboard .hero h1{font-size:36px}.compact-dashboard.playful-dashboard .hero>p:not(.eyebrow){font-size:14px}.compact-dashboard.playful-dashboard .hero::after{width:170px;height:170px;right:-80px;top:70px;border-width:2px}.compact-dashboard.playful-dashboard .site-header{padding:14px 16px}.compact-dashboard.playful-dashboard .compact-stats{gap:14px}.compact-dashboard.playful-dashboard .compact-stats>span{padding-right:12px}.compact-dashboard.playful-dashboard .compact-stats b{font-size:21px}.compact-dashboard.playful-dashboard .decision-pie-grid{grid-template-columns:1fr}.compact-dashboard.playful-dashboard .section h2{font-size:24px}.compact-dashboard.playful-dashboard .formula-head{flex-wrap:wrap}}
