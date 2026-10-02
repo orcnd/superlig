@@ -1,0 +1,72 @@
+.compact-dashboard.playful-dashboard {
+  --pitch: #102d2a;
+  --ink: #152c39;
+  --paper: #fffdf4;
+  --accent: #ffb14a;
+  background: #f1eddf;
+  color: var(--ink);
+}
+.compact-dashboard.playful-dashboard .site-header {background:var(--ink);border:0;backdrop-filter:none;min-height:72px}
+.compact-dashboard.playful-dashboard .brand {color:var(--paper);letter-spacing:.025em;font-size:14px}
+.compact-dashboard.playful-dashboard .brand>svg {color:var(--accent);width:26px;height:26px}
+.compact-dashboard.playful-dashboard nav a {color:#e2e9e5;padding:8px 0;font-weight:700}
+.compact-dashboard.playful-dashboard nav a::after {background:var(--accent);bottom:0}
+.compact-dashboard.playful-dashboard .hero {max-width:none;padding:36px max(24px,calc((100vw - 1132px)/2)) 28px;background:var(--pitch);color:var(--paper);border-bottom:7px solid var(--accent);overflow:hidden}
+.compact-dashboard.playful-dashboard .hero::after {width:240px;height:240px;border:2px solid #ffffff16;right:5%;top:40px;border-radius:50%;z-index:-1}
+.compact-dashboard.playful-dashboard .hero-label {color:var(--accent);font-size:11px;letter-spacing:.16em;margin-bottom:16px}
+.compact-dashboard.playful-dashboard .hero h1 {max-width:920px;font-size:clamp(36px,5.8vw,66px);font-weight:900;line-height:1.02;letter-spacing:-.045em;margin-bottom:20px;text-transform:uppercase}
+.compact-dashboard.playful-dashboard .hero em {color:var(--accent);background:none;font-family:inherit;font-weight:900;font-style:normal}
+.compact-dashboard.playful-dashboard .hero>p:not(.eyebrow) {max-width:840px;font-size:15px;line-height:1.65;color:#dae7df}
+.compact-dashboard.playful-dashboard .principle {background:transparent;border:0;border-left:3px solid var(--accent);border-radius:0;color:#d5e4dc;padding:4px 12px;font-size:12px;margin-top:18px;max-width:880px}
+.compact-dashboard.playful-dashboard .principle svg {flex-shrink:0;color:var(--accent)}
+.compact-dashboard.playful-dashboard .compact-stats {gap:12px 24px;margin-top:24px;color:#d5e4dc}
+.compact-dashboard.playful-dashboard .compact-stats>span {padding:0 20px 0 0;border:0;border-right:1px solid #537069;border-radius:0;background:none}
+.compact-dashboard.playful-dashboard .compact-stats b {color:var(--paper);font-size:24px;font-variant-numeric:tabular-nums}
+.compact-dashboard.playful-dashboard .compact-stats a {color:var(--accent)}
+.compact-dashboard.playful-dashboard .motion-toggle {background:#203e36;color:#f8edcd;border:1px solid #6e887a;border-radius:4px;min-height:36px}
+.compact-dashboard.playful-dashboard .section {padding-top:28px;padding-bottom:20px}
+.compact-dashboard.playful-dashboard .eyebrow {color:#7b521c;letter-spacing:.12em;font-size:10px}
+.compact-dashboard.playful-dashboard .section h2 {font-size:28px;letter-spacing:-.04em;font-weight:850}
+.compact-dashboard.playful-dashboard .ranking-table {background:var(--paper);border:2px solid var(--ink);border-radius:0;box-shadow:5px 5px 0 #c9c4b1;margin-top:16px}
+.compact-dashboard.playful-dashboard .ranking-table thead th {background:var(--ink);color:var(--paper);font-size:11px;padding:13px 14px}
+.compact-dashboard.playful-dashboard .ranking-table tbody th,.compact-dashboard.playful-dashboard .ranking-table td {padding:14px;font-size:13px;border-bottom:1px solid #e1ddcd}
+.compact-dashboard.playful-dashboard .ranking-table tbody tr:hover {background:#fff0cc}
+.compact-dashboard.playful-dashboard .ranking-table td:last-child {background:#fff0cc;border-left:1px solid #d1bd87}
+.compact-dashboard.playful-dashboard .ranking-table td:last-child strong {font-size:22px}
+.compact-dashboard.playful-dashboard .ranking-table .team-name img {width:32px;height:32px}
+.compact-dashboard.playful-dashboard .panel {background:var(--paper);border:1px solid #cec9b8;border-radius:4px;box-shadow:none}
+.compact-dashboard.playful-dashboard .compact-season {border-top:5px solid var(--ink);padding:16px;position:relative}
+.compact-dashboard.playful-dashboard .compact-season:nth-child(2) {border-top-color:#b57021}
+.compact-dashboard.playful-dashboard .compact-season:nth-child(3) {border-top-color:#256953}
+.compact-dashboard.playful-dashboard .compact-season h3 {font-size:25px;font-weight:850;letter-spacing:-.04em}
+.compact-dashboard.playful-dashboard .compact-season summary {border-top:1px dashed #c7c2ae;margin-top:12px;color:#344e48;min-height:42px}
+.compact-dashboard.playful-dashboard .outline {background:var(--paper);border:1px solid var(--ink);border-radius:3px;box-shadow:2px 2px 0 #cbc4ae;min-height:38px}
+.compact-dashboard.playful-dashboard .decision-pie-grid {grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.compact-dashboard.playful-dashboard .decision-pie-team {padding:16px;border-top:5px solid var(--team-accent);border-radius:4px}
+.compact-dashboard.playful-dashboard .decision-pie-team>.team-name {font-size:16px}
+.compact-dashboard.playful-dashboard .decision-pie {background:#f2efe4;padding:12px;border-radius:2px}
+.compact-dashboard.playful-dashboard .decision-pie h4 {font-size:12px;text-transform:uppercase;letter-spacing:.06em;font-weight:800}
+.compact-dashboard.playful-dashboard .decision-pie-chart {height:105px}
+.compact-dashboard.playful-dashboard .decision-pie li {font-size:12px}
+.compact-dashboard.playful-dashboard .formula-band {background:var(--ink);border-top:5px solid var(--accent);margin-top:30px;padding-top:24px;padding-bottom:24px}
+.compact-dashboard.playful-dashboard .formula-band .eyebrow {color:var(--accent)}
+.compact-dashboard.playful-dashboard .outline.light {background:transparent;color:var(--paper);border-color:#a7b5b7;box-shadow:none}
+.compact-dashboard.playful-dashboard footer {padding-top:22px;padding-bottom:22px;color:#41534e;border-top:0}
+.compact-dashboard.playful-dashboard a:focus-visible,.compact-dashboard.playful-dashboard button:focus-visible,.compact-dashboard.playful-dashboard summary:focus-visible {outline:3px solid #d57a0c;outline-offset:4px}
+/* Explicit contexts prevent legacy pastel rules from overriding readable pairs. */
+.compact-dashboard.playful-dashboard .hero .compact-stats>span,
+.compact-dashboard.playful-dashboard .hero .compact-stats>span:nth-child(2),
+.compact-dashboard.playful-dashboard .hero .compact-stats>span:nth-child(3) {background:var(--pitch);color:#dae7df;border:0;border-right:1px solid #537069;border-radius:0;font-size:13px}
+.compact-dashboard.playful-dashboard .hero .compact-stats b {color:var(--paper)}
+.compact-dashboard.playful-dashboard .hero .hero-label {color:var(--accent);font-size:12px}
+.compact-dashboard.playful-dashboard .section .eyebrow {font-size:12px;color:#704919}
+.compact-dashboard.playful-dashboard .compact-season .summary-table th,
+.compact-dashboard.playful-dashboard .compact-season .summary-table td {font-size:13px;padding:10px 6px}
+.compact-dashboard.playful-dashboard .compact-season .summary-table td {color:#42546a}
+.compact-dashboard.playful-dashboard .compact-season .summary-table td.positive {color:#116647}
+.compact-dashboard.playful-dashboard .compact-season .summary-table td.negative {color:#a92f43}
+.compact-dashboard.playful-dashboard .decision-pie li {color:#374a60;line-height:1.6}
+.compact-dashboard.playful-dashboard .formula-band .formula-detail {color:#e0e9ee;font-size:14px;line-height:1.65}
+.compact-dashboard.playful-dashboard .formula-band .formula-detail small {color:#c6d5e0;font-size:12px}
+@media(max-width:850px){.compact-dashboard.playful-dashboard .hero{padding:28px 24px}.compact-dashboard.playful-dashboard .hero h1{font-size:46px}.compact-dashboard.playful-dashboard .site-header{padding:14px 24px}.compact-dashboard.playful-dashboard .compact-season-grid{grid-template-columns:1fr}.compact-dashboard.playful-dashboard .section h2{font-size:25px}}
+@media(max-width:540px){.compact-dashboard.playful-dashboard .hero{padding:26px 16px}.compact-dashboard.playful-dashboard .hero h1{font-size:36px}.compact-dashboard.playful-dashboard .hero>p:not(.eyebrow){font-size:14px}.compact-dashboard.playful-dashboard .hero::after{width:170px;height:170px;right:-80px;top:70px;border-width:2px}.compact-dashboard.playful-dashboard .site-header{padding:14px 16px}.compact-dashboard.playful-dashboard .compact-stats{gap:14px}.compact-dashboard.playful-dashboard .compact-stats>span{padding-right:12px}.compact-dashboard.playful-dashboard .compact-stats b{font-size:21px}.compact-dashboard.playful-dashboard .decision-pie-grid{grid-template-columns:1fr}.compact-dashboard.playful-dashboard .section h2{font-size:24px}.compact-dashboard.playful-dashboard .formula-head{flex-wrap:wrap}}

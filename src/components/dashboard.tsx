@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import "./matchday.css";
 import Image from "next/image";
 import { useMemo, useState, useSyncExternalStore } from "react";
 import type { CSSProperties } from "react";

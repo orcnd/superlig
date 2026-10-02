@@ -1,4 +1,31 @@
 @import "tailwindcss";
+/* Designly polish: an editorial scorecard, with readable supporting detail. */
+.compact-dashboard.playful-dashboard .hero h1{letter-spacing:-.035em;text-wrap:balance}
+.compact-dashboard.playful-dashboard .hero>p:not(.eyebrow){max-width:860px;line-height:1.7}
+.compact-dashboard.playful-dashboard .eyebrow{font-size:10px;letter-spacing:.09em;color:#655189}
+.compact-dashboard.playful-dashboard .section h2{font-size:24px;letter-spacing:-.025em}
+.compact-dashboard.playful-dashboard .ranking-table{border:1px solid #dddfe9;border-radius:12px;overflow:hidden}
+.compact-dashboard.playful-dashboard .ranking-table td,.compact-dashboard.playful-dashboard .ranking-table thead th:not(:first-child){text-align:right;font-variant-numeric:tabular-nums}
+.compact-dashboard.playful-dashboard .ranking-table tbody th{background:transparent;color:#24344e}
+.compact-dashboard.playful-dashboard .ranking-table tbody tr:last-child>*{border-bottom:0}
+.compact-dashboard.playful-dashboard .ranking-table td:last-child{border-left:1px solid #ddd9ee;padding-left:20px;padding-right:20px}
+.compact-dashboard.playful-dashboard .ranking-table td:last-child strong{font-size:18px}
+.compact-dashboard.playful-dashboard .subtle,.compact-dashboard.playful-dashboard .section-intro{color:#536277;line-height:1.65;font-size:12px}
+.compact-dashboard.playful-dashboard .ranking-section>.subtle{display:flex;align-items:flex-start;gap:7px}
+.compact-dashboard.playful-dashboard .ranking-section>.subtle svg{flex-shrink:0;margin-top:3px}
+.compact-dashboard.playful-dashboard .compact-season .summary-table td,.compact-dashboard.playful-dashboard .compact-season .summary-table th:not(:first-child){text-align:right;font-variant-numeric:tabular-nums}
+.compact-dashboard.playful-dashboard .compact-season summary{min-height:40px;font-size:12px}
+.compact-dashboard.playful-dashboard .decision-pie h4{font-size:12px;color:#30425c;margin:0}
+.compact-dashboard.playful-dashboard .decision-pie li{font-size:11px;line-height:1.5;color:#46576e;flex-wrap:wrap}
+.compact-dashboard.playful-dashboard .decision-pie li b{font-variant-numeric:tabular-nums;margin-left:auto;color:#283950}
+.compact-dashboard.playful-dashboard .decision-pie{background:#f6f7fb;border-radius:8px}
+.compact-dashboard.playful-dashboard .decision-pie-team>.team-name{font-size:13px}
+.compact-dashboard.playful-dashboard .compact-reasons li{font-size:12px}
+.compact-dashboard.playful-dashboard .compact-reasons p{color:#536277}
+.compact-dashboard.playful-dashboard .formula-band .eyebrow{color:#c4b8e8}
+.compact-dashboard.playful-dashboard footer{color:#536277;font-size:11px;border-top:1px solid #e0e3ec;flex-wrap:wrap;line-height:1.6}
+.compact-dashboard.playful-dashboard .motion-toggle{font-size:11px;min-height:34px}
+@media(max-width:540px){.compact-dashboard.playful-dashboard .section h2{font-size:21px}.compact-dashboard.playful-dashboard .hero::after{width:70px;height:70px;border-width:12px;right:18px;top:18px}.compact-dashboard.playful-dashboard .outline{font-size:11px;white-space:nowrap}.compact-dashboard.playful-dashboard .section-heading{align-items:flex-start}}
 /* A little match-day energy, without changing the compact layout. */
 .playful-dashboard{background:linear-gradient(135deg,#f6f7ff 0%,#f4faf8 48%,#fff8f1 100%);min-height:100vh}
 .compact-dashboard.playful-dashboard .site-header{background:#ffffffed;backdrop-filter:blur(12px);border-bottom-color:#e3def4}
