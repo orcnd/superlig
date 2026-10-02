@@ -59,7 +59,7 @@ for (const season of seasons) {
 }
 
 const clubMap = { "3604": "gs", "3592": "fb", "3590": "bjk", "3596": "ts" };
-const bigFourMatches = allMatches.filter((match) => clubMap[match.homeTeam.tffClubId] || clubMap[match.awayTeam.tffClubId]).map((match) => ({ ...match, homeTeam: { ...match.homeTeam, teamId: clubMap[match.homeTeam.tffClubId] ?? null }, awayTeam: { ...match.awayTeam, teamId: clubMap[match.awayTeam.tffClubId] ?? null }, isBigFourMatch: Boolean(clubMap[match.homeTeam.tffClubId] && clubMap[match.awayTeam.tffClubId]), verificationStatus: "verified", isMock: false }));
-await writeFile(path.join(normalizedDir, "big-four-matches.json"), JSON.stringify({ schemaVersion: 1, generatedAt: new Date().toISOString(), records: bigFourMatches }, null, 2) + "\n", "utf8");
+const superligMatches = allMatches.map((match) => ({ ...match, homeTeam: { ...match.homeTeam, teamId: clubMap[match.homeTeam.tffClubId] ?? null }, awayTeam: { ...match.awayTeam, teamId: clubMap[match.awayTeam.tffClubId] ?? null }, isBigFourMatch: Boolean(clubMap[match.homeTeam.tffClubId] && clubMap[match.awayTeam.tffClubId]), verificationStatus: "verified", isMock: false }));
+await writeFile(path.join(normalizedDir, "superlig-matches.json"), JSON.stringify({ schemaVersion: 1, generatedAt: new Date().toISOString(), records: superligMatches }, null, 2) + "\n", "utf8");
 await writeFile(path.resolve("data/sources-manifest.json"), JSON.stringify({ schemaVersion: 1, generatedAt: new Date().toISOString(), sources: manifest }, null, 2) + "\n", "utf8");
-console.log(JSON.stringify({ seasons: manifest, normalizedBigFourMatches: bigFourMatches.length }, null, 2));
+console.log(JSON.stringify({ seasons: manifest, normalizedSuperligMatches: superligMatches.length }, null, 2));

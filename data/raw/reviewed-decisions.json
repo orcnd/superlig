@@ -1,0 +1,4201 @@
+{
+  "schemaVersion": 1,
+  "penalties": [
+    {
+      "id": "REVIEWED-GS-ADANA-MORATA-2025",
+      "matchId": "264193",
+      "benefitingClubId": "3604",
+      "player": "Alvaro Morata",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.galatasaray.org/haber/futbol/galatasaray-adana-demirspor-maci-tatil-edildi/57198",
+        "https://www.fotmob.com/api/data/matchDetails?matchId=4549850",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264193"
+      ]
+    },
+    {
+      "id": "TFF-249172-PENALTY-0",
+      "matchId": "249172",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 60,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249172"
+      ]
+    },
+    {
+      "id": "TFF-249173-PENALTY-0",
+      "matchId": "249173",
+      "benefitingClubId": "3623",
+      "player": "OSCAR DAVID ROMERO VILLAMAYOR",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249173"
+      ]
+    },
+    {
+      "id": "TFF-249174-PENALTY-0",
+      "matchId": "249174",
+      "benefitingClubId": "3603",
+      "player": "MBAYE HAMADY NIANG",
+      "minute": 26,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249174"
+      ]
+    },
+    {
+      "id": "TFF-249182-PENALTY-0",
+      "matchId": "249182",
+      "benefitingClubId": "3596",
+      "player": "ANASTASIOS BAKASETAS",
+      "minute": 58,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249182"
+      ]
+    },
+    {
+      "id": "TFF-249178-PENALTY-0",
+      "matchId": "249178",
+      "benefitingClubId": "3623",
+      "player": "OSCAR DAVID ROMERO VILLAMAYOR",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249178"
+      ]
+    },
+    {
+      "id": "TFF-249190-PENALTY-0",
+      "matchId": "249190",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 73,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249190"
+      ]
+    },
+    {
+      "id": "TFF-249186-PENALTY-0",
+      "matchId": "249186",
+      "benefitingClubId": "121",
+      "player": "SERGIO CARLOS STRANDBERG",
+      "minute": 73,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249186"
+      ]
+    },
+    {
+      "id": "TFF-249205-PENALTY-0",
+      "matchId": "249205",
+      "benefitingClubId": "3631",
+      "player": "GUSTAVO AFFONSO SAUERBECK",
+      "minute": 89,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249205"
+      ]
+    },
+    {
+      "id": "TFF-249196-PENALTY-0",
+      "matchId": "249196",
+      "benefitingClubId": "72",
+      "player": "THIAM MAME BABA",
+      "minute": 6,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249196"
+      ]
+    },
+    {
+      "id": "TFF-249211-PENALTY-0",
+      "matchId": "249211",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 50,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249211"
+      ]
+    },
+    {
+      "id": "TFF-249207-PENALTY-0",
+      "matchId": "249207",
+      "benefitingClubId": "3623",
+      "player": "OSCAR DAVID ROMERO VILLAMAYOR",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249207"
+      ]
+    },
+    {
+      "id": "TFF-249208-PENALTY-0",
+      "matchId": "249208",
+      "benefitingClubId": "39",
+      "player": "AYTAÇ KARA",
+      "minute": 51,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249208"
+      ]
+    },
+    {
+      "id": "TFF-249208-PENALTY-1",
+      "matchId": "249208",
+      "benefitingClubId": "3603",
+      "player": "YUSUF ERDOĞAN",
+      "minute": 80,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249208"
+      ]
+    },
+    {
+      "id": "TFF-249219-PENALTY-0",
+      "matchId": "249219",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249219"
+      ]
+    },
+    {
+      "id": "TFF-249233-PENALTY-0",
+      "matchId": "249233",
+      "benefitingClubId": "3590",
+      "player": "RACHID GHEZZAL",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249233"
+      ]
+    },
+    {
+      "id": "TFF-249228-PENALTY-0",
+      "matchId": "249228",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249228"
+      ]
+    },
+    {
+      "id": "TFF-249226-PENALTY-0",
+      "matchId": "249226",
+      "benefitingClubId": "121",
+      "player": "RENAT OLEQOVİÇ DADASHOV",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249226"
+      ]
+    },
+    {
+      "id": "TFF-249238-PENALTY-0",
+      "matchId": "249238",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 82,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249238"
+      ]
+    },
+    {
+      "id": "TFF-249236-PENALTY-0",
+      "matchId": "249236",
+      "benefitingClubId": "72",
+      "player": "THIAM MAME BABA",
+      "minute": 66,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249236"
+      ]
+    },
+    {
+      "id": "TFF-249236-PENALTY-1",
+      "matchId": "249236",
+      "benefitingClubId": "72",
+      "player": "THIAM MAME BABA",
+      "minute": 89,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249236"
+      ]
+    },
+    {
+      "id": "TFF-249237-PENALTY-0",
+      "matchId": "249237",
+      "benefitingClubId": "3595",
+      "player": "TOLGA CİĞERCİ",
+      "minute": 24,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249237"
+      ]
+    },
+    {
+      "id": "TFF-249246-PENALTY-0",
+      "matchId": "249246",
+      "benefitingClubId": "121",
+      "player": "RENAT OLEQOVİÇ DADASHOV",
+      "minute": 68,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249246"
+      ]
+    },
+    {
+      "id": "TFF-249250-PENALTY-0",
+      "matchId": "249250",
+      "benefitingClubId": "3603",
+      "player": "MBAYE HAMADY NIANG",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249250"
+      ]
+    },
+    {
+      "id": "TFF-249259-PENALTY-0",
+      "matchId": "249259",
+      "benefitingClubId": "3597",
+      "player": "ERCAN KARA",
+      "minute": 77,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249259"
+      ]
+    },
+    {
+      "id": "TFF-249263-PENALTY-0",
+      "matchId": "249263",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 61,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249263"
+      ]
+    },
+    {
+      "id": "TFF-249263-PENALTY-1",
+      "matchId": "249263",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249263"
+      ]
+    },
+    {
+      "id": "TFF-249265-PENALTY-0",
+      "matchId": "249265",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249265"
+      ]
+    },
+    {
+      "id": "TFF-249260-PENALTY-0",
+      "matchId": "249260",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 20,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249260"
+      ]
+    },
+    {
+      "id": "TFF-249268-PENALTY-0",
+      "matchId": "249268",
+      "benefitingClubId": "39",
+      "player": "AYTAÇ KARA",
+      "minute": 74,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249268"
+      ]
+    },
+    {
+      "id": "TFF-249269-PENALTY-0",
+      "matchId": "249269",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249269"
+      ]
+    },
+    {
+      "id": "TFF-249277-PENALTY-0",
+      "matchId": "249277",
+      "benefitingClubId": "121",
+      "player": "RENAT OLEQOVİÇ DADASHOV",
+      "minute": 48,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249277"
+      ]
+    },
+    {
+      "id": "TFF-249283-PENALTY-0",
+      "matchId": "249283",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 48,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249283"
+      ]
+    },
+    {
+      "id": "TFF-249286-PENALTY-0",
+      "matchId": "249286",
+      "benefitingClubId": "52",
+      "player": "ADAM BUKSA",
+      "minute": 88,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249286"
+      ]
+    },
+    {
+      "id": "TFF-249290-PENALTY-0",
+      "matchId": "249290",
+      "benefitingClubId": "3603",
+      "player": "MBAYE HAMADY NIANG",
+      "minute": 27,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249290"
+      ]
+    },
+    {
+      "id": "TFF-249290-PENALTY-1",
+      "matchId": "249290",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 35,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249290"
+      ]
+    },
+    {
+      "id": "TFF-249289-PENALTY-0",
+      "matchId": "249289",
+      "benefitingClubId": "51",
+      "player": "JOAO PEDRO BARBADAS NOVAIS",
+      "minute": 39,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249289"
+      ]
+    },
+    {
+      "id": "TFF-249298-PENALTY-0",
+      "matchId": "249298",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249298"
+      ]
+    },
+    {
+      "id": "TFF-249298-PENALTY-1",
+      "matchId": "249298",
+      "benefitingClubId": "3603",
+      "player": "MBAYE HAMADY NIANG",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249298"
+      ]
+    },
+    {
+      "id": "TFF-249303-PENALTY-0",
+      "matchId": "249303",
+      "benefitingClubId": "3590",
+      "player": "ALEXANDER MARK DAVID OXLADE CHAMBERLAIN",
+      "minute": 24,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249303"
+      ]
+    },
+    {
+      "id": "TFF-249303-PENALTY-1",
+      "matchId": "249303",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249303"
+      ]
+    },
+    {
+      "id": "TFF-249297-PENALTY-0",
+      "matchId": "249297",
+      "benefitingClubId": "51",
+      "player": "JOAO PEDRO BARBADAS NOVAIS",
+      "minute": 89,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249297"
+      ]
+    },
+    {
+      "id": "TFF-249313-PENALTY-0",
+      "matchId": "249313",
+      "benefitingClubId": "3592",
+      "player": "EDIN DZEKO",
+      "minute": 11,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249313"
+      ]
+    },
+    {
+      "id": "TFF-249312-PENALTY-0",
+      "matchId": "249312",
+      "benefitingClubId": "3597",
+      "player": "TAYLAN ANTALYALI",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249312"
+      ]
+    },
+    {
+      "id": "TFF-249314-PENALTY-0",
+      "matchId": "249314",
+      "benefitingClubId": "74",
+      "player": "BANGALY FODE KOITA",
+      "minute": 86,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249314"
+      ]
+    },
+    {
+      "id": "TFF-249321-PENALTY-0",
+      "matchId": "249321",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249321"
+      ]
+    },
+    {
+      "id": "TFF-249321-PENALTY-1",
+      "matchId": "249321",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 51,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249321"
+      ]
+    },
+    {
+      "id": "TFF-249316-PENALTY-0",
+      "matchId": "249316",
+      "benefitingClubId": "72",
+      "player": "THIAM MAME BABA",
+      "minute": 56,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249316"
+      ]
+    },
+    {
+      "id": "TFF-249316-PENALTY-1",
+      "matchId": "249316",
+      "benefitingClubId": "3592",
+      "player": "MICHY BATSHUAYI ATUNGA",
+      "minute": 79,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249316"
+      ]
+    },
+    {
+      "id": "TFF-249319-PENALTY-0",
+      "matchId": "249319",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 69,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249319"
+      ]
+    },
+    {
+      "id": "TFF-249319-PENALTY-1",
+      "matchId": "249319",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 29,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249319"
+      ]
+    },
+    {
+      "id": "TFF-249335-PENALTY-0",
+      "matchId": "249335",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 51,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249335"
+      ]
+    },
+    {
+      "id": "TFF-249335-PENALTY-1",
+      "matchId": "249335",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249335"
+      ]
+    },
+    {
+      "id": "TFF-249340-PENALTY-0",
+      "matchId": "249340",
+      "benefitingClubId": "3623",
+      "player": "ERDEM ÖZGENÇ",
+      "minute": 77,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249340"
+      ]
+    },
+    {
+      "id": "TFF-249336-PENALTY-0",
+      "matchId": "249336",
+      "benefitingClubId": "74",
+      "player": "REI MANAJ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249336"
+      ]
+    },
+    {
+      "id": "TFF-249346-PENALTY-0",
+      "matchId": "249346",
+      "benefitingClubId": "3604",
+      "player": "DRIES MERTENS",
+      "minute": 86,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249346"
+      ]
+    },
+    {
+      "id": "TFF-249360-PENALTY-0",
+      "matchId": "249360",
+      "benefitingClubId": "74",
+      "player": "REI MANAJ",
+      "minute": 8,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249360"
+      ]
+    },
+    {
+      "id": "TFF-249360-PENALTY-1",
+      "matchId": "249360",
+      "benefitingClubId": "74",
+      "player": "REI MANAJ",
+      "minute": 15,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249360"
+      ]
+    },
+    {
+      "id": "TFF-249368-PENALTY-0",
+      "matchId": "249368",
+      "benefitingClubId": "3623",
+      "player": "THIAM MAME BABA",
+      "minute": 44,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249368"
+      ]
+    },
+    {
+      "id": "TFF-249369-PENALTY-0",
+      "matchId": "249369",
+      "benefitingClubId": "51",
+      "player": "OĞUZ AYDIN",
+      "minute": 89,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249369"
+      ]
+    },
+    {
+      "id": "TFF-249374-PENALTY-0",
+      "matchId": "249374",
+      "benefitingClubId": "52",
+      "player": "ADAM BUKSA",
+      "minute": 28,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249374"
+      ]
+    },
+    {
+      "id": "TFF-249373-PENALTY-0",
+      "matchId": "249373",
+      "benefitingClubId": "3592",
+      "player": "MICHY BATSHUAYI ATUNGA",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249373"
+      ]
+    },
+    {
+      "id": "TFF-249367-PENALTY-0",
+      "matchId": "249367",
+      "benefitingClubId": "3604",
+      "player": "MUHAMMED KEREM AKTÜRKOĞLU",
+      "minute": 36,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249367"
+      ]
+    },
+    {
+      "id": "TFF-249367-PENALTY-1",
+      "matchId": "249367",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249367"
+      ]
+    },
+    {
+      "id": "TFF-249385-PENALTY-0",
+      "matchId": "249385",
+      "benefitingClubId": "3611",
+      "player": "SERDAR DURSUN",
+      "minute": 66,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249385"
+      ]
+    },
+    {
+      "id": "TFF-249381-PENALTY-0",
+      "matchId": "249381",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 67,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249381"
+      ]
+    },
+    {
+      "id": "TFF-249384-PENALTY-0",
+      "matchId": "249384",
+      "benefitingClubId": "3595",
+      "player": "TOLGA CİĞERCİ",
+      "minute": 13,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249384"
+      ]
+    },
+    {
+      "id": "TFF-249378-PENALTY-0",
+      "matchId": "249378",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 58,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249378"
+      ]
+    },
+    {
+      "id": "TFF-249391-PENALTY-0",
+      "matchId": "249391",
+      "benefitingClubId": "121",
+      "player": "SERGIO CARLOS STRANDBERG",
+      "minute": 51,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249391"
+      ]
+    },
+    {
+      "id": "TFF-249398-PENALTY-0",
+      "matchId": "249398",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 57,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249398"
+      ]
+    },
+    {
+      "id": "TFF-249400-PENALTY-0",
+      "matchId": "249400",
+      "benefitingClubId": "3672",
+      "player": "DENIS MIHAI DRAGUS",
+      "minute": 60,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249400"
+      ]
+    },
+    {
+      "id": "TFF-249399-PENALTY-0",
+      "matchId": "249399",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 49,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249399"
+      ]
+    },
+    {
+      "id": "TFF-249407-PENALTY-0",
+      "matchId": "249407",
+      "benefitingClubId": "3617",
+      "player": "JACKSON KENIO SANTOS LAURENTINO",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249407"
+      ]
+    },
+    {
+      "id": "TFF-249408-PENALTY-0",
+      "matchId": "249408",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 39,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249408"
+      ]
+    },
+    {
+      "id": "TFF-249410-PENALTY-0",
+      "matchId": "249410",
+      "benefitingClubId": "3603",
+      "player": "EMRE AKBABA",
+      "minute": 67,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249410"
+      ]
+    },
+    {
+      "id": "TFF-249425-PENALTY-0",
+      "matchId": "249425",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 78,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249425"
+      ]
+    },
+    {
+      "id": "TFF-249419-PENALTY-0",
+      "matchId": "249419",
+      "benefitingClubId": "51",
+      "player": "AHMED HASSAN MOHAMED ABDEL MONEM MOHAMED MAHGOUB",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249419"
+      ]
+    },
+    {
+      "id": "TFF-249422-PENALTY-0",
+      "matchId": "249422",
+      "benefitingClubId": "3604",
+      "player": "MUHAMMED KEREM AKTÜRKOĞLU",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249422"
+      ]
+    },
+    {
+      "id": "TFF-249435-PENALTY-0",
+      "matchId": "249435",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249435"
+      ]
+    },
+    {
+      "id": "TFF-249431-PENALTY-0",
+      "matchId": "249431",
+      "benefitingClubId": "3603",
+      "player": "MARIO BARWUAH BALOTELLİ",
+      "minute": 27,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249431"
+      ]
+    },
+    {
+      "id": "TFF-249445-PENALTY-0",
+      "matchId": "249445",
+      "benefitingClubId": "3604",
+      "player": "KEREM DEMİRBAY",
+      "minute": 64,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249445"
+      ]
+    },
+    {
+      "id": "TFF-249440-PENALTY-0",
+      "matchId": "249440",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 9,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249440"
+      ]
+    },
+    {
+      "id": "TFF-249440-PENALTY-1",
+      "matchId": "249440",
+      "benefitingClubId": "3600",
+      "player": "SOKOL CİKALLESHİ",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249440"
+      ]
+    },
+    {
+      "id": "TFF-249437-PENALTY-0",
+      "matchId": "249437",
+      "benefitingClubId": "3592",
+      "player": "MICHY BATSHUAYI ATUNGA",
+      "minute": 87,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249437"
+      ]
+    },
+    {
+      "id": "TFF-249451-PENALTY-0",
+      "matchId": "249451",
+      "benefitingClubId": "3595",
+      "player": "TOLGA CİĞERCİ",
+      "minute": 57,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249451"
+      ]
+    },
+    {
+      "id": "TFF-249452-PENALTY-0",
+      "matchId": "249452",
+      "benefitingClubId": "52",
+      "player": "ADAM BUKSA",
+      "minute": 38,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249452"
+      ]
+    },
+    {
+      "id": "TFF-249453-PENALTY-0",
+      "matchId": "249453",
+      "benefitingClubId": "3596",
+      "player": "MAHMOUD AHMED IBRAHIM HASSAN",
+      "minute": 78,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249453"
+      ]
+    },
+    {
+      "id": "TFF-249462-PENALTY-0",
+      "matchId": "249462",
+      "benefitingClubId": "3596",
+      "player": "EDIN VISCA",
+      "minute": 59,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249462"
+      ]
+    },
+    {
+      "id": "TFF-249475-PENALTY-0",
+      "matchId": "249475",
+      "benefitingClubId": "3600",
+      "player": "GUILHERME HAUBERT SITYA",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249475"
+      ]
+    },
+    {
+      "id": "TFF-249473-PENALTY-0",
+      "matchId": "249473",
+      "benefitingClubId": "3592",
+      "player": "MICHY BATSHUAYI ATUNGA",
+      "minute": 57,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249473"
+      ]
+    },
+    {
+      "id": "TFF-249481-PENALTY-0",
+      "matchId": "249481",
+      "benefitingClubId": "3611",
+      "player": "SOFIANE FEGHOULI",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249481"
+      ]
+    },
+    {
+      "id": "TFF-249477-PENALTY-0",
+      "matchId": "249477",
+      "benefitingClubId": "3604",
+      "player": "MUHAMMED KEREM AKTÜRKOĞLU",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249477"
+      ]
+    },
+    {
+      "id": "TFF-249485-PENALTY-0",
+      "matchId": "249485",
+      "benefitingClubId": "3665",
+      "player": "BERKAY ÖZCAN",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249485"
+      ]
+    },
+    {
+      "id": "TFF-249483-PENALTY-0",
+      "matchId": "249483",
+      "benefitingClubId": "74",
+      "player": "REI MANAJ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249483"
+      ]
+    },
+    {
+      "id": "TFF-249499-PENALTY-0",
+      "matchId": "249499",
+      "benefitingClubId": "51",
+      "player": "OĞUZ AYDIN",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249499"
+      ]
+    },
+    {
+      "id": "TFF-249502-PENALTY-0",
+      "matchId": "249502",
+      "benefitingClubId": "3597",
+      "player": "TAYLAN ANTALYALI",
+      "minute": 14,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249502"
+      ]
+    },
+    {
+      "id": "TFF-249497-PENALTY-0",
+      "matchId": "249497",
+      "benefitingClubId": "52",
+      "player": "ADAM BUKSA",
+      "minute": 13,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249497"
+      ]
+    },
+    {
+      "id": "TFF-249512-PENALTY-0",
+      "matchId": "249512",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 82,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249512"
+      ]
+    },
+    {
+      "id": "TFF-249525-PENALTY-0",
+      "matchId": "249525",
+      "benefitingClubId": "72",
+      "player": "CARLOS MANUEL CARDOSO MANE",
+      "minute": 77,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249525"
+      ]
+    },
+    {
+      "id": "TFF-249516-PENALTY-0",
+      "matchId": "249516",
+      "benefitingClubId": "3590",
+      "player": "VINCENT ABOUBAKAR",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249516"
+      ]
+    },
+    {
+      "id": "TFF-249534-PENALTY-0",
+      "matchId": "249534",
+      "benefitingClubId": "3596",
+      "player": "ENİS DESTAN",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249534"
+      ]
+    },
+    {
+      "id": "TFF-249534-PENALTY-1",
+      "matchId": "249534",
+      "benefitingClubId": "3595",
+      "player": "ANASTASIOS CHATZIGIOVANIS",
+      "minute": 25,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249534"
+      ]
+    },
+    {
+      "id": "TFF-249527-PENALTY-0",
+      "matchId": "249527",
+      "benefitingClubId": "3592",
+      "player": "EDIN DZEKO",
+      "minute": 8,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249527"
+      ]
+    },
+    {
+      "id": "TFF-249531-PENALTY-0",
+      "matchId": "249531",
+      "benefitingClubId": "3603",
+      "player": "TAYFUN AYDOĞAN",
+      "minute": 36,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249531"
+      ]
+    },
+    {
+      "id": "TFF-249531-PENALTY-1",
+      "matchId": "249531",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 68,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249531"
+      ]
+    },
+    {
+      "id": "TFF-263999-PENALTY-0",
+      "matchId": "263999",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 80,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=263999"
+      ]
+    },
+    {
+      "id": "TFF-264011-PENALTY-0",
+      "matchId": "264011",
+      "benefitingClubId": "3592",
+      "player": "EDIN DZEKO",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264011"
+      ]
+    },
+    {
+      "id": "TFF-264004-PENALTY-0",
+      "matchId": "264004",
+      "benefitingClubId": "3603",
+      "player": "YUSUF BARASI",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264004"
+      ]
+    },
+    {
+      "id": "TFF-264012-PENALTY-0",
+      "matchId": "264012",
+      "benefitingClubId": "51",
+      "player": "JURE BALKOVEC",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264012"
+      ]
+    },
+    {
+      "id": "TFF-264021-PENALTY-0",
+      "matchId": "264021",
+      "benefitingClubId": "4824",
+      "player": "KENAN ÖZER",
+      "minute": 88,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264021"
+      ]
+    },
+    {
+      "id": "TFF-264019-PENALTY-0",
+      "matchId": "264019",
+      "benefitingClubId": "52",
+      "player": "BRAIAN JOSE SAMUDIO SEGOVIA",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264019"
+      ]
+    },
+    {
+      "id": "TFF-264019-PENALTY-1",
+      "matchId": "264019",
+      "benefitingClubId": "121",
+      "player": "SERGIO CARLOS STRANDBERG",
+      "minute": 26,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264019"
+      ]
+    },
+    {
+      "id": "TFF-264022-PENALTY-0",
+      "matchId": "264022",
+      "benefitingClubId": "3603",
+      "player": "ANDREAW RAYAN GRAVILLON",
+      "minute": 79,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264022"
+      ]
+    },
+    {
+      "id": "TFF-264026-PENALTY-0",
+      "matchId": "264026",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 27,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264026"
+      ]
+    },
+    {
+      "id": "TFF-264031-PENALTY-0",
+      "matchId": "264031",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 7,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264031"
+      ]
+    },
+    {
+      "id": "TFF-264034-PENALTY-0",
+      "matchId": "264034",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 39,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264034"
+      ]
+    },
+    {
+      "id": "TFF-264041-PENALTY-0",
+      "matchId": "264041",
+      "benefitingClubId": "3592",
+      "player": "EDIN DZEKO",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264041"
+      ]
+    },
+    {
+      "id": "TFF-264044-PENALTY-0",
+      "matchId": "264044",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264044"
+      ]
+    },
+    {
+      "id": "TFF-264044-PENALTY-1",
+      "matchId": "264044",
+      "benefitingClubId": "3610",
+      "player": "EMRE AKBABA",
+      "minute": 64,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264044"
+      ]
+    },
+    {
+      "id": "TFF-264053-PENALTY-0",
+      "matchId": "264053",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 83,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264053"
+      ]
+    },
+    {
+      "id": "TFF-264050-PENALTY-0",
+      "matchId": "264050",
+      "benefitingClubId": "3596",
+      "player": "SIMON BOKOTE BANZA",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264050"
+      ]
+    },
+    {
+      "id": "TFF-264051-PENALTY-0",
+      "matchId": "264051",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 78,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264051"
+      ]
+    },
+    {
+      "id": "TFF-264058-PENALTY-0",
+      "matchId": "264058",
+      "benefitingClubId": "3603",
+      "player": "YUSUF BARASI",
+      "minute": 7,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264058"
+      ]
+    },
+    {
+      "id": "TFF-264064-PENALTY-0",
+      "matchId": "264064",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 31,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264064"
+      ]
+    },
+    {
+      "id": "TFF-264071-PENALTY-0",
+      "matchId": "264071",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 29,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264071"
+      ]
+    },
+    {
+      "id": "TFF-264067-PENALTY-0",
+      "matchId": "264067",
+      "benefitingClubId": "74",
+      "player": "REI MANAJ",
+      "minute": 73,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264067"
+      ]
+    },
+    {
+      "id": "TFF-264083-PENALTY-0",
+      "matchId": "264083",
+      "benefitingClubId": "3596",
+      "player": "SIMON BOKOTE BANZA",
+      "minute": 64,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264083"
+      ]
+    },
+    {
+      "id": "TFF-264084-PENALTY-0",
+      "matchId": "264084",
+      "benefitingClubId": "3665",
+      "player": "JEROME OPOKU",
+      "minute": 59,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264084"
+      ]
+    },
+    {
+      "id": "TFF-264091-PENALTY-0",
+      "matchId": "264091",
+      "benefitingClubId": "3672",
+      "player": "DEIAN CRISTIAN SORESCU",
+      "minute": 82,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264091"
+      ]
+    },
+    {
+      "id": "TFF-264086-PENALTY-0",
+      "matchId": "264086",
+      "benefitingClubId": "3596",
+      "player": "SIMON BOKOTE BANZA",
+      "minute": 59,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264086"
+      ]
+    },
+    {
+      "id": "TFF-264086-PENALTY-1",
+      "matchId": "264086",
+      "benefitingClubId": "3596",
+      "player": "SIMON BOKOTE BANZA",
+      "minute": 67,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264086"
+      ]
+    },
+    {
+      "id": "TFF-264097-PENALTY-0",
+      "matchId": "264097",
+      "benefitingClubId": "72",
+      "player": "KARTAL KAYRA YILMAZ",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264097"
+      ]
+    },
+    {
+      "id": "TFF-264100-PENALTY-0",
+      "matchId": "264100",
+      "benefitingClubId": "4824",
+      "player": "GEORGE ALEXANDRU PUSCAS",
+      "minute": 59,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264100"
+      ]
+    },
+    {
+      "id": "TFF-264101-PENALTY-0",
+      "matchId": "264101",
+      "benefitingClubId": "3688",
+      "player": "ROMULO JOSE CARDOSO DA CRUZ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264101"
+      ]
+    },
+    {
+      "id": "TFF-264098-PENALTY-0",
+      "matchId": "264098",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 50,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264098"
+      ]
+    },
+    {
+      "id": "TFF-264098-PENALTY-1",
+      "matchId": "264098",
+      "benefitingClubId": "3597",
+      "player": "YOUSSEF AIT BENASSER",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264098"
+      ]
+    },
+    {
+      "id": "TFF-264095-PENALTY-0",
+      "matchId": "264095",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 54,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264095"
+      ]
+    },
+    {
+      "id": "TFF-264105-PENALTY-0",
+      "matchId": "264105",
+      "benefitingClubId": "3592",
+      "player": "DUSAN TADIC",
+      "minute": 7,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264105"
+      ]
+    },
+    {
+      "id": "TFF-264117-PENALTY-0",
+      "matchId": "264117",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 44,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264117"
+      ]
+    },
+    {
+      "id": "TFF-264122-PENALTY-0",
+      "matchId": "264122",
+      "benefitingClubId": "3596",
+      "player": "SIMON BOKOTE BANZA",
+      "minute": 79,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264122"
+      ]
+    },
+    {
+      "id": "TFF-264122-PENALTY-1",
+      "matchId": "264122",
+      "benefitingClubId": "39",
+      "player": "RIBEIRO DIAS CARLOS MIGUEL",
+      "minute": 38,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264122"
+      ]
+    },
+    {
+      "id": "TFF-264126-PENALTY-0",
+      "matchId": "264126",
+      "benefitingClubId": "52",
+      "player": "SAM ANDREAS LARSSON",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264126"
+      ]
+    },
+    {
+      "id": "TFF-264121-PENALTY-0",
+      "matchId": "264121",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264121"
+      ]
+    },
+    {
+      "id": "TFF-264138-PENALTY-0",
+      "matchId": "264138",
+      "benefitingClubId": "4824",
+      "player": "ZDRAVKO DIMITROV",
+      "minute": 76,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264138"
+      ]
+    },
+    {
+      "id": "TFF-264137-PENALTY-0",
+      "matchId": "264137",
+      "benefitingClubId": "3688",
+      "player": "ROMULO JOSE CARDOSO DA CRUZ",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264137"
+      ]
+    },
+    {
+      "id": "TFF-264134-PENALTY-0",
+      "matchId": "264134",
+      "benefitingClubId": "3604",
+      "player": "MICHY BATSHUAYI ATUNGA",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264134"
+      ]
+    },
+    {
+      "id": "TFF-264141-PENALTY-0",
+      "matchId": "264141",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 4,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264141"
+      ]
+    },
+    {
+      "id": "TFF-264147-PENALTY-0",
+      "matchId": "264147",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 9,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264147"
+      ]
+    },
+    {
+      "id": "TFF-264147-PENALTY-1",
+      "matchId": "264147",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 42,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264147"
+      ]
+    },
+    {
+      "id": "TFF-264154-PENALTY-0",
+      "matchId": "264154",
+      "benefitingClubId": "3610",
+      "player": "THIAM MAME BABA",
+      "minute": 35,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264154"
+      ]
+    },
+    {
+      "id": "TFF-264152-PENALTY-0",
+      "matchId": "264152",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 10,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264152"
+      ]
+    },
+    {
+      "id": "TFF-264160-PENALTY-0",
+      "matchId": "264160",
+      "benefitingClubId": "3631",
+      "player": "RACHID GHEZZAL",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264160"
+      ]
+    },
+    {
+      "id": "TFF-264170-PENALTY-0",
+      "matchId": "264170",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 56,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264170"
+      ]
+    },
+    {
+      "id": "TFF-264168-PENALTY-0",
+      "matchId": "264168",
+      "benefitingClubId": "3665",
+      "player": "JOAO VITOR BRANDAO FIGUEIREDO",
+      "minute": 21,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264168"
+      ]
+    },
+    {
+      "id": "TFF-264171-PENALTY-0",
+      "matchId": "264171",
+      "benefitingClubId": "3610",
+      "player": "EMRE AKBABA",
+      "minute": 65,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264171"
+      ]
+    },
+    {
+      "id": "TFF-264183-PENALTY-0",
+      "matchId": "264183",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264183"
+      ]
+    },
+    {
+      "id": "TFF-264183-PENALTY-1",
+      "matchId": "264183",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264183"
+      ]
+    },
+    {
+      "id": "TFF-264180-PENALTY-0",
+      "matchId": "264180",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264180"
+      ]
+    },
+    {
+      "id": "TFF-264175-PENALTY-0",
+      "matchId": "264175",
+      "benefitingClubId": "3631",
+      "player": "RACHID GHEZZAL",
+      "minute": 69,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264175"
+      ]
+    },
+    {
+      "id": "TFF-264176-PENALTY-0",
+      "matchId": "264176",
+      "benefitingClubId": "121",
+      "player": "VINCENT ABOUBAKAR",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264176"
+      ]
+    },
+    {
+      "id": "TFF-264190-PENALTY-0",
+      "matchId": "264190",
+      "benefitingClubId": "121",
+      "player": "VINCENT ABOUBAKAR",
+      "minute": 64,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264190"
+      ]
+    },
+    {
+      "id": "TFF-264190-PENALTY-1",
+      "matchId": "264190",
+      "benefitingClubId": "52",
+      "player": "BRAIAN JOSE SAMUDIO SEGOVIA",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264190"
+      ]
+    },
+    {
+      "id": "TFF-264187-PENALTY-0",
+      "matchId": "264187",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 73,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264187"
+      ]
+    },
+    {
+      "id": "TFF-264186-PENALTY-0",
+      "matchId": "264186",
+      "benefitingClubId": "3592",
+      "player": "EDIN DZEKO",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264186"
+      ]
+    },
+    {
+      "id": "TFF-264197-PENALTY-0",
+      "matchId": "264197",
+      "benefitingClubId": "3590",
+      "player": "JOAO MARIO NAVAL DA COSTA EDUARDO",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264197"
+      ]
+    },
+    {
+      "id": "TFF-264195-PENALTY-0",
+      "matchId": "264195",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264195"
+      ]
+    },
+    {
+      "id": "TFF-264208-PENALTY-0",
+      "matchId": "264208",
+      "benefitingClubId": "3603",
+      "player": "NABIL ALIOUI",
+      "minute": 28,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264208"
+      ]
+    },
+    {
+      "id": "TFF-264210-PENALTY-0",
+      "matchId": "264210",
+      "benefitingClubId": "4824",
+      "player": "GEORGE ALEXANDRU PUSCAS",
+      "minute": 83,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264210"
+      ]
+    },
+    {
+      "id": "TFF-264202-PENALTY-0",
+      "matchId": "264202",
+      "benefitingClubId": "74",
+      "player": "REI MANAJ",
+      "minute": 26,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264202"
+      ]
+    },
+    {
+      "id": "TFF-264214-PENALTY-0",
+      "matchId": "264214",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264214"
+      ]
+    },
+    {
+      "id": "TFF-264217-PENALTY-0",
+      "matchId": "264217",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 85,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264217"
+      ]
+    },
+    {
+      "id": "TFF-264211-PENALTY-0",
+      "matchId": "264211",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 68,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264211"
+      ]
+    },
+    {
+      "id": "TFF-264222-PENALTY-0",
+      "matchId": "264222",
+      "benefitingClubId": "3590",
+      "player": "SEMİH KILIÇSOY",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264222"
+      ]
+    },
+    {
+      "id": "TFF-264225-PENALTY-0",
+      "matchId": "264225",
+      "benefitingClubId": "51",
+      "player": "ANDRAZ SPORAR",
+      "minute": 65,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264225"
+      ]
+    },
+    {
+      "id": "TFF-264224-PENALTY-0",
+      "matchId": "264224",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 85,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264224"
+      ]
+    },
+    {
+      "id": "TFF-264224-PENALTY-1",
+      "matchId": "264224",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264224"
+      ]
+    },
+    {
+      "id": "TFF-264221-PENALTY-0",
+      "matchId": "264221",
+      "benefitingClubId": "3600",
+      "player": "MEHMET UMUT NAYİR",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264221"
+      ]
+    },
+    {
+      "id": "TFF-264231-PENALTY-0",
+      "matchId": "264231",
+      "benefitingClubId": "52",
+      "player": "ADOLFO JULIAN GAICH",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264231"
+      ]
+    },
+    {
+      "id": "TFF-264234-PENALTY-0",
+      "matchId": "264234",
+      "benefitingClubId": "3610",
+      "player": "EMRE AKBABA",
+      "minute": 15,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264234"
+      ]
+    },
+    {
+      "id": "TFF-264235-PENALTY-0",
+      "matchId": "264235",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 31,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264235"
+      ]
+    },
+    {
+      "id": "TFF-264244-PENALTY-0",
+      "matchId": "264244",
+      "benefitingClubId": "3604",
+      "player": "ALVARO BORJA MORATA MARTIN",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264244"
+      ]
+    },
+    {
+      "id": "TFF-264243-PENALTY-0",
+      "matchId": "264243",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 36,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264243"
+      ]
+    },
+    {
+      "id": "TFF-264241-PENALTY-0",
+      "matchId": "264241",
+      "benefitingClubId": "3688",
+      "player": "ROMULO JOSE CARDOSO DA CRUZ",
+      "minute": 71,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264241"
+      ]
+    },
+    {
+      "id": "TFF-264248-PENALTY-0",
+      "matchId": "264248",
+      "benefitingClubId": "4824",
+      "player": "GEORGE ALEXANDRU PUSCAS",
+      "minute": 31,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264248"
+      ]
+    },
+    {
+      "id": "TFF-264248-PENALTY-1",
+      "matchId": "264248",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264248"
+      ]
+    },
+    {
+      "id": "TFF-264254-PENALTY-0",
+      "matchId": "264254",
+      "benefitingClubId": "3688",
+      "player": "ROMULO JOSE CARDOSO DA CRUZ",
+      "minute": 31,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264254"
+      ]
+    },
+    {
+      "id": "TFF-264256-PENALTY-0",
+      "matchId": "264256",
+      "benefitingClubId": "3631",
+      "player": "BERKAY ÖZCAN",
+      "minute": 70,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264256"
+      ]
+    },
+    {
+      "id": "TFF-264261-PENALTY-0",
+      "matchId": "264261",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 71,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264261"
+      ]
+    },
+    {
+      "id": "TFF-264257-PENALTY-0",
+      "matchId": "264257",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 51,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264257"
+      ]
+    },
+    {
+      "id": "TFF-264260-PENALTY-0",
+      "matchId": "264260",
+      "benefitingClubId": "3590",
+      "player": "GEDSON CARVALHO FERNANDES",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264260"
+      ]
+    },
+    {
+      "id": "TFF-264274-PENALTY-0",
+      "matchId": "264274",
+      "benefitingClubId": "39",
+      "player": "AYTAÇ KARA",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264274"
+      ]
+    },
+    {
+      "id": "TFF-264280-PENALTY-0",
+      "matchId": "264280",
+      "benefitingClubId": "3665",
+      "player": "KRZYSZTOF PIATEK",
+      "minute": 42,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264280"
+      ]
+    },
+    {
+      "id": "TFF-264276-PENALTY-0",
+      "matchId": "264276",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 79,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264276"
+      ]
+    },
+    {
+      "id": "TFF-264286-PENALTY-0",
+      "matchId": "264286",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 36,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264286"
+      ]
+    },
+    {
+      "id": "TFF-264286-PENALTY-1",
+      "matchId": "264286",
+      "benefitingClubId": "3590",
+      "player": "CIRO IMMOBILE",
+      "minute": 52,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264286"
+      ]
+    },
+    {
+      "id": "TFF-264290-PENALTY-0",
+      "matchId": "264290",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 11,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264290"
+      ]
+    },
+    {
+      "id": "TFF-264284-PENALTY-0",
+      "matchId": "264284",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 68,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264284"
+      ]
+    },
+    {
+      "id": "TFF-264288-PENALTY-0",
+      "matchId": "264288",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264288"
+      ]
+    },
+    {
+      "id": "TFF-264300-PENALTY-0",
+      "matchId": "264300",
+      "benefitingClubId": "3665",
+      "player": "JOAO VITOR BRANDAO FIGUEIREDO",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264300"
+      ]
+    },
+    {
+      "id": "TFF-264307-PENALTY-0",
+      "matchId": "264307",
+      "benefitingClubId": "72",
+      "player": "MIGUEL FILIPE NUNES CARDOSO",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264307"
+      ]
+    },
+    {
+      "id": "TFF-264315-PENALTY-0",
+      "matchId": "264315",
+      "benefitingClubId": "121",
+      "player": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+      "minute": 56,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264315"
+      ]
+    },
+    {
+      "id": "TFF-264312-PENALTY-0",
+      "matchId": "264312",
+      "benefitingClubId": "3604",
+      "player": "NESTOR FERNANDO MUSLERA",
+      "minute": 89,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264312"
+      ]
+    },
+    {
+      "id": "TFF-264317-PENALTY-0",
+      "matchId": "264317",
+      "benefitingClubId": "3688",
+      "player": "ROMULO JOSE CARDOSO DA CRUZ",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264317"
+      ]
+    },
+    {
+      "id": "TFF-264318-PENALTY-0",
+      "matchId": "264318",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264318"
+      ]
+    },
+    {
+      "id": "TFF-264311-PENALTY-0",
+      "matchId": "264311",
+      "benefitingClubId": "3596",
+      "player": "MUHAMMED CHAM SARACEVIC",
+      "minute": 75,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264311"
+      ]
+    },
+    {
+      "id": "TFF-264322-PENALTY-0",
+      "matchId": "264322",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 24,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264322"
+      ]
+    },
+    {
+      "id": "TFF-264319-PENALTY-0",
+      "matchId": "264319",
+      "benefitingClubId": "3603",
+      "player": "YUSUF BARASI",
+      "minute": 32,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264319"
+      ]
+    },
+    {
+      "id": "TFF-264320-PENALTY-0",
+      "matchId": "264320",
+      "benefitingClubId": "121",
+      "player": "GÖRKEM SAĞLAM",
+      "minute": 63,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264320"
+      ]
+    },
+    {
+      "id": "TFF-264336-PENALTY-0",
+      "matchId": "264336",
+      "benefitingClubId": "3604",
+      "player": "DRIES MERTENS",
+      "minute": 17,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264336"
+      ]
+    },
+    {
+      "id": "TFF-264335-PENALTY-0",
+      "matchId": "264335",
+      "benefitingClubId": "3688",
+      "player": "AHMED ILDIZ",
+      "minute": 32,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264335"
+      ]
+    },
+    {
+      "id": "TFF-264334-PENALTY-0",
+      "matchId": "264334",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 32,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264334"
+      ]
+    },
+    {
+      "id": "TFF-264332-PENALTY-0",
+      "matchId": "264332",
+      "benefitingClubId": "3590",
+      "player": "JOAO MARIO NAVAL DA COSTA EDUARDO",
+      "minute": 71,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264332"
+      ]
+    },
+    {
+      "id": "TFF-283559-PENALTY-0",
+      "matchId": "283559",
+      "benefitingClubId": "3604",
+      "player": "BARIŞ ALPER YILMAZ",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283559"
+      ]
+    },
+    {
+      "id": "TFF-283559-PENALTY-1",
+      "matchId": "283559",
+      "benefitingClubId": "3604",
+      "player": "BARIŞ ALPER YILMAZ",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283559"
+      ]
+    },
+    {
+      "id": "TFF-283557-PENALTY-0",
+      "matchId": "283557",
+      "benefitingClubId": "3597",
+      "player": "MARIUS MOUNDILMADJI",
+      "minute": 38,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283557"
+      ]
+    },
+    {
+      "id": "TFF-283554-PENALTY-0",
+      "matchId": "283554",
+      "benefitingClubId": "3600",
+      "player": "ENIS BARDHI",
+      "minute": 33,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283554"
+      ]
+    },
+    {
+      "id": "TFF-283565-PENALTY-0",
+      "matchId": "283565",
+      "benefitingClubId": "3590",
+      "player": "KEVIN OGHENETEGA TAMARAEBI BAKUMO ABRAHAM",
+      "minute": 19,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283565"
+      ]
+    },
+    {
+      "id": "TFF-283577-PENALTY-0",
+      "matchId": "283577",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283577"
+      ]
+    },
+    {
+      "id": "TFF-283572-PENALTY-0",
+      "matchId": "283572",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 65,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283572"
+      ]
+    },
+    {
+      "id": "TFF-283581-PENALTY-0",
+      "matchId": "283581",
+      "benefitingClubId": "39",
+      "player": "HARIS HAJRADINOVIC",
+      "minute": 87,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283581"
+      ]
+    },
+    {
+      "id": "TFF-283584-PENALTY-0",
+      "matchId": "283584",
+      "benefitingClubId": "51",
+      "player": "İBRAHİM KAYA",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283584"
+      ]
+    },
+    {
+      "id": "TFF-283607-PENALTY-0",
+      "matchId": "283607",
+      "benefitingClubId": "132",
+      "player": "BRUNO PETKOVIC",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283607"
+      ]
+    },
+    {
+      "id": "TFF-283612-PENALTY-0",
+      "matchId": "283612",
+      "benefitingClubId": "3596",
+      "player": "EBERE PAUL ONUACHU",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283612"
+      ]
+    },
+    {
+      "id": "TFF-283614-PENALTY-0",
+      "matchId": "283614",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 65,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283614"
+      ]
+    },
+    {
+      "id": "TFF-283619-PENALTY-0",
+      "matchId": "283619",
+      "benefitingClubId": "3596",
+      "player": "EBERE PAUL ONUACHU",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283619"
+      ]
+    },
+    {
+      "id": "TFF-283624-PENALTY-0",
+      "matchId": "283624",
+      "benefitingClubId": "3606",
+      "player": "MBAYE HAMADY NIANG",
+      "minute": 76,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283624"
+      ]
+    },
+    {
+      "id": "TFF-283625-PENALTY-0",
+      "matchId": "283625",
+      "benefitingClubId": "132",
+      "player": "BRUNO PETKOVIC",
+      "minute": 85,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283625"
+      ]
+    },
+    {
+      "id": "TFF-283621-PENALTY-0",
+      "matchId": "283621",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 55,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283621"
+      ]
+    },
+    {
+      "id": "TFF-283627-PENALTY-0",
+      "matchId": "283627",
+      "benefitingClubId": "3600",
+      "player": "PEDRO HENRIQUE OLIVEIRA DOS SANTOS",
+      "minute": 51,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283627"
+      ]
+    },
+    {
+      "id": "TFF-283632-PENALTY-0",
+      "matchId": "283632",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 23,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283632"
+      ]
+    },
+    {
+      "id": "TFF-283639-PENALTY-0",
+      "matchId": "283639",
+      "benefitingClubId": "3611",
+      "player": "SAM ANDREAS LARSSON",
+      "minute": 16,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283639"
+      ]
+    },
+    {
+      "id": "TFF-283648-PENALTY-0",
+      "matchId": "283648",
+      "benefitingClubId": "3665",
+      "player": "ELDOR SHOMURODOV",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283648"
+      ]
+    },
+    {
+      "id": "TFF-283660-PENALTY-0",
+      "matchId": "283660",
+      "benefitingClubId": "3606",
+      "player": "MBAYE HAMADY NIANG",
+      "minute": 53,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283660"
+      ]
+    },
+    {
+      "id": "TFF-283670-PENALTY-0",
+      "matchId": "283670",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 39,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283670"
+      ]
+    },
+    {
+      "id": "TFF-283664-PENALTY-0",
+      "matchId": "283664",
+      "benefitingClubId": "3590",
+      "player": "CENGİZ ÜNDER",
+      "minute": 57,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283664"
+      ]
+    },
+    {
+      "id": "TFF-283666-PENALTY-0",
+      "matchId": "283666",
+      "benefitingClubId": "3665",
+      "player": "DAVIE SELKE",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283666"
+      ]
+    },
+    {
+      "id": "TFF-283666-PENALTY-1",
+      "matchId": "283666",
+      "benefitingClubId": "3596",
+      "player": "EBERE PAUL ONUACHU",
+      "minute": 76,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283666"
+      ]
+    },
+    {
+      "id": "TFF-283676-PENALTY-0",
+      "matchId": "283676",
+      "benefitingClubId": "3610",
+      "player": "UMUT DİLAN BOZOK",
+      "minute": 10,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283676"
+      ]
+    },
+    {
+      "id": "TFF-283673-PENALTY-0",
+      "matchId": "283673",
+      "benefitingClubId": "3596",
+      "player": "EBERE PAUL ONUACHU",
+      "minute": 43,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283673"
+      ]
+    },
+    {
+      "id": "TFF-283681-PENALTY-0",
+      "matchId": "283681",
+      "benefitingClubId": "3600",
+      "player": "MEHMET UMUT NAYİR",
+      "minute": 66,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283681"
+      ]
+    },
+    {
+      "id": "TFF-283696-PENALTY-0",
+      "matchId": "283696",
+      "benefitingClubId": "3631",
+      "player": "QAZIM LACI",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283696"
+      ]
+    },
+    {
+      "id": "TFF-283695-PENALTY-0",
+      "matchId": "283695",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 28,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283695"
+      ]
+    },
+    {
+      "id": "TFF-283705-PENALTY-0",
+      "matchId": "283705",
+      "benefitingClubId": "3596",
+      "player": "ERNEST MUÇİ",
+      "minute": 67,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283705"
+      ]
+    },
+    {
+      "id": "TFF-283714-PENALTY-0",
+      "matchId": "283714",
+      "benefitingClubId": "3631",
+      "player": "QAZIM LACI",
+      "minute": 60,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283714"
+      ]
+    },
+    {
+      "id": "TFF-283720-PENALTY-0",
+      "matchId": "283720",
+      "benefitingClubId": "3665",
+      "player": "DAVIE SELKE",
+      "minute": 36,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283720"
+      ]
+    },
+    {
+      "id": "TFF-283718-PENALTY-0",
+      "matchId": "283718",
+      "benefitingClubId": "3610",
+      "player": "EMRE AKBABA",
+      "minute": 65,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283718"
+      ]
+    },
+    {
+      "id": "TFF-283727-PENALTY-0",
+      "matchId": "283727",
+      "benefitingClubId": "3596",
+      "player": "EBERE PAUL ONUACHU",
+      "minute": 53,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283727"
+      ]
+    },
+    {
+      "id": "TFF-283733-PENALTY-0",
+      "matchId": "283733",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 26,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283733"
+      ]
+    },
+    {
+      "id": "TFF-283733-PENALTY-1",
+      "matchId": "283733",
+      "benefitingClubId": "3604",
+      "player": "MAURO EMANUEL ICARDI",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283733"
+      ]
+    },
+    {
+      "id": "TFF-283736-PENALTY-0",
+      "matchId": "283736",
+      "benefitingClubId": "3596",
+      "player": "ERNEST MUÇİ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283736"
+      ]
+    },
+    {
+      "id": "TFF-283737-PENALTY-0",
+      "matchId": "283737",
+      "benefitingClubId": "3590",
+      "player": "ORKUN KÖKÇÜ",
+      "minute": 32,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283737"
+      ]
+    },
+    {
+      "id": "TFF-283741-PENALTY-0",
+      "matchId": "283741",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 16,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283741"
+      ]
+    },
+    {
+      "id": "TFF-283746-PENALTY-0",
+      "matchId": "283746",
+      "benefitingClubId": "3597",
+      "player": "JULES OLIVIER NTCHAM",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283746"
+      ]
+    },
+    {
+      "id": "TFF-283744-PENALTY-0",
+      "matchId": "283744",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 80,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283744"
+      ]
+    },
+    {
+      "id": "TFF-283756-PENALTY-0",
+      "matchId": "283756",
+      "benefitingClubId": "3665",
+      "player": "ELDOR SHOMURODOV",
+      "minute": 43,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283756"
+      ]
+    },
+    {
+      "id": "TFF-283770-PENALTY-0",
+      "matchId": "283770",
+      "benefitingClubId": "39",
+      "player": "ADRIAN DAWID BENEDYCZAK",
+      "minute": 31,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283770"
+      ]
+    },
+    {
+      "id": "TFF-283771-PENALTY-0",
+      "matchId": "283771",
+      "benefitingClubId": "3631",
+      "player": "QAZIM LACI",
+      "minute": 10,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283771"
+      ]
+    },
+    {
+      "id": "TFF-283772-PENALTY-0",
+      "matchId": "283772",
+      "benefitingClubId": "3596",
+      "player": "EBERE PAUL ONUACHU",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283772"
+      ]
+    },
+    {
+      "id": "TFF-283778-PENALTY-0",
+      "matchId": "283778",
+      "benefitingClubId": "132",
+      "player": "SERDAR DURSUN",
+      "minute": 5,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283778"
+      ]
+    },
+    {
+      "id": "TFF-283780-PENALTY-0",
+      "matchId": "283780",
+      "benefitingClubId": "3600",
+      "player": "JACKSON KYANVUBU MULEKA",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283780"
+      ]
+    },
+    {
+      "id": "TFF-283793-PENALTY-0",
+      "matchId": "283793",
+      "benefitingClubId": "3672",
+      "player": "ALEXANDRU IULIAN MAXIM",
+      "minute": 53,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283793"
+      ]
+    },
+    {
+      "id": "TFF-283788-PENALTY-0",
+      "matchId": "283788",
+      "benefitingClubId": "39",
+      "player": "ADRIAN DAWID BENEDYCZAK",
+      "minute": 57,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283788"
+      ]
+    },
+    {
+      "id": "TFF-283802-PENALTY-0",
+      "matchId": "283802",
+      "benefitingClubId": "3688",
+      "player": "NOVATUS DISMAS MIROSHI",
+      "minute": 39,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283802"
+      ]
+    },
+    {
+      "id": "TFF-283802-PENALTY-1",
+      "matchId": "283802",
+      "benefitingClubId": "3688",
+      "player": "MALCOM NARCISSE BOKELE MPUTU",
+      "minute": 68,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283802"
+      ]
+    },
+    {
+      "id": "TFF-283798-PENALTY-0",
+      "matchId": "283798",
+      "benefitingClubId": "3600",
+      "player": "ENIS BARDHI",
+      "minute": 23,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283798"
+      ]
+    },
+    {
+      "id": "TFF-283799-PENALTY-0",
+      "matchId": "283799",
+      "benefitingClubId": "3592",
+      "player": "MUHAMMED KEREM AKTÜRKOĞLU",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283799"
+      ]
+    },
+    {
+      "id": "TFF-283808-PENALTY-0",
+      "matchId": "283808",
+      "benefitingClubId": "51",
+      "player": "GÜVEN YALÇIN",
+      "minute": 67,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283808"
+      ]
+    },
+    {
+      "id": "TFF-283806-PENALTY-0",
+      "matchId": "283806",
+      "benefitingClubId": "3688",
+      "player": "JEFERSON MARINHO DOS SANTOS",
+      "minute": 82,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283806"
+      ]
+    },
+    {
+      "id": "TFF-283809-PENALTY-0",
+      "matchId": "283809",
+      "benefitingClubId": "3610",
+      "player": "METEHAN ALTUNBAŞ",
+      "minute": 45,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283809"
+      ]
+    },
+    {
+      "id": "TFF-283822-PENALTY-0",
+      "matchId": "283822",
+      "benefitingClubId": "3592",
+      "player": "ANDERSON SOUZA CONCEIÇAO",
+      "minute": 80,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283822"
+      ]
+    },
+    {
+      "id": "TFF-283820-PENALTY-0",
+      "matchId": "283820",
+      "benefitingClubId": "132",
+      "player": "SERDAR DURSUN",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283820"
+      ]
+    },
+    {
+      "id": "TFF-283817-PENALTY-0",
+      "matchId": "283817",
+      "benefitingClubId": "3590",
+      "player": "KRİSTJAN ASLLANİ",
+      "minute": 90,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283817"
+      ]
+    },
+    {
+      "id": "TFF-283823-PENALTY-0",
+      "matchId": "283823",
+      "benefitingClubId": "3672",
+      "player": "DEIAN CRISTIAN SORESCU",
+      "minute": 79,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283823"
+      ]
+    },
+    {
+      "id": "TFF-283830-PENALTY-0",
+      "matchId": "283830",
+      "benefitingClubId": "3604",
+      "player": "BARIŞ ALPER YILMAZ",
+      "minute": 67,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283830"
+      ]
+    },
+    {
+      "id": "TFF-283832-PENALTY-0",
+      "matchId": "283832",
+      "benefitingClubId": "3606",
+      "player": "METEHAN MİMAROĞLU",
+      "minute": 33,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283832"
+      ]
+    },
+    {
+      "id": "TFF-283835-PENALTY-0",
+      "matchId": "283835",
+      "benefitingClubId": "3590",
+      "player": "KRİSTJAN ASLLANİ",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283835"
+      ]
+    },
+    {
+      "id": "TFF-283844-PENALTY-0",
+      "matchId": "283844",
+      "benefitingClubId": "3590",
+      "player": "ORKUN KÖKÇÜ",
+      "minute": 14,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283844"
+      ]
+    },
+    {
+      "id": "TFF-283845-PENALTY-0",
+      "matchId": "283845",
+      "benefitingClubId": "3665",
+      "player": "ELDOR SHOMURODOV",
+      "minute": 6,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283845"
+      ]
+    },
+    {
+      "id": "TFF-283842-PENALTY-0",
+      "matchId": "283842",
+      "benefitingClubId": "3606",
+      "player": "FRANCO DARYL TONGYA HEUBANG",
+      "minute": 70,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283842"
+      ]
+    },
+    {
+      "id": "TFF-283842-PENALTY-1",
+      "matchId": "283842",
+      "benefitingClubId": "39",
+      "player": "ADRIAN DAWID BENEDYCZAK",
+      "minute": 12,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283842"
+      ]
+    },
+    {
+      "id": "TFF-283843-PENALTY-0",
+      "matchId": "283843",
+      "benefitingClubId": "3604",
+      "player": "VICTOR JAMES OSIMHEN",
+      "minute": 66,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283843"
+      ]
+    },
+    {
+      "id": "TFF-283850-PENALTY-0",
+      "matchId": "283850",
+      "benefitingClubId": "51",
+      "player": "FLORENT HADERGJONAJ",
+      "minute": 39,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283850"
+      ]
+    },
+    {
+      "id": "TFF-283849-PENALTY-0",
+      "matchId": "283849",
+      "benefitingClubId": "3610",
+      "player": "UMUT DİLAN BOZOK",
+      "minute": 18,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283849"
+      ]
+    },
+    {
+      "id": "TFF-283855-PENALTY-0",
+      "matchId": "283855",
+      "benefitingClubId": "3665",
+      "player": "ELDOR SHOMURODOV",
+      "minute": 22,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283855"
+      ]
+    },
+    {
+      "id": "TFF-283854-PENALTY-0",
+      "matchId": "283854",
+      "benefitingClubId": "3611",
+      "player": "SAM ANDREAS LARSSON",
+      "minute": 72,
+      "outcome": "scored",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283854"
+      ]
+    },
+    {
+      "id": "TM-4126779-MISSED-48-1",
+      "matchId": "249161",
+      "benefitingClubId": "3590",
+      "player": "Vincent Aboubakar",
+      "minute": 48,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126779",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249161"
+      ]
+    },
+    {
+      "id": "TM-4126781-MISSED-54-1",
+      "matchId": "249163",
+      "benefitingClubId": "3592",
+      "player": "Dusan Tadic",
+      "minute": 54,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126781",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249163"
+      ]
+    },
+    {
+      "id": "TM-4126783-MISSED-90-1",
+      "matchId": "249165",
+      "benefitingClubId": "3617",
+      "player": "Emir Kaan Gültekin",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126783",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249165"
+      ]
+    },
+    {
+      "id": "TM-4126812-MISSED-37-1",
+      "matchId": "249177",
+      "benefitingClubId": "3604",
+      "player": "Kerem Aktürkoğlu",
+      "minute": 37,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126812",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249177"
+      ]
+    },
+    {
+      "id": "TM-4126822-MISSED-45-1",
+      "matchId": "249187",
+      "benefitingClubId": "51",
+      "player": "Efecan Karaca",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126822",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249187"
+      ]
+    },
+    {
+      "id": "TM-4126824-MISSED-90-1",
+      "matchId": "252523",
+      "benefitingClubId": "3597",
+      "player": "Marius Mouandilmadji",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126824",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=252523"
+      ]
+    },
+    {
+      "id": "TM-4129458-MISSED-73-1",
+      "matchId": "249201",
+      "benefitingClubId": "121",
+      "player": "Didier Lamkel Zé",
+      "minute": 73,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129458",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249201"
+      ]
+    },
+    {
+      "id": "TM-4129488-MISSED-60-1",
+      "matchId": "249231",
+      "benefitingClubId": "3672",
+      "player": "Alexandru Maxim",
+      "minute": 60,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129488",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249231"
+      ]
+    },
+    {
+      "id": "TM-4129536-MISSED-16-1",
+      "matchId": "249279",
+      "benefitingClubId": "3590",
+      "player": "Cenk Tosun",
+      "minute": 16,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129536",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249279"
+      ]
+    },
+    {
+      "id": "TM-4129545-MISSED-45-1",
+      "matchId": "249288",
+      "benefitingClubId": "3672",
+      "player": "Alexandru Maxim",
+      "minute": 45,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129545",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249288"
+      ]
+    },
+    {
+      "id": "TM-4129558-MISSED-90-1",
+      "matchId": "249301",
+      "benefitingClubId": "121",
+      "player": "Renat Dadashov",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129558",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249301"
+      ]
+    },
+    {
+      "id": "TM-4129560-MISSED-90-1",
+      "matchId": "249303",
+      "benefitingClubId": "3592",
+      "player": "Dusan Tadic",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129560",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249303"
+      ]
+    },
+    {
+      "id": "TM-4129581-MISSED-17-1",
+      "matchId": "249324",
+      "benefitingClubId": "3595",
+      "player": "Riad Bajic",
+      "minute": 17,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129581",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249324"
+      ]
+    },
+    {
+      "id": "TM-4129582-MISSED-90-1",
+      "matchId": "249325",
+      "benefitingClubId": "3623",
+      "player": "Óscar Romero",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129582",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249325"
+      ]
+    },
+    {
+      "id": "TM-4129586-MISSED-17-1",
+      "matchId": "249328",
+      "benefitingClubId": "39",
+      "player": "Aytaç Kara",
+      "minute": 17,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129586",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249328"
+      ]
+    },
+    {
+      "id": "TM-4129588-MISSED-90-1",
+      "matchId": "249330",
+      "benefitingClubId": "52",
+      "player": "Adam Buksa",
+      "minute": 90,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129588",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249330"
+      ]
+    },
+    {
+      "id": "TM-4129594-MISSED-65-1",
+      "matchId": "249337",
+      "benefitingClubId": "3592",
+      "player": "Dusan Tadic",
+      "minute": 65,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129594",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249337"
+      ]
+    },
+    {
+      "id": "TM-4261503-MISSED-45-1",
+      "matchId": "249346",
+      "benefitingClubId": "72",
+      "player": "Stéphane Bahoken",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4261503",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249346"
+      ]
+    },
+    {
+      "id": "TM-4261510-MISSED-50-1",
+      "matchId": "249353",
+      "benefitingClubId": "3592",
+      "player": "Edin Dzeko",
+      "minute": 50,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4261510",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249353"
+      ]
+    },
+    {
+      "id": "TM-4129667-MISSED-76-1",
+      "matchId": "249410",
+      "benefitingClubId": "51",
+      "player": "João Novais",
+      "minute": 76,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129667",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249410"
+      ]
+    },
+    {
+      "id": "TM-4129663-MISSED-90-1",
+      "matchId": "249406",
+      "benefitingClubId": "3665",
+      "player": "Krzysztof Piatek",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129663",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249406"
+      ]
+    },
+    {
+      "id": "TM-4129679-MISSED-59-1",
+      "matchId": "249422",
+      "benefitingClubId": "3604",
+      "player": "Kerem Aktürkoğlu",
+      "minute": 59,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129679",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249422"
+      ]
+    },
+    {
+      "id": "TM-4129675-MISSED-90-1",
+      "matchId": "249418",
+      "benefitingClubId": "3592",
+      "player": "Michy Batshuayi",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129675",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249418"
+      ]
+    },
+    {
+      "id": "TM-4129700-MISSED-89-1",
+      "matchId": "249443",
+      "benefitingClubId": "3590",
+      "player": "Cenk Tosun",
+      "minute": 89,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129700",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249443"
+      ]
+    },
+    {
+      "id": "TM-4129710-MISSED-71-1",
+      "matchId": "249450",
+      "benefitingClubId": "3631",
+      "player": "Jonjo Shelvey",
+      "minute": 71,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129710",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249450"
+      ]
+    },
+    {
+      "id": "TM-4129708-MISSED-81-1",
+      "matchId": "249448",
+      "benefitingClubId": "3604",
+      "player": "Mauro Icardi",
+      "minute": 81,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129708",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249448"
+      ]
+    },
+    {
+      "id": "TM-4129712-MISSED-90-1",
+      "matchId": "249452",
+      "benefitingClubId": "3590",
+      "player": "Milot Rashica",
+      "minute": 90,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129712",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249452"
+      ]
+    },
+    {
+      "id": "TM-4129724-MISSED-14-1",
+      "matchId": "249467",
+      "benefitingClubId": "3617",
+      "player": "Jackson Kenio",
+      "minute": 14,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129724",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249467"
+      ]
+    },
+    {
+      "id": "TM-4129738-MISSED-45-1",
+      "matchId": "249481",
+      "benefitingClubId": "3611",
+      "player": "Marcão",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129738",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249481"
+      ]
+    },
+    {
+      "id": "TM-4129753-MISSED-86-1",
+      "matchId": "249496",
+      "benefitingClubId": "3672",
+      "player": "Denis Drăguș",
+      "minute": 86,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129753",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249496"
+      ]
+    },
+    {
+      "id": "TM-4129772-MISSED-45-1",
+      "matchId": "249515",
+      "benefitingClubId": "3623",
+      "player": "Mame Thiam",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129772",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/4",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249515"
+      ]
+    },
+    {
+      "id": "TM-4387827-MISSED-10-1",
+      "matchId": "264014",
+      "benefitingClubId": "72",
+      "player": "Joseph Attamah",
+      "minute": 10,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387827",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264014"
+      ]
+    },
+    {
+      "id": "TM-4387829-MISSED-13-1",
+      "matchId": "264016",
+      "benefitingClubId": "3603",
+      "player": "Yusuf Sarı",
+      "minute": 13,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387829",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264016"
+      ]
+    },
+    {
+      "id": "TM-4387832-MISSED-44-1",
+      "matchId": "264019",
+      "benefitingClubId": "52",
+      "player": "Ramzi Safuri",
+      "minute": 44,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387832",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264019"
+      ]
+    },
+    {
+      "id": "TM-4387835-MISSED-66-1",
+      "matchId": "264022",
+      "benefitingClubId": "3603",
+      "player": "Yusuf Sarı",
+      "minute": 66,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387835",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264022"
+      ]
+    },
+    {
+      "id": "TM-4387841-MISSED-75-1",
+      "matchId": "264028",
+      "benefitingClubId": "3597",
+      "player": "Olivier Ntcham",
+      "minute": 75,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387841",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264028"
+      ]
+    },
+    {
+      "id": "TM-4387835-MISSED-90-1",
+      "matchId": "264022",
+      "benefitingClubId": "3604",
+      "player": "Michy Batshuayi",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387835",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264022"
+      ]
+    },
+    {
+      "id": "TM-4393167-MISSED-45-1",
+      "matchId": "264052",
+      "benefitingClubId": "3610",
+      "player": "Mame Thiam",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393167",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264052"
+      ]
+    },
+    {
+      "id": "TM-4393165-MISSED-80-1",
+      "matchId": "264050",
+      "benefitingClubId": "3600",
+      "player": "Umut Nayir",
+      "minute": 80,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393165",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264050"
+      ]
+    },
+    {
+      "id": "TM-4393168-MISSED-81-1",
+      "matchId": "264057",
+      "benefitingClubId": "4824",
+      "player": "Taulant Seferi",
+      "minute": 81,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393168",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264057"
+      ]
+    },
+    {
+      "id": "TM-4393193-MISSED-19-1",
+      "matchId": "264079",
+      "benefitingClubId": "3597",
+      "player": "Olivier Ntcham",
+      "minute": 19,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393193",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264079"
+      ]
+    },
+    {
+      "id": "TM-4393193-MISSED-27-2",
+      "matchId": "264079",
+      "benefitingClubId": "3597",
+      "player": "Olivier Ntcham",
+      "minute": 27,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393193",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264079"
+      ]
+    },
+    {
+      "id": "TM-4393199-MISSED-45-1",
+      "matchId": "264090",
+      "benefitingClubId": "3665",
+      "player": "Jerome Opoku",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393199",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264090"
+      ]
+    },
+    {
+      "id": "TM-4393242-MISSED-9-1",
+      "matchId": "264132",
+      "benefitingClubId": "3631",
+      "player": "Ali Sowe",
+      "minute": 9,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393242",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264132"
+      ]
+    },
+    {
+      "id": "TM-4393267-MISSED-90-1",
+      "matchId": "264149",
+      "benefitingClubId": "3592",
+      "player": "Edin Dzeko",
+      "minute": 90,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393267",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264149"
+      ]
+    },
+    {
+      "id": "TM-4393281-MISSED-49-1",
+      "matchId": "264166",
+      "benefitingClubId": "3596",
+      "player": "Simon Banza",
+      "minute": 49,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393281",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264166"
+      ]
+    },
+    {
+      "id": "TM-4393279-MISSED-80-1",
+      "matchId": "264168",
+      "benefitingClubId": "3631",
+      "player": "Rachid Ghezzal",
+      "minute": 80,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393279",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264168"
+      ]
+    },
+    {
+      "id": "TM-4393293-MISSED-90-1",
+      "matchId": "264175",
+      "benefitingClubId": "3631",
+      "player": "Vaclav Jurecka",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393293",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264175"
+      ]
+    },
+    {
+      "id": "TM-4393300-MISSED-45-1",
+      "matchId": "264192",
+      "benefitingClubId": "4824",
+      "player": "Taylan Antalyalı",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393300",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264192"
+      ]
+    },
+    {
+      "id": "TM-4393297-MISSED-81-1",
+      "matchId": "264189",
+      "benefitingClubId": "3688",
+      "player": "Juan",
+      "minute": 81,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393297",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264189"
+      ]
+    },
+    {
+      "id": "TM-4393310-MISSED-7-1",
+      "matchId": "264196",
+      "benefitingClubId": "3610",
+      "player": "Mame Thiam",
+      "minute": 7,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393310",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264196"
+      ]
+    },
+    {
+      "id": "TM-4393350-MISSED-59-1",
+      "matchId": "264239",
+      "benefitingClubId": "3665",
+      "player": "Krzysztof Piatek",
+      "minute": 59,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393350",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264239"
+      ]
+    },
+    {
+      "id": "TM-4393367-MISSED-45-1",
+      "matchId": "264262",
+      "benefitingClubId": "3688",
+      "player": "Rômulo",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393367",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264262"
+      ]
+    },
+    {
+      "id": "TM-4393390-MISSED-42-1",
+      "matchId": "264274",
+      "benefitingClubId": "74",
+      "player": "Rey Manaj",
+      "minute": 42,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393390",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264274"
+      ]
+    },
+    {
+      "id": "TM-4393391-MISSED-55-1",
+      "matchId": "264281",
+      "benefitingClubId": "3597",
+      "player": "Carlo Holse",
+      "minute": 55,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393391",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264281"
+      ]
+    },
+    {
+      "id": "TM-4393410-MISSED-36-1",
+      "matchId": "264296",
+      "benefitingClubId": "3590",
+      "player": "Gedson Fernandes",
+      "minute": 36,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393410",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264296"
+      ]
+    },
+    {
+      "id": "TM-4393407-MISSED-45-1",
+      "matchId": "264297",
+      "benefitingClubId": "3600",
+      "player": "Blaz Kramer",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393407",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264297"
+      ]
+    },
+    {
+      "id": "TM-4393411-MISSED-45-1",
+      "matchId": "264300",
+      "benefitingClubId": "3665",
+      "player": "Krzysztof Piatek",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393411",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264300"
+      ]
+    },
+    {
+      "id": "TM-4393405-MISSED-74-1",
+      "matchId": "264295",
+      "benefitingClubId": "3610",
+      "player": "Mame Thiam",
+      "minute": 74,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393405",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264295"
+      ]
+    },
+    {
+      "id": "TM-4393417-MISSED-20-1",
+      "matchId": "264302",
+      "benefitingClubId": "3665",
+      "player": "Krzysztof Piatek",
+      "minute": 20,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393417",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264302"
+      ]
+    },
+    {
+      "id": "TM-4393425-MISSED-38-1",
+      "matchId": "264315",
+      "benefitingClubId": "121",
+      "player": "Jonathan Okoronkwo",
+      "minute": 38,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393425",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264315"
+      ]
+    },
+    {
+      "id": "TM-4393427-MISSED-81-1",
+      "matchId": "264318",
+      "benefitingClubId": "3665",
+      "player": "Jerome Opoku",
+      "minute": 81,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393427",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/4",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=264318"
+      ]
+    },
+    {
+      "id": "TM-4646344-MISSED-57-1",
+      "matchId": "283560",
+      "benefitingClubId": "3592",
+      "player": "Talisca",
+      "minute": 57,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646344",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283560"
+      ]
+    },
+    {
+      "id": "TM-4646352-MISSED-90-1",
+      "matchId": "283568",
+      "benefitingClubId": "3592",
+      "player": "Talisca",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646352",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283568"
+      ]
+    },
+    {
+      "id": "TM-4646382-MISSED-90-1",
+      "matchId": "283597",
+      "benefitingClubId": "3606",
+      "player": "Henry Onyekuru",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646382",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283597"
+      ]
+    },
+    {
+      "id": "TM-4647835-MISSED-26-1",
+      "matchId": "283622",
+      "benefitingClubId": "3688",
+      "player": "Juan",
+      "minute": 26,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647835",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283622"
+      ]
+    },
+    {
+      "id": "TM-4647834-MISSED-90-1",
+      "matchId": "283621",
+      "benefitingClubId": "3611",
+      "player": "David Datro Fofana",
+      "minute": 90,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647834",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283621"
+      ]
+    },
+    {
+      "id": "TM-4647849-MISSED-32-1",
+      "matchId": "283635",
+      "benefitingClubId": "3590",
+      "player": "Tammy Abraham",
+      "minute": 32,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647849",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283635"
+      ]
+    },
+    {
+      "id": "TM-4647890-MISSED-71-1",
+      "matchId": "283658",
+      "benefitingClubId": "3672",
+      "player": "Deian Sorescu",
+      "minute": 71,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647890",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283658"
+      ]
+    },
+    {
+      "id": "TM-4647880-MISSED-58-1",
+      "matchId": "283675",
+      "benefitingClubId": "3590",
+      "player": "Cengiz Ünder",
+      "minute": 58,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647880",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283675"
+      ]
+    },
+    {
+      "id": "TM-4647872-MISSED-65-1",
+      "matchId": "283694",
+      "benefitingClubId": "3672",
+      "player": "Mohamed Bayo",
+      "minute": 65,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647872",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283694"
+      ]
+    },
+    {
+      "id": "TM-4647941-MISSED-81-1",
+      "matchId": "283727",
+      "benefitingClubId": "3596",
+      "player": "Paul Onuachu",
+      "minute": 81,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647941",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283727"
+      ]
+    },
+    {
+      "id": "TM-4647967-MISSED-69-1",
+      "matchId": "283753",
+      "benefitingClubId": "72",
+      "player": "László Bénes",
+      "minute": 69,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647967",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283753"
+      ]
+    },
+    {
+      "id": "TM-4647975-MISSED-8-1",
+      "matchId": "283761",
+      "benefitingClubId": "3688",
+      "player": "Janderson",
+      "minute": 8,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647975",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283761"
+      ]
+    },
+    {
+      "id": "TM-4647984-MISSED-45-1",
+      "matchId": "283770",
+      "benefitingClubId": "39",
+      "player": "Pape Habib Guèye",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647984",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283770"
+      ]
+    },
+    {
+      "id": "TM-4647996-MISSED-7-1",
+      "matchId": "283782",
+      "benefitingClubId": "3688",
+      "player": "Juan",
+      "minute": 7,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647996",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283782"
+      ]
+    },
+    {
+      "id": "TM-4648012-MISSED-90-1",
+      "matchId": "283798",
+      "benefitingClubId": "3597",
+      "player": "Olivier Ntcham",
+      "minute": 90,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648012",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283798"
+      ]
+    },
+    {
+      "id": "TM-4648044-MISSED-13-1",
+      "matchId": "283830",
+      "benefitingClubId": "3592",
+      "player": "Talisca",
+      "minute": 13,
+      "outcome": "missed",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648044",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283830"
+      ]
+    },
+    {
+      "id": "TM-4648054-MISSED-45-1",
+      "matchId": "283840",
+      "benefitingClubId": "3606",
+      "player": "Metehan Mimaroğlu",
+      "minute": 45,
+      "outcome": "saved",
+      "sourceUrls": [
+        "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648054",
+        "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=283840"
+      ]
+    }
+  ],
+  "suspensions": [
+    {
+      "id": "REVIEWED-FRED-2023-DERBY",
+      "originMatchId": "249316",
+      "affectedMatchIds": ["249333"],
+      "clubId": "3592",
+      "playerId": "2552635",
+      "player": "FREDERICO RODRIGUES DE PAULA SANTOS",
+      "cause": "red",
+      "sourceUrls": [
+        "https://www.tff.org/Default.aspx?pageID=246&ftxtID=43023",
+        "https://www.tff.org/Default.aspx?ftxtId=43092&pageId=200",
+        "https://beinsports.com.tr/haber/kirmizi-kart-goren-fred-super-kupa-macinda-oynayabilecek-mi",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249316",
+        "https://www.tff.org/Default.aspx?pageID=29&macId=249333",
+        "https://www.fotmob.com/api/data/matchDetails?matchId=4257279",
+        "https://www.fotmob.com/api/data/matchDetails?matchId=4257207",
+        "https://www.fotmob.com/api/data/matchDetails?matchId=4257153",
+        "https://www.fotmob.com/api/data/matchDetails?matchId=4257174",
+        "https://www.fotmob.com/api/data/matchDetails?matchId=4257169"
+      ],
+      "rating": {
+        "value": 7.64,
+        "min": 0,
+        "max": 10,
+        "valuableThreshold": 7,
+        "assessedAt": "2023-12-09T16:00:00Z",
+        "sourceUrl": "https://www.fotmob.com/api/data/matchDetails?matchId=4257279",
+        "provider": "FotMob · kart öncesi son 5 puanlanan lig maçının ortalaması"
+      }
+    }
+  ]
+}

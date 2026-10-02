@@ -1,30 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T19:19:41.202Z",
+  "generatedAt": "2026-10-02T10:49:50.700Z",
   "sources": [
     {
       "season": "2023-24",
       "file": "data/raw/tff/fixtures-2023-24.json",
       "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1648",
-      "retrievedAt": "2026-09-30T17:36:44.412Z",
+      "retrievedAt": "2026-10-01T08:11:10.511Z",
       "records": 380,
-      "sha256": "36796028f3bf6e436b79ad816ceab6917072eea823f0c2a12152ed957cb1ab24"
+      "sha256": "d0725481f104c9a45dfc60d1d66ec96420ff377d4af5fb0fa3da42c59fd6f3be"
     },
     {
       "season": "2024-25",
       "file": "data/raw/tff/fixtures-2024-25.json",
       "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1730",
-      "retrievedAt": "2026-09-30T17:36:44.767Z",
+      "retrievedAt": "2026-10-01T08:11:11.078Z",
       "records": 342,
-      "sha256": "ede170308daa84f01780da0f78357397a7d8fd63324c44d91ca5cbad625937a2"
+      "sha256": "ba8fb58c0163fb9e6bbc5559de08b3de9836bd0a5cd53c4facc100c9b3150415"
     },
     {
       "season": "2025-26",
       "file": "data/raw/tff/fixtures-2025-26.json",
       "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1768",
-      "retrievedAt": "2026-09-30T17:36:45.081Z",
+      "retrievedAt": "2026-10-01T08:11:11.572Z",
       "records": 306,
-      "sha256": "0887d4fd38fa4321b253424d438a4a4df31ea3e4cf9bd24327bc28c6f7d88fa2"
+      "sha256": "84dd2a7ff80d7969361638ee4b7291445ad74cf9db1eea070061b184985540e1"
     }
   ],
   "matchDetails": [
@@ -32,34 +32,95 @@
       "season": "2023-24",
       "file": "data/raw/tff/match-details-2023-24.json",
       "source": "TFF match detail pages",
-      "records": 140,
-      "cardEvents": 630,
-      "goalEvents": 430,
-      "penaltyGoals": 41,
-      "lineupPlayers": 5867,
-      "sha256": "5d9b24e2eca1182a639bf67ee1eec418ee9a0902832689d4d3c40cc3fc1b7a65"
+      "records": 380,
+      "cardEvents": 1667,
+      "goalEvents": 1061,
+      "penaltyGoals": 104,
+      "lineupPlayers": 15871,
+      "sha256": "398ba04d50c33dadfe233d41069b303f9f077f1e735ac6ecdc2b06772d26de60"
     },
     {
       "season": "2024-25",
       "file": "data/raw/tff/match-details-2024-25.json",
       "source": "TFF match detail pages",
-      "records": 132,
-      "cardEvents": 637,
-      "goalEvents": 410,
-      "penaltyGoals": 53,
-      "lineupPlayers": 5525,
-      "sha256": "e3d0f94fe425a9703ba55e3ba67b1329f9c6b46c76fb3c3d740751427da94dc9"
+      "records": 342,
+      "cardEvents": 1659,
+      "goalEvents": 1001,
+      "penaltyGoals": 107,
+      "lineupPlayers": 14270,
+      "sha256": "fa985c82d4fe55958c1984645743db69dc69be8ec85b278501c72dd00cbee9f1"
     },
     {
       "season": "2025-26",
       "file": "data/raw/tff/match-details-2025-26.json",
       "source": "TFF match detail pages",
-      "records": 124,
-      "cardEvents": 574,
-      "goalEvents": 388,
-      "penaltyGoals": 32,
-      "lineupPlayers": 5167,
-      "sha256": "4be214072632cb17fcfb6386ededbad772727f37313fcda34b0367c371858ce7"
+      "records": 306,
+      "cardEvents": 1428,
+      "goalEvents": 812,
+      "penaltyGoals": 73,
+      "lineupPlayers": 12732,
+      "sha256": "bf01f0de640a7a5ed2a71d2cf75b4281a648bd5c5d5b89df30bef029dece6ff0"
+    }
+  ],
+  "playerRatings": [
+    {
+      "season": "2023-24",
+      "url": "https://www.fotmob.com/leagues/71/stats/season/21459/players/rating/super-lig-players",
+      "retrievedAt": "2026-10-02T10:34:04.985Z",
+      "records": 268,
+      "sha256": "3edf72855d20b4185c17cbd704eb21d67f49783f77565c9a837fcbde0fdef859"
+    },
+    {
+      "season": "2024-25",
+      "url": "https://www.fotmob.com/leagues/71/stats/season/23864/players/rating/super-lig-players",
+      "retrievedAt": "2026-10-02T10:34:05.697Z",
+      "records": 274,
+      "sha256": "976025a3bc319dce6033298bea78c8fe5c0ca0f4849518a8953b0600c28c79d1"
+    },
+    {
+      "season": "2025-26",
+      "url": "https://www.fotmob.com/leagues/71/stats/season/27244/players/rating/super-lig-players",
+      "retrievedAt": "2026-10-02T10:34:06.373Z",
+      "records": 254,
+      "sha256": "d5c03369e589db9fa1e39f06f80963973951519054a66e2296b5705f760d5a71"
+    }
+  ],
+  "decisionEvidence": [
+    {
+      "file": "data/raw/reviewed-decisions.json",
+      "retrievedAt": "2026-10-02T10:49:50.405Z",
+      "sha256": "adb59f2ebf5ed49a004e7a72dd57d8d238e5c17d8e9e8d47c46af8da888b75c0",
+      "records": 365
+    },
+    {
+      "file": "data/raw/transfermarkt-missed-penalties.json",
+      "retrievedAt": "2026-10-02T10:49:50.409Z",
+      "sha256": "59808d37788e8dd202e03a6d1aff78a8907cb995595bbadec9aa4ee6d1376414",
+      "records": 79
+    },
+    {
+      "file": "data/raw/fotmob-player-ratings.json",
+      "retrievedAt": "2026-10-02T10:49:50.413Z",
+      "sha256": "abfc1774fcba740b897a096f3dd0e1cc5edd422f1114478900b9979411421ed5",
+      "records": 796
+    },
+    {
+      "file": "data/raw/fotmob-match-evidence.json",
+      "retrievedAt": "2026-10-02T10:49:50.653Z",
+      "sha256": "095ae258f0907dc8396dbe2089b27834d181e97df7279d655fe1345b85fba86b",
+      "records": 1028
+    },
+    {
+      "file": "data/raw/tff-disciplinary-evidence.json",
+      "retrievedAt": "2026-10-02T10:49:50.697Z",
+      "sha256": "436d81283aae7c1f7e4a8f70195cd60fa6602b5e6fcc2056197b23408e08cce8",
+      "records": 212
+    },
+    {
+      "file": "data/normalized/suspension-research.json",
+      "retrievedAt": "2026-10-02T10:49:50.700Z",
+      "sha256": "79ad0230962d53ba7ed76c8add79287564eea544f00b60fa25c0987fc85b6532",
+      "records": 157
     }
   ]
 }

@@ -3,7 +3,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import path from "node:path";
 
-const normalizedFile = path.resolve("data/normalized/big-four-matches.json");
+const normalizedFile = path.resolve("data/normalized/superlig-matches.json");
 const dataset = JSON.parse(await readFile(normalizedFile, "utf8"));
 const rawDir = path.resolve("data/raw/tff");
 await mkdir(rawDir, { recursive: true });

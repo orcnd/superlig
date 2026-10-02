@@ -11,6 +11,11 @@
     "data:import:tff": "npm run data:import:tff:fixtures && npm run data:import:tff:details",
     "data:import:tff:fixtures": "node scripts/import-tff-fixtures.mjs",
     "data:import:tff:details": "node scripts/import-tff-match-details.mjs",
+    "data:import:penalties": "node scripts/import-penalty-decisions.mjs --write",
+    "data:import:ratings": "node scripts/import-player-ratings.mjs && node scripts/import-fotmob-match-evidence.mjs",
+    "data:import:discipline": "node scripts/import-tff-disciplinary-evidence.mjs",
+    "data:enrich:suspensions": "node scripts/enrich-suspension-research.mjs",
+    "data:manifest": "node scripts/update-evidence-manifest.mjs",
     "pages:build": "next build",
     "pages:deploy": "wrangler pages deploy out"
   },

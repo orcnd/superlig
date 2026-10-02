@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceId": "tff-fixtures-2024-25",
   "season": "2024-25",
-  "retrievedAt": "2026-09-30T17:36:44.767Z",
+  "retrievedAt": "2026-10-01T08:11:11.078Z",
   "sourceUrl": "https://www.tff.org/Default.aspx?pageID=1730",
   "sourceType": "federation",
   "reliability": 1,
@@ -85,25 +85,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264001"
     },
     {
-      "matchId": "263995",
-      "season": "2024-25",
-      "week": 1,
-      "homeTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=263995"
-    },
-    {
       "matchId": "264000",
       "season": "2024-25",
       "week": 1,
@@ -140,6 +121,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264002"
+    },
+    {
+      "matchId": "263995",
+      "season": "2024-25",
+      "week": 1,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=263995"
     },
     {
       "matchId": "263997",
@@ -199,25 +199,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264009"
     },
     {
-      "matchId": "264004",
-      "season": "2024-25",
-      "week": 2,
-      "homeTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "score": {
-        "home": 1,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264004"
-    },
-    {
       "matchId": "264011",
       "season": "2024-25",
       "week": 2,
@@ -235,6 +216,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264011"
+    },
+    {
+      "matchId": "264004",
+      "season": "2024-25",
+      "week": 2,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264004"
     },
     {
       "matchId": "264006",
@@ -427,25 +427,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264016"
     },
     {
-      "matchId": "264019",
-      "season": "2024-25",
-      "week": 3,
-      "homeTeam": {
-        "tffClubId": "52",
-        "sourceName": "ANTALYASPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 3,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264019"
-    },
-    {
       "matchId": "264015",
       "season": "2024-25",
       "week": 3,
@@ -463,6 +444,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264015"
+    },
+    {
+      "matchId": "264019",
+      "season": "2024-25",
+      "week": 3,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "ANTALYASPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264019"
     },
     {
       "matchId": "264017",
@@ -560,23 +560,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264024"
     },
     {
-      "matchId": "264027",
+      "matchId": "264029",
       "season": "2024-25",
       "week": 4,
       "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
       },
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264027"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264029"
     },
     {
       "matchId": "264022",
@@ -598,80 +598,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264022"
     },
     {
-      "matchId": "264029",
+      "matchId": "264027",
       "season": "2024-25",
       "week": 4,
       "homeTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
-      },
-      "score": {
-        "home": 2,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264029"
-    },
-    {
-      "matchId": "264028",
-      "season": "2024-25",
-      "week": 4,
-      "homeTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "SAMSUNSPOR A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 3,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264028"
-    },
-    {
-      "matchId": "264025",
-      "season": "2024-25",
-      "week": 4,
-      "homeTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "score": {
         "home": 0,
         "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264025"
-    },
-    {
-      "matchId": "264030",
-      "season": "2024-25",
-      "week": 4,
-      "homeTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "awayTeam": {
-        "tffClubId": "52",
-        "sourceName": "ANTALYASPOR A.Ş."
-      },
-      "score": {
-        "home": 5,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264030"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264027"
     },
     {
       "matchId": "264026",
@@ -693,23 +636,61 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264026"
     },
     {
-      "matchId": "264038",
+      "matchId": "264025",
       "season": "2024-25",
-      "week": 5,
+      "week": 4,
       "homeTeam": {
-        "tffClubId": "3597",
-        "sourceName": "SAMSUNSPOR A.Ş."
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
       },
       "awayTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "score": {
         "home": 0,
-        "away": 1,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264038"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264025"
+    },
+    {
+      "matchId": "264028",
+      "season": "2024-25",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264028"
+    },
+    {
+      "matchId": "264030",
+      "season": "2024-25",
+      "week": 4,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "ANTALYASPOR A.Ş."
+      },
+      "score": {
+        "home": 5,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264030"
     },
     {
       "matchId": "264035",
@@ -731,25 +712,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264035"
     },
     {
-      "matchId": "264039",
-      "season": "2024-25",
-      "week": 5,
-      "homeTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
-      },
-      "awayTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "score": {
-        "home": 0,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264039"
-    },
-    {
       "matchId": "264031",
       "season": "2024-25",
       "week": 5,
@@ -769,6 +731,44 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264031"
     },
     {
+      "matchId": "264039",
+      "season": "2024-25",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264039"
+    },
+    {
+      "matchId": "264038",
+      "season": "2024-25",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264038"
+    },
+    {
       "matchId": "264033",
       "season": "2024-25",
       "week": 5,
@@ -786,25 +786,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264033"
-    },
-    {
-      "matchId": "264036",
-      "season": "2024-25",
-      "week": 5,
-      "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 0,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264036"
     },
     {
       "matchId": "264034",
@@ -845,6 +826,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264032"
     },
     {
+      "matchId": "264036",
+      "season": "2024-25",
+      "week": 5,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264036"
+    },
+    {
       "matchId": "264037",
       "season": "2024-25",
       "week": 5,
@@ -883,25 +883,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264048"
     },
     {
-      "matchId": "264045",
-      "season": "2024-25",
-      "week": 6,
-      "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
-      },
-      "score": {
-        "home": 0,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264045"
-    },
-    {
       "matchId": "264041",
       "season": "2024-25",
       "week": 6,
@@ -919,6 +900,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264041"
+    },
+    {
+      "matchId": "264045",
+      "season": "2024-25",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264045"
     },
     {
       "matchId": "264044",
@@ -997,25 +997,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264040"
     },
     {
-      "matchId": "264047",
-      "season": "2024-25",
-      "week": 6,
-      "homeTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "score": {
-        "home": 3,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264047"
-    },
-    {
       "matchId": "264046",
       "season": "2024-25",
       "week": 6,
@@ -1033,6 +1014,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264046"
+    },
+    {
+      "matchId": "264047",
+      "season": "2024-25",
+      "week": 6,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264047"
     },
     {
       "matchId": "264049",
@@ -1149,25 +1149,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264055"
     },
     {
-      "matchId": "264050",
-      "season": "2024-25",
-      "week": 7,
-      "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
-      },
-      "score": {
-        "home": 3,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264050"
-    },
-    {
       "matchId": "264057",
       "season": "2024-25",
       "week": 7,
@@ -1185,6 +1166,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264057"
+    },
+    {
+      "matchId": "264050",
+      "season": "2024-25",
+      "week": 7,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264050"
     },
     {
       "matchId": "264051",
@@ -1225,6 +1225,44 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264060"
     },
     {
+      "matchId": "264061",
+      "season": "2024-25",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264061"
+    },
+    {
+      "matchId": "264059",
+      "season": "2024-25",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264059"
+    },
+    {
       "matchId": "264066",
       "season": "2024-25",
       "week": 8,
@@ -1263,44 +1301,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264065"
     },
     {
-      "matchId": "264059",
-      "season": "2024-25",
-      "week": 8,
-      "homeTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "score": {
-        "home": 1,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264059"
-    },
-    {
-      "matchId": "264061",
-      "season": "2024-25",
-      "week": 8,
-      "homeTeam": {
-        "tffClubId": "39",
-        "sourceName": "KASIMPAŞA A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
-      },
-      "score": {
-        "home": 0,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264061"
-    },
-    {
       "matchId": "264058",
       "season": "2024-25",
       "week": 8,
@@ -1318,25 +1318,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264058"
-    },
-    {
-      "matchId": "264063",
-      "season": "2024-25",
-      "week": 8,
-      "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264063"
     },
     {
       "matchId": "264064",
@@ -1358,6 +1339,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264064"
     },
     {
+      "matchId": "264063",
+      "season": "2024-25",
+      "week": 8,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264063"
+    },
+    {
       "matchId": "264062",
       "season": "2024-25",
       "week": 8,
@@ -1375,63 +1375,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264062"
-    },
-    {
-      "matchId": "264073",
-      "season": "2024-25",
-      "week": 9,
-      "homeTeam": {
-        "tffClubId": "52",
-        "sourceName": "ONVO ANTALYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 3,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264073"
-    },
-    {
-      "matchId": "264068",
-      "season": "2024-25",
-      "week": 9,
-      "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "score": {
-        "home": 1,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264068"
-    },
-    {
-      "matchId": "264069",
-      "season": "2024-25",
-      "week": 9,
-      "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
-      },
-      "score": {
-        "home": 2,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264069"
     },
     {
       "matchId": "264070",
@@ -1453,6 +1396,63 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264070"
     },
     {
+      "matchId": "264069",
+      "season": "2024-25",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264069"
+    },
+    {
+      "matchId": "264068",
+      "season": "2024-25",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264068"
+    },
+    {
+      "matchId": "264073",
+      "season": "2024-25",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "52",
+        "sourceName": "ONVO ANTALYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264073"
+    },
+    {
       "matchId": "264071",
       "season": "2024-25",
       "week": 9,
@@ -1472,25 +1472,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264071"
     },
     {
-      "matchId": "264072",
-      "season": "2024-25",
-      "week": 9,
-      "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "39",
-        "sourceName": "KASIMPAŞA A.Ş."
-      },
-      "score": {
-        "home": 1,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264072"
-    },
-    {
       "matchId": "264074",
       "season": "2024-25",
       "week": 9,
@@ -1508,6 +1489,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264074"
+    },
+    {
+      "matchId": "264072",
+      "season": "2024-25",
+      "week": 9,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264072"
     },
     {
       "matchId": "264067",
@@ -1643,25 +1643,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264082"
     },
     {
-      "matchId": "264081",
-      "season": "2024-25",
-      "week": 10,
-      "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "52",
-        "sourceName": "ONVO ANTALYASPOR"
-      },
-      "score": {
-        "home": 1,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264081"
-    },
-    {
       "matchId": "264077",
       "season": "2024-25",
       "week": 10,
@@ -1681,23 +1662,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264077"
     },
     {
-      "matchId": "264080",
+      "matchId": "264081",
       "season": "2024-25",
       "week": 10,
       "homeTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
+        "tffClubId": "52",
+        "sourceName": "ONVO ANTALYASPOR"
       },
       "score": {
-        "home": 2,
-        "away": 1,
+        "home": 1,
+        "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264080"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264081"
     },
     {
       "matchId": "264084",
@@ -1719,6 +1700,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264084"
     },
     {
+      "matchId": "264080",
+      "season": "2024-25",
+      "week": 10,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264080"
+    },
+    {
       "matchId": "264091",
       "season": "2024-25",
       "week": 11,
@@ -1736,44 +1736,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264091"
-    },
-    {
-      "matchId": "264087",
-      "season": "2024-25",
-      "week": 11,
-      "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264087"
-    },
-    {
-      "matchId": "264085",
-      "season": "2024-25",
-      "week": 11,
-      "homeTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "score": {
-        "home": 2,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264085"
     },
     {
       "matchId": "264089",
@@ -1795,42 +1757,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264089"
     },
     {
-      "matchId": "264093",
+      "matchId": "264085",
       "season": "2024-25",
       "week": 11,
       "homeTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
       },
       "awayTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264085"
+    },
+    {
+      "matchId": "264087",
+      "season": "2024-25",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
       },
       "score": {
         "home": 0,
         "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264093"
-    },
-    {
-      "matchId": "264088",
-      "season": "2024-25",
-      "week": 11,
-      "homeTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264088"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264087"
     },
     {
       "matchId": "264086",
@@ -1871,6 +1833,44 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264090"
     },
     {
+      "matchId": "264093",
+      "season": "2024-25",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
+      },
+      "awayTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264093"
+    },
+    {
+      "matchId": "264088",
+      "season": "2024-25",
+      "week": 11,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264088"
+    },
+    {
       "matchId": "264092",
       "season": "2024-25",
       "week": 11,
@@ -1907,44 +1907,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264097"
-    },
-    {
-      "matchId": "264094",
-      "season": "2024-25",
-      "week": 12,
-      "homeTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "score": {
-        "home": 0,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264094"
-    },
-    {
-      "matchId": "264096",
-      "season": "2024-25",
-      "week": 12,
-      "homeTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "score": {
-        "home": 3,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264096"
     },
     {
       "matchId": "264099",
@@ -1985,23 +1947,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264100"
     },
     {
-      "matchId": "264098",
+      "matchId": "264096",
       "season": "2024-25",
       "week": 12,
       "homeTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "SAMSUNSPOR A.Ş."
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "score": {
         "home": 3,
-        "away": 2,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264098"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264096"
+    },
+    {
+      "matchId": "264094",
+      "season": "2024-25",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264094"
     },
     {
       "matchId": "264101",
@@ -2021,6 +2002,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264101"
+    },
+    {
+      "matchId": "264098",
+      "season": "2024-25",
+      "week": 12,
+      "homeTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "SAMSUNSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264098"
     },
     {
       "matchId": "264102",
@@ -2099,25 +2099,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264111"
     },
     {
-      "matchId": "264109",
-      "season": "2024-25",
-      "week": 13,
-      "homeTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "score": {
-        "home": 3,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264109"
-    },
-    {
       "matchId": "264106",
       "season": "2024-25",
       "week": 13,
@@ -2137,42 +2118,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264106"
     },
     {
-      "matchId": "264108",
+      "matchId": "264109",
       "season": "2024-25",
       "week": 13,
       "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
       },
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 3,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264108"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264109"
     },
     {
-      "matchId": "264110",
+      "matchId": "264107",
       "season": "2024-25",
       "week": 13,
       "homeTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
       },
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 2,
+        "away": 4,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264110"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264107"
     },
     {
       "matchId": "264103",
@@ -2194,23 +2175,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264103"
     },
     {
-      "matchId": "264107",
+      "matchId": "264110",
       "season": "2024-25",
       "week": 13,
       "homeTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
       },
       "awayTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "score": {
-        "home": 2,
-        "away": 4,
+        "home": 1,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264107"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264110"
+    },
+    {
+      "matchId": "264108",
+      "season": "2024-25",
+      "week": 13,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264108"
     },
     {
       "matchId": "264104",
@@ -2479,25 +2479,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264128"
     },
     {
-      "matchId": "264124",
-      "season": "2024-25",
-      "week": 15,
-      "homeTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
-      },
-      "score": {
-        "home": 3,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264124"
-    },
-    {
       "matchId": "264121",
       "season": "2024-25",
       "week": 15,
@@ -2517,23 +2498,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264121"
     },
     {
-      "matchId": "264129",
+      "matchId": "264124",
       "season": "2024-25",
       "week": 15,
       "homeTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
       },
       "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
       },
       "score": {
         "home": 3,
         "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264129"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264124"
     },
     {
       "matchId": "264123",
@@ -2553,6 +2534,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264123"
+    },
+    {
+      "matchId": "264129",
+      "season": "2024-25",
+      "week": 15,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264129"
     },
     {
       "matchId": "264127",
@@ -2612,25 +2612,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264138"
     },
     {
-      "matchId": "264135",
-      "season": "2024-25",
-      "week": 16,
-      "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
-      },
-      "score": {
-        "home": 3,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264135"
-    },
-    {
       "matchId": "264132",
       "season": "2024-25",
       "week": 16,
@@ -2648,6 +2629,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264132"
+    },
+    {
+      "matchId": "264135",
+      "season": "2024-25",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264135"
     },
     {
       "matchId": "264131",
@@ -2669,25 +2669,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264131"
     },
     {
-      "matchId": "264136",
-      "season": "2024-25",
-      "week": 16,
-      "homeTeam": {
-        "tffClubId": "52",
-        "sourceName": "ONVO ANTALYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264136"
-    },
-    {
       "matchId": "264137",
       "season": "2024-25",
       "week": 16,
@@ -2707,23 +2688,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264137"
     },
     {
-      "matchId": "264130",
+      "matchId": "264136",
       "season": "2024-25",
       "week": 16,
       "homeTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
+        "tffClubId": "52",
+        "sourceName": "ONVO ANTALYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "score": {
         "home": 2,
-        "away": 1,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264130"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264136"
     },
     {
       "matchId": "264134",
@@ -2745,6 +2726,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264134"
     },
     {
+      "matchId": "264130",
+      "season": "2024-25",
+      "week": 16,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264130"
+    },
+    {
       "matchId": "264142",
       "season": "2024-25",
       "week": 17,
@@ -2762,25 +2762,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264142"
-    },
-    {
-      "matchId": "264143",
-      "season": "2024-25",
-      "week": 17,
-      "homeTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
-      },
-      "score": {
-        "home": 1,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264143"
     },
     {
       "matchId": "264139",
@@ -2802,42 +2783,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264139"
     },
     {
-      "matchId": "264146",
+      "matchId": "264143",
       "season": "2024-25",
       "week": 17,
       "homeTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "score": {
-        "home": 3,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264146"
-    },
-    {
-      "matchId": "264141",
-      "season": "2024-25",
-      "week": 17,
-      "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "score": {
         "home": 1,
-        "away": 5,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264141"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264143"
     },
     {
       "matchId": "264145",
@@ -2859,6 +2821,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264145"
     },
     {
+      "matchId": "264146",
+      "season": "2024-25",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264146"
+    },
+    {
       "matchId": "264140",
       "season": "2024-25",
       "week": 17,
@@ -2878,23 +2859,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264140"
     },
     {
-      "matchId": "264147",
+      "matchId": "264141",
       "season": "2024-25",
       "week": 17,
       "homeTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "awayTeam": {
-        "tffClubId": "39",
-        "sourceName": "KASIMPAŞA A.Ş."
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
       },
       "score": {
-        "home": 2,
-        "away": 2,
+        "home": 1,
+        "away": 5,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264147"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264141"
     },
     {
       "matchId": "264144",
@@ -2914,6 +2895,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264144"
+    },
+    {
+      "matchId": "264147",
+      "season": "2024-25",
+      "week": 17,
+      "homeTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264147"
     },
     {
       "matchId": "264153",
@@ -2992,25 +2992,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264154"
     },
     {
-      "matchId": "264148",
-      "season": "2024-25",
-      "week": 18,
-      "homeTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "score": {
-        "home": 0,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264148"
-    },
-    {
       "matchId": "264152",
       "season": "2024-25",
       "week": 18,
@@ -3028,6 +3009,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264152"
+    },
+    {
+      "matchId": "264148",
+      "season": "2024-25",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264148"
     },
     {
       "matchId": "264151",
@@ -3049,25 +3049,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264151"
     },
     {
-      "matchId": "264149",
-      "season": "2024-25",
-      "week": 18,
-      "homeTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264149"
-    },
-    {
       "matchId": "264156",
       "season": "2024-25",
       "week": 18,
@@ -3085,6 +3066,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264156"
+    },
+    {
+      "matchId": "264149",
+      "season": "2024-25",
+      "week": 18,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264149"
     },
     {
       "matchId": "264160",
@@ -3106,25 +3106,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264160"
     },
     {
-      "matchId": "264159",
-      "season": "2024-25",
-      "week": 19,
-      "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
-      },
-      "score": {
-        "home": 0,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264159"
-    },
-    {
       "matchId": "264161",
       "season": "2024-25",
       "week": 19,
@@ -3144,23 +3125,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264161"
     },
     {
-      "matchId": "264163",
+      "matchId": "264159",
       "season": "2024-25",
       "week": 19,
       "homeTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "awayTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
       },
       "score": {
-        "home": 1,
-        "away": 0,
+        "home": 0,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264163"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264159"
     },
     {
       "matchId": "264165",
@@ -3180,6 +3161,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264165"
+    },
+    {
+      "matchId": "264163",
+      "season": "2024-25",
+      "week": 19,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264163"
     },
     {
       "matchId": "264158",
@@ -3277,25 +3277,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264170"
     },
     {
-      "matchId": "264168",
-      "season": "2024-25",
-      "week": 20,
-      "homeTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "awayTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "score": {
-        "home": 2,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264168"
-    },
-    {
       "matchId": "264173",
       "season": "2024-25",
       "week": 20,
@@ -3334,23 +3315,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264174"
     },
     {
-      "matchId": "264167",
+      "matchId": "264168",
       "season": "2024-25",
       "week": 20,
       "homeTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
       },
       "awayTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
       },
       "score": {
-        "home": 0,
-        "away": 4,
+        "home": 2,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264167"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264168"
     },
     {
       "matchId": "264169",
@@ -3410,6 +3391,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264172"
     },
     {
+      "matchId": "264167",
+      "season": "2024-25",
+      "week": 20,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 4,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264167"
+    },
+    {
       "matchId": "264166",
       "season": "2024-25",
       "week": 20,
@@ -3467,25 +3467,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264183"
     },
     {
-      "matchId": "264177",
-      "season": "2024-25",
-      "week": 21,
-      "homeTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "score": {
-        "home": 5,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264177"
-    },
-    {
       "matchId": "264180",
       "season": "2024-25",
       "week": 21,
@@ -3503,6 +3484,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264180"
+    },
+    {
+      "matchId": "264177",
+      "season": "2024-25",
+      "week": 21,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "score": {
+        "home": 5,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264177"
     },
     {
       "matchId": "264175",
@@ -3695,23 +3695,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264185"
     },
     {
-      "matchId": "264186",
+      "matchId": "264189",
       "season": "2024-25",
       "week": 22,
       "homeTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "score": {
-        "home": 3,
-        "away": 2,
+        "home": 0,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264186"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264189"
     },
     {
       "matchId": "264187",
@@ -3733,23 +3733,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264187"
     },
     {
-      "matchId": "264189",
+      "matchId": "264186",
       "season": "2024-25",
       "week": 22,
       "homeTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
       },
       "score": {
-        "home": 0,
-        "away": 1,
+        "home": 3,
+        "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264189"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264186"
     },
     {
       "matchId": "264188",
@@ -3790,6 +3790,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264199"
     },
     {
+      "matchId": "264198",
+      "season": "2024-25",
+      "week": 23,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264198"
+    },
+    {
       "matchId": "264197",
       "season": "2024-25",
       "week": 23,
@@ -3809,23 +3828,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264197"
     },
     {
-      "matchId": "264198",
+      "matchId": "264194",
       "season": "2024-25",
       "week": 23,
       "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
       },
       "score": {
-        "home": 3,
+        "home": 0,
         "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264198"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264194"
     },
     {
       "matchId": "264193",
@@ -3885,23 +3904,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264201"
     },
     {
-      "matchId": "264194",
+      "matchId": "264200",
       "season": "2024-25",
       "week": 23,
       "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
       },
       "awayTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
       },
       "score": {
         "home": 0,
-        "away": 2,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264194"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264200"
     },
     {
       "matchId": "264196",
@@ -3923,25 +3942,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264196"
     },
     {
-      "matchId": "264200",
-      "season": "2024-25",
-      "week": 23,
-      "homeTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
-      },
-      "awayTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264200"
-    },
-    {
       "matchId": "264208",
       "season": "2024-25",
       "week": 24,
@@ -3959,44 +3959,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264208"
-    },
-    {
-      "matchId": "264202",
-      "season": "2024-25",
-      "week": 24,
-      "homeTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264202"
-    },
-    {
-      "matchId": "264203",
-      "season": "2024-25",
-      "week": 24,
-      "homeTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "score": {
-        "home": 2,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264203"
     },
     {
       "matchId": "264210",
@@ -4018,23 +3980,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264210"
     },
     {
-      "matchId": "264209",
+      "matchId": "264203",
       "season": "2024-25",
       "week": 24,
       "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264209"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264203"
+    },
+    {
+      "matchId": "264202",
+      "season": "2024-25",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264202"
     },
     {
       "matchId": "264204",
@@ -4056,23 +4037,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264204"
     },
     {
-      "matchId": "264205",
+      "matchId": "264209",
       "season": "2024-25",
       "week": 24,
       "homeTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "39",
-        "sourceName": "KASIMPAŞA A.Ş."
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
       },
       "score": {
-        "home": 3,
+        "home": 0,
         "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264205"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264209"
     },
     {
       "matchId": "264207",
@@ -4094,6 +4075,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264207"
     },
     {
+      "matchId": "264205",
+      "season": "2024-25",
+      "week": 24,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264205"
+    },
+    {
       "matchId": "264206",
       "season": "2024-25",
       "week": 24,
@@ -4111,6 +4111,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264206"
+    },
+    {
+      "matchId": "264215",
+      "season": "2024-25",
+      "week": 25,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264215"
     },
     {
       "matchId": "264219",
@@ -4132,23 +4151,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264219"
     },
     {
-      "matchId": "264215",
+      "matchId": "264216",
       "season": "2024-25",
       "week": 25,
       "homeTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
       },
       "awayTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
       },
       "score": {
         "home": 1,
-        "away": 3,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264215"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264216"
     },
     {
       "matchId": "264214",
@@ -4189,42 +4208,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264213"
     },
     {
-      "matchId": "264216",
+      "matchId": "264217",
       "season": "2024-25",
       "week": 25,
       "homeTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
-      },
-      "score": {
-        "home": 1,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264216"
-    },
-    {
-      "matchId": "264211",
-      "season": "2024-25",
-      "week": 25,
-      "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
       },
       "score": {
         "home": 3,
         "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264211"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264217"
     },
     {
       "matchId": "264218",
@@ -4246,23 +4246,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264218"
     },
     {
-      "matchId": "264217",
+      "matchId": "264211",
       "season": "2024-25",
       "week": 25,
       "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
       },
       "score": {
         "home": 3,
         "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264217"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264211"
     },
     {
       "matchId": "264212",
@@ -4474,25 +4474,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264232"
     },
     {
-      "matchId": "264230",
-      "season": "2024-25",
-      "week": 27,
-      "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 1,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264230"
-    },
-    {
       "matchId": "264231",
       "season": "2024-25",
       "week": 27,
@@ -4531,23 +4512,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264237"
     },
     {
-      "matchId": "264233",
+      "matchId": "264230",
       "season": "2024-25",
       "week": 27,
       "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
       },
       "score": {
         "home": 1,
         "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264233"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264230"
+    },
+    {
+      "matchId": "264236",
+      "season": "2024-25",
+      "week": 27,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264236"
     },
     {
       "matchId": "264234",
@@ -4588,23 +4588,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264229"
     },
     {
-      "matchId": "264236",
+      "matchId": "264233",
       "season": "2024-25",
       "week": 27,
       "homeTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
       },
       "score": {
-        "home": 3,
-        "away": 1,
+        "home": 1,
+        "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264236"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264233"
     },
     {
       "matchId": "264235",
@@ -4664,23 +4664,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264243"
     },
     {
-      "matchId": "264240",
+      "matchId": "264239",
       "season": "2024-25",
       "week": 28,
       "homeTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
       },
       "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "score": {
-        "home": 1,
-        "away": 0,
+        "home": 0,
+        "away": 3,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264240"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264239"
     },
     {
       "matchId": "264242",
@@ -4702,23 +4702,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264242"
     },
     {
-      "matchId": "264239",
+      "matchId": "264240",
       "season": "2024-25",
       "week": 28,
       "homeTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "score": {
-        "home": 0,
-        "away": 3,
+        "home": 1,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264239"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264240"
+    },
+    {
+      "matchId": "264238",
+      "season": "2024-25",
+      "week": 28,
+      "homeTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264238"
     },
     {
       "matchId": "264245",
@@ -4759,25 +4778,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264241"
     },
     {
-      "matchId": "264238",
-      "season": "2024-25",
-      "week": 28,
-      "homeTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
-      },
-      "score": {
-        "home": 3,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264238"
-    },
-    {
       "matchId": "264246",
       "season": "2024-25",
       "week": 28,
@@ -4816,23 +4816,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264253"
     },
     {
-      "matchId": "264249",
+      "matchId": "264252",
       "season": "2024-25",
       "week": 29,
       "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "52",
+        "sourceName": "ONVO ANTALYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "score": {
-        "home": 5,
-        "away": 0,
+        "home": 2,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264249"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264252"
     },
     {
       "matchId": "264248",
@@ -4854,42 +4854,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264248"
     },
     {
-      "matchId": "264252",
+      "matchId": "264249",
       "season": "2024-25",
       "week": 29,
       "homeTeam": {
-        "tffClubId": "52",
-        "sourceName": "ONVO ANTALYASPOR"
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "awayTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
       },
       "score": {
-        "home": 2,
+        "home": 5,
+        "away": 0,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264249"
+    },
+    {
+      "matchId": "264247",
+      "season": "2024-25",
+      "week": 29,
+      "homeTeam": {
+        "tffClubId": "74",
+        "sourceName": "NET GLOBAL SİVASSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 5,
         "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264252"
-    },
-    {
-      "matchId": "264250",
-      "season": "2024-25",
-      "week": 29,
-      "homeTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "39",
-        "sourceName": "KASIMPAŞA A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264250"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264247"
     },
     {
       "matchId": "264251",
@@ -4911,23 +4911,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264251"
     },
     {
-      "matchId": "264247",
+      "matchId": "264250",
       "season": "2024-25",
       "week": 29,
       "homeTeam": {
-        "tffClubId": "74",
-        "sourceName": "NET GLOBAL SİVASSPOR"
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
       },
       "awayTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
       },
       "score": {
-        "home": 5,
-        "away": 1,
+        "home": 0,
+        "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264247"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264250"
     },
     {
       "matchId": "264254",
@@ -5158,23 +5158,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264269"
     },
     {
-      "matchId": "264273",
+      "matchId": "264272",
       "season": "2024-25",
       "week": 31,
       "homeTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
       },
       "score": {
-        "home": 0,
-        "away": 2,
+        "home": 1,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264273"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264272"
     },
     {
       "matchId": "264271",
@@ -5196,23 +5196,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264271"
     },
     {
-      "matchId": "264272",
+      "matchId": "264273",
       "season": "2024-25",
       "week": 31,
       "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
       },
       "score": {
-        "home": 1,
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264273"
+    },
+    {
+      "matchId": "264267",
+      "season": "2024-25",
+      "week": 31,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+      },
+      "score": {
+        "home": 2,
         "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264272"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264267"
     },
     {
       "matchId": "264268",
@@ -5272,25 +5291,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264270"
     },
     {
-      "matchId": "264267",
-      "season": "2024-25",
-      "week": 31,
-      "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "score": {
-        "home": 2,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264267"
-    },
-    {
       "matchId": "264265",
       "season": "2024-25",
       "week": 31,
@@ -5348,25 +5348,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264282"
     },
     {
-      "matchId": "264275",
-      "season": "2024-25",
-      "week": 32,
-      "homeTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264275"
-    },
-    {
       "matchId": "264278",
       "season": "2024-25",
       "week": 32,
@@ -5386,6 +5367,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264278"
     },
     {
+      "matchId": "264275",
+      "season": "2024-25",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264275"
+    },
+    {
       "matchId": "264274",
       "season": "2024-25",
       "week": 32,
@@ -5403,25 +5403,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264274"
-    },
-    {
-      "matchId": "264276",
-      "season": "2024-25",
-      "week": 32,
-      "homeTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
-      },
-      "score": {
-        "home": 3,
-        "away": 3,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264276"
     },
     {
       "matchId": "264277",
@@ -5462,6 +5443,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264280"
     },
     {
+      "matchId": "264276",
+      "season": "2024-25",
+      "week": 32,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "score": {
+        "home": 3,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264276"
+    },
+    {
       "matchId": "264281",
       "season": "2024-25",
       "week": 32,
@@ -5498,6 +5498,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264286"
+    },
+    {
+      "matchId": "264290",
+      "season": "2024-25",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
+      },
+      "awayTeam": {
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264290"
     },
     {
       "matchId": "264284",
@@ -5538,61 +5557,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264289"
     },
     {
-      "matchId": "264290",
+      "matchId": "264288",
       "season": "2024-25",
       "week": 33,
       "homeTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "score": {
-        "home": 1,
-        "away": 2,
+        "home": 4,
+        "away": 3,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264290"
-    },
-    {
-      "matchId": "264283",
-      "season": "2024-25",
-      "week": 33,
-      "homeTeam": {
-        "tffClubId": "3600",
-        "sourceName": "TÜMOSAN KONYASPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3603",
-        "sourceName": "ADANA DEMİRSPOR A.Ş."
-      },
-      "score": {
-        "home": 3,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264283"
-    },
-    {
-      "matchId": "264287",
-      "season": "2024-25",
-      "week": 33,
-      "homeTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
-      },
-      "score": {
-        "home": 1,
-        "away": 5,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264287"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264288"
     },
     {
       "matchId": "264285",
@@ -5614,23 +5595,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264285"
     },
     {
-      "matchId": "264288",
+      "matchId": "264287",
       "season": "2024-25",
       "week": 33,
       "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
       },
       "awayTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
       },
       "score": {
-        "home": 4,
-        "away": 3,
+        "home": 1,
+        "away": 5,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264288"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264287"
+    },
+    {
+      "matchId": "264283",
+      "season": "2024-25",
+      "week": 33,
+      "homeTeam": {
+        "tffClubId": "3600",
+        "sourceName": "TÜMOSAN KONYASPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "3603",
+        "sourceName": "ADANA DEMİRSPOR A.Ş."
+      },
+      "score": {
+        "home": 3,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264283"
     },
     {
       "matchId": "264291",
@@ -5690,23 +5690,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264300"
     },
     {
-      "matchId": "264294",
+      "matchId": "264298",
       "season": "2024-25",
       "week": 34,
       "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "3672",
+        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
       },
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 2,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264294"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264298"
     },
     {
       "matchId": "264292",
@@ -5728,23 +5728,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264292"
     },
     {
-      "matchId": "264298",
+      "matchId": "264294",
       "season": "2024-25",
       "week": 34,
       "homeTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3672",
-        "sourceName": "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "score": {
-        "home": 2,
-        "away": 0,
+        "home": 1,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264298"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264294"
     },
     {
       "matchId": "264299",
@@ -5766,25 +5766,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264299"
     },
     {
-      "matchId": "264296",
-      "season": "2024-25",
-      "week": 34,
-      "homeTeam": {
-        "tffClubId": "3592",
-        "sourceName": "FENERBAHÇE A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264296"
-    },
-    {
       "matchId": "264295",
       "season": "2024-25",
       "week": 34,
@@ -5802,6 +5783,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264295"
+    },
+    {
+      "matchId": "264296",
+      "season": "2024-25",
+      "week": 34,
+      "homeTeam": {
+        "tffClubId": "3592",
+        "sourceName": "FENERBAHÇE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264296"
     },
     {
       "matchId": "264293",
@@ -5880,25 +5880,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264304"
     },
     {
-      "matchId": "264305",
-      "season": "2024-25",
-      "week": 35,
-      "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
-      },
-      "score": {
-        "home": 0,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264305"
-    },
-    {
       "matchId": "264303",
       "season": "2024-25",
       "week": 35,
@@ -5916,6 +5897,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264303"
+    },
+    {
+      "matchId": "264305",
+      "season": "2024-25",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264305"
     },
     {
       "matchId": "264301",
@@ -5937,25 +5937,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264301"
     },
     {
-      "matchId": "264308",
-      "season": "2024-25",
-      "week": 35,
-      "homeTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 1,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264308"
-    },
-    {
       "matchId": "264309",
       "season": "2024-25",
       "week": 35,
@@ -5973,6 +5954,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264309"
+    },
+    {
+      "matchId": "264308",
+      "season": "2024-25",
+      "week": 35,
+      "homeTeam": {
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264308"
     },
     {
       "matchId": "264307",
@@ -6013,23 +6013,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264315"
     },
     {
-      "matchId": "264314",
+      "matchId": "264312",
       "season": "2024-25",
       "week": 36,
       "homeTeam": {
-        "tffClubId": "51",
-        "sourceName": "CORENDON ALANYASPOR"
+        "tffClubId": "3604",
+        "sourceName": "GALATASARAY A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "3590",
-        "sourceName": "BEŞİKTAŞ A.Ş."
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
       },
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 3,
+        "away": 0,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264314"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264312"
     },
     {
       "matchId": "264310",
@@ -6051,61 +6051,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264310"
     },
     {
-      "matchId": "264312",
+      "matchId": "264317",
       "season": "2024-25",
       "week": 36,
       "homeTeam": {
-        "tffClubId": "3604",
-        "sourceName": "GALATASARAY A.Ş."
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "3688",
+        "sourceName": "GÖZTEPE A.Ş."
       },
       "score": {
-        "home": 3,
-        "away": 0,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264312"
-    },
-    {
-      "matchId": "264311",
-      "season": "2024-25",
-      "week": 36,
-      "homeTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
-      },
-      "awayTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "score": {
-        "home": 1,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264311"
-    },
-    {
-      "matchId": "264318",
-      "season": "2024-25",
-      "week": 36,
-      "homeTeam": {
-        "tffClubId": "39",
-        "sourceName": "KASIMPAŞA A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3665",
-        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
-      },
-      "score": {
-        "home": 2,
+        "home": 6,
         "away": 3,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264318"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264317"
     },
     {
       "matchId": "264316",
@@ -6127,6 +6089,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264316"
     },
     {
+      "matchId": "264318",
+      "season": "2024-25",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "39",
+        "sourceName": "KASIMPAŞA A.Ş."
+      },
+      "awayTeam": {
+        "tffClubId": "3665",
+        "sourceName": "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264318"
+    },
+    {
       "matchId": "264313",
       "season": "2024-25",
       "week": 36,
@@ -6146,23 +6127,42 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264313"
     },
     {
-      "matchId": "264317",
+      "matchId": "264314",
       "season": "2024-25",
       "week": 36,
       "homeTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
+        "tffClubId": "51",
+        "sourceName": "CORENDON ALANYASPOR"
       },
       "awayTeam": {
-        "tffClubId": "3688",
-        "sourceName": "GÖZTEPE A.Ş."
+        "tffClubId": "3590",
+        "sourceName": "BEŞİKTAŞ A.Ş."
       },
       "score": {
-        "home": 6,
-        "away": 3,
+        "home": 1,
+        "away": 1,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264317"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264314"
+    },
+    {
+      "matchId": "264311",
+      "season": "2024-25",
+      "week": 36,
+      "homeTeam": {
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
+      },
+      "awayTeam": {
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264311"
     },
     {
       "matchId": "264323",
@@ -6184,25 +6184,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264323"
     },
     {
-      "matchId": "264325",
-      "season": "2024-25",
-      "week": 37,
-      "homeTeam": {
-        "tffClubId": "3610",
-        "sourceName": "İKAS EYÜPSPOR"
-      },
-      "awayTeam": {
-        "tffClubId": "52",
-        "sourceName": "ONVO ANTALYASPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 1,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264325"
-    },
-    {
       "matchId": "264322",
       "season": "2024-25",
       "week": 37,
@@ -6220,6 +6201,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264322"
+    },
+    {
+      "matchId": "264325",
+      "season": "2024-25",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "3610",
+        "sourceName": "İKAS EYÜPSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "52",
+        "sourceName": "ONVO ANTALYASPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264325"
     },
     {
       "matchId": "264324",
@@ -6241,6 +6241,25 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264324"
     },
     {
+      "matchId": "264327",
+      "season": "2024-25",
+      "week": 37,
+      "homeTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "4824",
+        "sourceName": "SİPAY BODRUM FK"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264327"
+    },
+    {
       "matchId": "264321",
       "season": "2024-25",
       "week": 37,
@@ -6258,25 +6277,6 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264321"
-    },
-    {
-      "matchId": "264326",
-      "season": "2024-25",
-      "week": 37,
-      "homeTeam": {
-        "tffClubId": "3596",
-        "sourceName": "TRABZONSPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
-      },
-      "score": {
-        "home": 2,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264326"
     },
     {
       "matchId": "264319",
@@ -6298,23 +6298,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264319"
     },
     {
-      "matchId": "264327",
+      "matchId": "264326",
       "season": "2024-25",
       "week": 37,
       "homeTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "3596",
+        "sourceName": "TRABZONSPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "4824",
-        "sourceName": "SİPAY BODRUM FK"
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
       },
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 2,
+        "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264327"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264326"
     },
     {
       "matchId": "264320",
@@ -6431,25 +6431,6 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264333"
     },
     {
-      "matchId": "264331",
-      "season": "2024-25",
-      "week": 38,
-      "homeTeam": {
-        "tffClubId": "3631",
-        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
-      },
-      "awayTeam": {
-        "tffClubId": "121",
-        "sourceName": "ATAKAŞ HATAYSPOR"
-      },
-      "score": {
-        "home": 5,
-        "away": 2,
-        "status": "played"
-      },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264331"
-    },
-    {
       "matchId": "264328",
       "season": "2024-25",
       "week": 38,
@@ -6469,23 +6450,23 @@
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264328"
     },
     {
-      "matchId": "264330",
+      "matchId": "264331",
       "season": "2024-25",
       "week": 38,
       "homeTeam": {
-        "tffClubId": "3597",
-        "sourceName": "REEDER SAMSUNSPOR"
+        "tffClubId": "3631",
+        "sourceName": "ÇAYKUR RİZESPOR A.Ş."
       },
       "awayTeam": {
-        "tffClubId": "72",
-        "sourceName": "BELLONA KAYSERİSPOR"
+        "tffClubId": "121",
+        "sourceName": "ATAKAŞ HATAYSPOR"
       },
       "score": {
-        "home": 2,
-        "away": 1,
+        "home": 5,
+        "away": 2,
         "status": "played"
       },
-      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264330"
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264331"
     },
     {
       "matchId": "264332",
@@ -6505,6 +6486,25 @@
         "status": "played"
       },
       "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264332"
+    },
+    {
+      "matchId": "264330",
+      "season": "2024-25",
+      "week": 38,
+      "homeTeam": {
+        "tffClubId": "3597",
+        "sourceName": "REEDER SAMSUNSPOR"
+      },
+      "awayTeam": {
+        "tffClubId": "72",
+        "sourceName": "BELLONA KAYSERİSPOR"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "status": "played"
+      },
+      "detailUrl": "https://www.tff.org/Default.aspx?pageID=29&macId=264330"
     }
   ]
 }

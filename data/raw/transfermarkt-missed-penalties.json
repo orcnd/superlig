@@ -1,0 +1,1563 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T10:42:38.363Z",
+  "provider": "Transfermarkt missed penalties + TFF scored penalties",
+  "sources": [
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "retrievedAt": "2026-10-02T10:42:00.033Z",
+      "sha256": "fae379256854bb11870930d78a86186707f772e4b1b1a3bc52d93494e62c872c"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126779",
+      "retrievedAt": "2026-10-02T10:42:00.392Z",
+      "sha256": "6ca8e07876e955cd5b8245003a33475b5287b5313da887adb908516ea81e0cf4"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126781",
+      "retrievedAt": "2026-10-02T10:42:00.748Z",
+      "sha256": "9e148077d016a9798413bd6d8d8f72bd21c829d2fef5034b63bbd0afb28979d8"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126783",
+      "retrievedAt": "2026-10-02T10:42:01.306Z",
+      "sha256": "3c2adb956dd20b172b56a56b62f6ab8293a1b0567e186c4271c5b753313ed829"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126812",
+      "retrievedAt": "2026-10-02T10:42:01.755Z",
+      "sha256": "a5ed79b10dcacf063976d78927597403d68bea35fa32f0301bce3da1028e2ef3"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126822",
+      "retrievedAt": "2026-10-02T10:42:02.029Z",
+      "sha256": "2df73f9a4a7e427c098df7a2ac24b428f2df64e70659ec1f8798539832286788"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126824",
+      "retrievedAt": "2026-10-02T10:42:02.480Z",
+      "sha256": "f4c71c8420067da1f0efbfe554123db72f55a3a29c296110b8c120aed5a78e82"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129458",
+      "retrievedAt": "2026-10-02T10:42:02.823Z",
+      "sha256": "75d39326387c9aff144101ac9d4ec02a02bab558fde36ec960701c628ade0991"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129488",
+      "retrievedAt": "2026-10-02T10:42:03.088Z",
+      "sha256": "9f61d1e4b0350bc1e76aeb40ab84f4353536bad12dd7a4077cb63274ae94e1e7"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129536",
+      "retrievedAt": "2026-10-02T10:42:03.402Z",
+      "sha256": "c514fcdc35c1ec1e8c9d2b3f30bc32d46d01b483d219f21d12eb68303606f106"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129545",
+      "retrievedAt": "2026-10-02T10:42:04.008Z",
+      "sha256": "bca32877282780aeb5a06a6d612ffe92b9659f7d619839a9ec0dc9599c50f71c"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "retrievedAt": "2026-10-02T10:42:04.618Z",
+      "sha256": "5c1cccffc153cb416a0c8cc184cafa397b4b197f5c2f8d4862cc9bc8ed1e0026"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129558",
+      "retrievedAt": "2026-10-02T10:42:04.905Z",
+      "sha256": "e491268c281e3a0684f636fa3cd792312e4bbbc0c396fef73b5c5525d5157f3c"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129560",
+      "retrievedAt": "2026-10-02T10:42:05.408Z",
+      "sha256": "6167362612a19b53ce78a2d15d2c12a95c5963adc6b37c1b628dc472321b4f55"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129581",
+      "retrievedAt": "2026-10-02T10:42:05.927Z",
+      "sha256": "c2599c6941dd28ccff4d00932585b57bbed101698e2561f84f8b8ae627109a3a"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129582",
+      "retrievedAt": "2026-10-02T10:42:06.390Z",
+      "sha256": "86c2ff9234361d7a2f7364b654c79f9769eff2ee593ae4f84c6392f3737d1f21"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129586",
+      "retrievedAt": "2026-10-02T10:42:06.696Z",
+      "sha256": "71f4f13865fa003034410d5ddb8cb2faa6855dc21999b4c67bbb815a4647f54b"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129588",
+      "retrievedAt": "2026-10-02T10:42:07.713Z",
+      "sha256": "88f53e73054e9a2103d818e10fddbae786a70bc2c68b29eaa0f27a0d6d3a33dc"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129594",
+      "retrievedAt": "2026-10-02T10:42:08.146Z",
+      "sha256": "c71ad734611494102f6e3d69bf8d23460992bc4ef8fefcfc515f6a83082ac6f8"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4261503",
+      "retrievedAt": "2026-10-02T10:42:08.662Z",
+      "sha256": "4c64bdf1d743598b05b591bf8c8ad8e189e71d7aa1dde2363d6cef1fc8f6094f"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4261510",
+      "retrievedAt": "2026-10-02T10:42:09.090Z",
+      "sha256": "a445d07d62a56fcfd6274fa7642f9d6734d56ba02ce19c4a1615eb6b7b7ac337"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129667",
+      "retrievedAt": "2026-10-02T10:42:09.840Z",
+      "sha256": "2e8219b36633e0398910a89db2a76fd4ecd460a6ee26dbc91eb3a2a1c94ae37b"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "retrievedAt": "2026-10-02T10:42:10.796Z",
+      "sha256": "ef7a85cdbd08cb53aeba345692a1b6c88b85a0804a4d4808c1160a7fa119b1d5"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129663",
+      "retrievedAt": "2026-10-02T10:42:11.370Z",
+      "sha256": "f7b4937e6454baeb66e95740aea1a425ea48114fec309572c3932ceba60b726d"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129679",
+      "retrievedAt": "2026-10-02T10:42:11.667Z",
+      "sha256": "2bfa7dab4eab483e5a684570fd846b65e16bc97489aee2ebf9d1e4430573b920"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129675",
+      "retrievedAt": "2026-10-02T10:42:12.104Z",
+      "sha256": "5766ffc890a8281551d323361f931c04359716cb7e98fe8e4d419042ff85fdd2"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129700",
+      "retrievedAt": "2026-10-02T10:42:12.409Z",
+      "sha256": "0035ca0ee8dc80ce44ddcb0c90817cc94eed25739d7a8dcd75ddd0f079dcaf6a"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129710",
+      "retrievedAt": "2026-10-02T10:42:12.814Z",
+      "sha256": "cf39ad63bb918d79e653b5cf5b8a3bf2e275747f101904a5a4d62ffb9fe20013"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129708",
+      "retrievedAt": "2026-10-02T10:42:13.119Z",
+      "sha256": "bba8aa0ae60ce435926d002103429aced689af9522e34878958f06c593c82f02"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129712",
+      "retrievedAt": "2026-10-02T10:42:13.492Z",
+      "sha256": "3363a033b0e8bfd7bbaa1c18ec06a8e3ab561c0212f8b84380127997f47936db"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129724",
+      "retrievedAt": "2026-10-02T10:42:13.866Z",
+      "sha256": "c921b893595e035ba6dcc7cd3eea1541be1c6f98d95679442125803371444a8f"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129738",
+      "retrievedAt": "2026-10-02T10:42:14.264Z",
+      "sha256": "20bdc0aea45e009a672f01a0ea1ae2630b5665cc5e12306fa86bcc58011f55fc"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129753",
+      "retrievedAt": "2026-10-02T10:42:14.583Z",
+      "sha256": "9d1310542892604d0959b45fa281552cacb0ae4f34629505596097fac03a7b95"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/4",
+      "retrievedAt": "2026-10-02T10:42:15.281Z",
+      "sha256": "a75e09b3fd6077ac4fb1d4f0ed85cba03d5364013d737f4f17c63d9afcc9426a"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129772",
+      "retrievedAt": "2026-10-02T10:42:15.594Z",
+      "sha256": "727653a44568c45d6219c76f5b5843905507a7c4d1d991d95afcde0b1336c27b"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "retrievedAt": "2026-10-02T10:42:16.707Z",
+      "sha256": "25c3fde8b16c70390073f090158704409dd447d842f8c48e2c071d14461e1061"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387827",
+      "retrievedAt": "2026-10-02T10:42:17.244Z",
+      "sha256": "e33379ab11d0e5b45cde86023f18c68fe99de5ec61b081fd15d863c773d7f985"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387829",
+      "retrievedAt": "2026-10-02T10:42:17.892Z",
+      "sha256": "bd4bfddec8cf76d93fc018151623d9d8875607b8e83ef32dcedc5e5dd3da8c39"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387832",
+      "retrievedAt": "2026-10-02T10:42:18.200Z",
+      "sha256": "43465b91639eafe57f8d2e92d7adeeff814d88475245fb4f585696260404ce0d"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387835",
+      "retrievedAt": "2026-10-02T10:42:18.538Z",
+      "sha256": "88df6a9104df435cbe9642907d0fa1fb2d27909f22deb4f37fde202af15fe4b6"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387841",
+      "retrievedAt": "2026-10-02T10:42:18.974Z",
+      "sha256": "971f2efa5e4f0347389dce24c8a3adea54728ee1290cff385e4245dcb248001f"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387835",
+      "retrievedAt": "2026-10-02T10:42:19.106Z",
+      "sha256": "88df6a9104df435cbe9642907d0fa1fb2d27909f22deb4f37fde202af15fe4b6"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393167",
+      "retrievedAt": "2026-10-02T10:42:19.416Z",
+      "sha256": "2ee5f6249810a8a7f68db704e33f4d1e802cf62cf0d9850aeefdc5f786bebd8c"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393165",
+      "retrievedAt": "2026-10-02T10:42:19.922Z",
+      "sha256": "de87f6b56e6c8a7c176776c24b9d5c00a6cca70c41b835efa9769a3d72be05e0"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393168",
+      "retrievedAt": "2026-10-02T10:42:20.236Z",
+      "sha256": "f45f9793d848edb4e205268e6da71348964dc817caa822e81ea034968d21b271"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393193",
+      "retrievedAt": "2026-10-02T10:42:20.580Z",
+      "sha256": "97e467bc1c765e38e92baa174a32400b1dd960e0ced9298c8ca7f0fab3d671ec"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "retrievedAt": "2026-10-02T10:42:21.215Z",
+      "sha256": "0863cb2b0c592b86048896ebe686aca92041a718913a6f5dc34199020ee3995a"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393193",
+      "retrievedAt": "2026-10-02T10:42:21.328Z",
+      "sha256": "97e467bc1c765e38e92baa174a32400b1dd960e0ced9298c8ca7f0fab3d671ec"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393199",
+      "retrievedAt": "2026-10-02T10:42:21.769Z",
+      "sha256": "e49b15e6748b969ddc7ec8a13f011c094f3e18616c0a0fcfa3c3ab705adec0ff"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393242",
+      "retrievedAt": "2026-10-02T10:42:22.055Z",
+      "sha256": "8e522ab3009e0bd5fe7ef6b91fdf9657ae85f3fbf4c62c7a5f545581d12a488d"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393267",
+      "retrievedAt": "2026-10-02T10:42:22.494Z",
+      "sha256": "a9822550a5dd299280a9e9e553ffaaa59285238664a69512df9f92a3a5ac721e"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393281",
+      "retrievedAt": "2026-10-02T10:42:22.765Z",
+      "sha256": "dd605175e8c002722bfa6e5ec3e0dc4573d970b43ae36e57a6d78de05654bee3"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393279",
+      "retrievedAt": "2026-10-02T10:42:23.169Z",
+      "sha256": "7dfc54da00d1787a8a2fb9650e041f54030abb01510942f27f33a5fae23ecf85"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393293",
+      "retrievedAt": "2026-10-02T10:42:23.842Z",
+      "sha256": "4703d730a1c77f4d5ef9b80ffd207e50e0549fbe169bca08723b10226f4d4a5e"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393300",
+      "retrievedAt": "2026-10-02T10:42:24.571Z",
+      "sha256": "a9357d39105b943c4a06c81defe2cc97408d0bd81d8a44d8574e6f7e4f186fff"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393297",
+      "retrievedAt": "2026-10-02T10:42:24.834Z",
+      "sha256": "35574609fb30c8937271885c3d946689e554211618ae0b5505cc08f1d189913e"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393310",
+      "retrievedAt": "2026-10-02T10:42:25.565Z",
+      "sha256": "dc1b899cc55c17523a4f9000c986db66c1652ca9c462071bfcc1ab329af74ee5"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "retrievedAt": "2026-10-02T10:42:26.523Z",
+      "sha256": "b1dd995eabb5701cc88810efca3b8627912434b10ab5e4485d5de44a5fe196b3"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393350",
+      "retrievedAt": "2026-10-02T10:42:26.809Z",
+      "sha256": "f8f69b015d8de67681fb5200c782443cbc2d18e21b66fc6fd2c99c823d8cb247"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393367",
+      "retrievedAt": "2026-10-02T10:42:27.135Z",
+      "sha256": "46e6bcba14230eff007860ee21a2503f13a1fbf9d9da0618596f7d793981c651"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393390",
+      "retrievedAt": "2026-10-02T10:42:27.580Z",
+      "sha256": "a6b735c7fd14e9757739f9bc54e4fb0404ef632a60b0180b546f039ba2354f97"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393391",
+      "retrievedAt": "2026-10-02T10:42:28.200Z",
+      "sha256": "ce510f6136102fd8f0b70a9c5636f1818d0b0a379dcc6254c1e627eee8be60ad"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393410",
+      "retrievedAt": "2026-10-02T10:42:28.444Z",
+      "sha256": "19c48a523b21eaf34c06d8e1bea4ff28ea86482354d9fa73bab83e15b29be040"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393407",
+      "retrievedAt": "2026-10-02T10:42:28.729Z",
+      "sha256": "7fbc1516b9f943af127a5f377d2b334c4ab9a19d322421a11818ab93b0d541df"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393411",
+      "retrievedAt": "2026-10-02T10:42:29.010Z",
+      "sha256": "d2fdd29786d4f6df6a3eb053a327ea1cee80866bed36f1d3a812824db5439ab1"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393405",
+      "retrievedAt": "2026-10-02T10:42:29.283Z",
+      "sha256": "f742eee96a626d7dbffa42b700102a1f8bfcf432be256c4dff7d1d527cc72b18"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393417",
+      "retrievedAt": "2026-10-02T10:42:29.555Z",
+      "sha256": "c11bb1f1b9327a6b12abe43ca756f17ec07a7f1fd849226d425cdbbda23116c8"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393425",
+      "retrievedAt": "2026-10-02T10:42:30.095Z",
+      "sha256": "642bfae92d017a21b15182436ae54fbd09c252863af8d273471c7329b1032746"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/4",
+      "retrievedAt": "2026-10-02T10:42:30.722Z",
+      "sha256": "b8f9fcc2e3f328af1e3241762e0e3f3176bb2ccdfe7b45d6c97a3efa3f824b3f"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393427",
+      "retrievedAt": "2026-10-02T10:42:30.997Z",
+      "sha256": "dd8e22734fadca1800e0c4430827716ddeeedfa5ff078aba1f64ba7cbc1705c5"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "retrievedAt": "2026-10-02T10:42:31.804Z",
+      "sha256": "186fd85202fb80e985b85377d3a0ccc9a6ce2ac748318c67bf87decf57402f90"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646344",
+      "retrievedAt": "2026-10-02T10:42:32.108Z",
+      "sha256": "c1f225beaf5f900a67d8ac2c8d248e0bc3f325a47a461c43578df2beb9ec60dc"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646352",
+      "retrievedAt": "2026-10-02T10:42:32.410Z",
+      "sha256": "b5deccd3926a2da47a48f47e68b8225a83a383910be5ac0a5b6f308cecdd9f93"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646382",
+      "retrievedAt": "2026-10-02T10:42:32.681Z",
+      "sha256": "9531712bc3feea0328d4274aa12c487b5e2b8e2ef51d29c2915f48fac906a84d"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647835",
+      "retrievedAt": "2026-10-02T10:42:32.969Z",
+      "sha256": "8a25c08950cfd69d71faf93d8bee942ec3fd5bd6ee4950a7e6b3de6abbec2095"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647834",
+      "retrievedAt": "2026-10-02T10:42:33.439Z",
+      "sha256": "ed681bfad3bef08f8227671080fa39826ae8f95dd3b4c43a03af67e854258b9b"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647849",
+      "retrievedAt": "2026-10-02T10:42:33.736Z",
+      "sha256": "3b5eea3d3d2419881ffd947479a6645094ba8f2f46d5a93c5e5a8c9c5e140608"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647890",
+      "retrievedAt": "2026-10-02T10:42:34.130Z",
+      "sha256": "4be93e1a2d4150c36526aab1c1fdfbd7e8da628064fba57b05d1a7c6d2f54e20"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647880",
+      "retrievedAt": "2026-10-02T10:42:34.409Z",
+      "sha256": "0727a5e4959ef507405fe1cabd02c371359cabe992b3b81dc1abe4cde4b28e79"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647872",
+      "retrievedAt": "2026-10-02T10:42:34.694Z",
+      "sha256": "02e99c9380cb3e829d093a34356deeddc11d7506c0480bd1901fdd3b3489ee9c"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647941",
+      "retrievedAt": "2026-10-02T10:42:35.127Z",
+      "sha256": "01f20574af4d3bb8746647dd77006a6a71d4fb631de0c80bb043852452236d38"
+    },
+    {
+      "url": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "retrievedAt": "2026-10-02T10:42:35.703Z",
+      "sha256": "585b28595ea3013833331cd8b96d9e30586d1a6e47bf492222be8a9d5222ad22"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647967",
+      "retrievedAt": "2026-10-02T10:42:36.006Z",
+      "sha256": "2a8e18cff26ad79247c9388f2f552377bf14d3bd2faaf51fa84cd2795ef5432f"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647975",
+      "retrievedAt": "2026-10-02T10:42:36.309Z",
+      "sha256": "84e5e893065387fa1868f01122bf4abd1d484a54a32ead36e41ac183e598c95e"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647984",
+      "retrievedAt": "2026-10-02T10:42:36.658Z",
+      "sha256": "b2442207fd20ef5ed15661facd01d913dce48ce0d47089536e8890c2c14bae36"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647996",
+      "retrievedAt": "2026-10-02T10:42:37.083Z",
+      "sha256": "2ca31bc4cfbb03a802d6719c3d750b69e31736fb13fb54848ddf35f73141b702"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648012",
+      "retrievedAt": "2026-10-02T10:42:37.668Z",
+      "sha256": "484f05eea77910c39c4108295a613f1346ac79a847a0fef14bf94777535f6aae"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648044",
+      "retrievedAt": "2026-10-02T10:42:38.012Z",
+      "sha256": "c8faf69d47ec7f9cfcc0abb4ed1d32e1a4678835cb924785bac650fc6d7389b8"
+    },
+    {
+      "url": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648054",
+      "retrievedAt": "2026-10-02T10:42:38.343Z",
+      "sha256": "72198d7c0d0ce53d41823b9ed4fbf79932bfe0ffc071c7956807e76ce5ceb814"
+    }
+  ],
+  "records": [
+    {
+      "season": "2023-24",
+      "week": 1,
+      "player": "Vincent Aboubakar",
+      "shooterClubId": "114",
+      "homeClubId": "6646",
+      "awayClubId": "114",
+      "homeName": "Fatih Karagümrük",
+      "awayName": "Beşiktaş JK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126779",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "0:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 1,
+      "player": "Dusan Tadic",
+      "shooterClubId": "36",
+      "homeClubId": "36",
+      "awayClubId": "2832",
+      "homeName": "Fenerbahce",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126781",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 1,
+      "player": "Emir Kaan Gültekin",
+      "shooterClubId": "924",
+      "homeClubId": "2293",
+      "awayClubId": "924",
+      "homeName": "Konyaspor",
+      "awayName": "Istanbulspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126783",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 3,
+      "player": "Kerem Aktürkoğlu",
+      "shooterClubId": "141",
+      "homeClubId": "924",
+      "awayClubId": "141",
+      "homeName": "Istanbulspor",
+      "awayName": "Galatasaray",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126812",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "0:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 4,
+      "player": "Efecan Karaca",
+      "shooterClubId": "11282",
+      "homeClubId": "3209",
+      "awayClubId": "11282",
+      "homeName": "Pendikspor",
+      "awayName": "Alanyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126822",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 4,
+      "player": "Marius Mouandilmadji",
+      "shooterClubId": "152",
+      "homeClubId": "152",
+      "awayClubId": "924",
+      "homeName": "Samsunspor",
+      "awayName": "Istanbulspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4126824",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 5,
+      "player": "Didier Lamkel Zé",
+      "shooterClubId": "7775",
+      "homeClubId": "6646",
+      "awayClubId": "7775",
+      "homeName": "Fatih Karagümrük",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129458",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "0:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 8,
+      "player": "Alexandru Maxim",
+      "shooterClubId": "2832",
+      "homeClubId": "6890",
+      "awayClubId": "2832",
+      "homeName": "Basaksehir FK",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129488",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "2:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 13,
+      "player": "Cenk Tosun",
+      "shooterClubId": "114",
+      "homeClubId": "152",
+      "awayClubId": "114",
+      "homeName": "Samsunspor",
+      "awayName": "Beşiktaş JK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129536",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "1:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 14,
+      "player": "Alexandru Maxim",
+      "shooterClubId": "2832",
+      "homeClubId": "10484",
+      "awayClubId": "2832",
+      "homeName": "Kasimpasa",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129545",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus/",
+      "score": "4:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 15,
+      "player": "Renat Dadashov",
+      "shooterClubId": "7775",
+      "homeClubId": "6890",
+      "awayClubId": "7775",
+      "homeName": "Basaksehir FK",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129558",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 15,
+      "player": "Dusan Tadic",
+      "shooterClubId": "36",
+      "homeClubId": "114",
+      "awayClubId": "36",
+      "homeName": "Beşiktaş JK",
+      "awayName": "Fenerbahce",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129560",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "1:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 17,
+      "player": "Riad Bajic",
+      "shooterClubId": "868",
+      "homeClubId": "868",
+      "awayClubId": "7775",
+      "homeName": "MKE Ankaragücü",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129581",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "0:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 17,
+      "player": "Óscar Romero",
+      "shooterClubId": "3209",
+      "homeClubId": "126",
+      "awayClubId": "3209",
+      "homeName": "Caykur Rizespor",
+      "awayName": "Pendikspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129582",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "5:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 18,
+      "player": "Aytaç Kara",
+      "shooterClubId": "10484",
+      "homeClubId": "10484",
+      "awayClubId": "126",
+      "homeName": "Kasimpasa",
+      "awayName": "Caykur Rizespor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129586",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 18,
+      "player": "Adam Buksa",
+      "shooterClubId": "589",
+      "homeClubId": "3840",
+      "awayClubId": "589",
+      "homeName": "Adana Demirspor",
+      "awayName": "Antalyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129588",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 19,
+      "player": "Dusan Tadic",
+      "shooterClubId": "36",
+      "homeClubId": "924",
+      "awayClubId": "36",
+      "homeName": "Istanbulspor",
+      "awayName": "Fenerbahce",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129594",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "1:5",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 20,
+      "player": "Stéphane Bahoken",
+      "shooterClubId": "3205",
+      "homeClubId": "141",
+      "awayClubId": "3205",
+      "homeName": "Galatasaray",
+      "awayName": "Kayserispor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4261503",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 20,
+      "player": "Edin Dzeko",
+      "shooterClubId": "36",
+      "homeClubId": "2832",
+      "awayClubId": "36",
+      "homeName": "Gaziantep FK",
+      "awayName": "Fenerbahce",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4261510",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "0:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 26,
+      "player": "João Novais",
+      "shooterClubId": "11282",
+      "homeClubId": "11282",
+      "awayClubId": "3840",
+      "homeName": "Alanyaspor",
+      "awayName": "Adana Demirspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129667",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/2",
+      "score": "3:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 26,
+      "player": "Krzysztof Piatek",
+      "shooterClubId": "6890",
+      "homeClubId": "6890",
+      "awayClubId": "3205",
+      "homeName": "Basaksehir FK",
+      "awayName": "Kayserispor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129663",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "2:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 27,
+      "player": "Kerem Aktürkoğlu",
+      "shooterClubId": "141",
+      "homeClubId": "141",
+      "awayClubId": "589",
+      "homeName": "Galatasaray",
+      "awayName": "Antalyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129679",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 27,
+      "player": "Michy Batshuayi",
+      "shooterClubId": "36",
+      "homeClubId": "36",
+      "awayClubId": "10484",
+      "homeName": "Fenerbahce",
+      "awayName": "Kasimpasa",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129675",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 29,
+      "player": "Cenk Tosun",
+      "shooterClubId": "114",
+      "homeClubId": "2832",
+      "awayClubId": "114",
+      "homeName": "Gaziantep FK",
+      "awayName": "Beşiktaş JK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129700",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "2:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 30,
+      "player": "Jonjo Shelvey",
+      "shooterClubId": "126",
+      "homeClubId": "126",
+      "awayClubId": "2832",
+      "homeName": "Caykur Rizespor",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129710",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "3:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 30,
+      "player": "Mauro Icardi",
+      "shooterClubId": "141",
+      "homeClubId": "10484",
+      "awayClubId": "141",
+      "homeName": "Kasimpasa",
+      "awayName": "Galatasaray",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129708",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "3:4",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 30,
+      "player": "Milot Rashica",
+      "shooterClubId": "114",
+      "homeClubId": "114",
+      "awayClubId": "589",
+      "homeName": "Beşiktaş JK",
+      "awayName": "Antalyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129712",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "1:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 32,
+      "player": "Jackson Kenio",
+      "shooterClubId": "924",
+      "homeClubId": "7775",
+      "awayClubId": "924",
+      "homeName": "Hatayspor",
+      "awayName": "Istanbulspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129724",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "0:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 33,
+      "player": "Marcão",
+      "shooterClubId": "6646",
+      "homeClubId": "924",
+      "awayClubId": "6646",
+      "homeName": "Istanbulspor",
+      "awayName": "Fatih Karagümrük",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129738",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "1:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 35,
+      "player": "Denis Drăguș",
+      "shooterClubId": "2832",
+      "homeClubId": "2832",
+      "awayClubId": "7775",
+      "homeName": "Gaziantep FK",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129753",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/3",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2023-24",
+      "week": 36,
+      "player": "Mame Thiam",
+      "shooterClubId": "3209",
+      "homeClubId": "3209",
+      "awayClubId": "126",
+      "homeName": "Pendikspor",
+      "awayName": "Caykur Rizespor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4129772",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2023/plus//page/4",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 3,
+      "player": "Joseph Attamah",
+      "shooterClubId": "3205",
+      "homeClubId": "449",
+      "awayClubId": "3205",
+      "homeName": "Trabzonspor",
+      "awayName": "Kayserispor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387827",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 3,
+      "player": "Yusuf Sarı",
+      "shooterClubId": "3840",
+      "homeClubId": "10484",
+      "awayClubId": "3840",
+      "homeName": "Kasimpasa",
+      "awayName": "Adana Demirspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387829",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 3,
+      "player": "Ramzi Safuri",
+      "shooterClubId": "589",
+      "homeClubId": "589",
+      "awayClubId": "7775",
+      "homeName": "Antalyaspor",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387832",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "3:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 4,
+      "player": "Yusuf Sarı",
+      "shooterClubId": "3840",
+      "homeClubId": "3840",
+      "awayClubId": "141",
+      "homeName": "Adana Demirspor",
+      "awayName": "Galatasaray",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387835",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "1:5",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 4,
+      "player": "Olivier Ntcham",
+      "shooterClubId": "152",
+      "homeClubId": "7775",
+      "awayClubId": "152",
+      "homeName": "Hatayspor",
+      "awayName": "Samsunspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387841",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "0:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 4,
+      "player": "Michy Batshuayi",
+      "shooterClubId": "141",
+      "homeClubId": "3840",
+      "awayClubId": "141",
+      "homeName": "Adana Demirspor",
+      "awayName": "Galatasaray",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4387835",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "1:5",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 7,
+      "player": "Mame Thiam",
+      "shooterClubId": "7160",
+      "homeClubId": "7160",
+      "awayClubId": "2832",
+      "homeName": "Eyüpspor",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393167",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "3:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 7,
+      "player": "Umut Nayir",
+      "shooterClubId": "2293",
+      "homeClubId": "449",
+      "awayClubId": "2293",
+      "homeName": "Trabzonspor",
+      "awayName": "Konyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393165",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "3:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 7,
+      "player": "Taulant Seferi",
+      "shooterClubId": "44006",
+      "homeClubId": "44006",
+      "awayClubId": "3840",
+      "homeName": "Bodrum FK",
+      "awayName": "Adana Demirspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393168",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "3:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 10,
+      "player": "Olivier Ntcham",
+      "shooterClubId": "152",
+      "homeClubId": "10484",
+      "awayClubId": "152",
+      "homeName": "Kasimpasa",
+      "awayName": "Samsunspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393193",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus/",
+      "score": "1:4",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 10,
+      "player": "Olivier Ntcham",
+      "shooterClubId": "152",
+      "homeClubId": "10484",
+      "awayClubId": "152",
+      "homeName": "Kasimpasa",
+      "awayName": "Samsunspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393193",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "1:4",
+      "occurrence": 2
+    },
+    {
+      "season": "2024-25",
+      "week": 11,
+      "player": "Jerome Opoku",
+      "shooterClubId": "6890",
+      "homeClubId": "2293",
+      "awayClubId": "6890",
+      "homeName": "Konyaspor",
+      "awayName": "Basaksehir FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393199",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "3:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 16,
+      "player": "Ali Sowe",
+      "shooterClubId": "126",
+      "homeClubId": "126",
+      "awayClubId": "2293",
+      "homeName": "Caykur Rizespor",
+      "awayName": "Konyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393242",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 18,
+      "player": "Edin Dzeko",
+      "shooterClubId": "36",
+      "homeClubId": "36",
+      "awayClubId": "7775",
+      "homeName": "Fenerbahce",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393267",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "2:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 20,
+      "player": "Simon Banza",
+      "shooterClubId": "449",
+      "homeClubId": "449",
+      "awayClubId": "2381",
+      "homeName": "Trabzonspor",
+      "awayName": "Sivasspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393281",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "4:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 20,
+      "player": "Rachid Ghezzal",
+      "shooterClubId": "126",
+      "homeClubId": "6890",
+      "awayClubId": "126",
+      "homeName": "Basaksehir FK",
+      "awayName": "Caykur Rizespor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393279",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "2:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 21,
+      "player": "Vaclav Jurecka",
+      "shooterClubId": "126",
+      "homeClubId": "126",
+      "awayClubId": "3840",
+      "homeName": "Caykur Rizespor",
+      "awayName": "Adana Demirspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393293",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "3:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 22,
+      "player": "Taylan Antalyalı",
+      "shooterClubId": "44006",
+      "homeClubId": "2293",
+      "awayClubId": "44006",
+      "homeName": "Konyaspor",
+      "awayName": "Bodrum FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393300",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "3:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 22,
+      "player": "Juan",
+      "shooterClubId": "1467",
+      "homeClubId": "1467",
+      "awayClubId": "11282",
+      "homeName": "Göztepe",
+      "awayName": "Alanyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393297",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "0:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 23,
+      "player": "Mame Thiam",
+      "shooterClubId": "7160",
+      "homeClubId": "449",
+      "awayClubId": "7160",
+      "homeName": "Trabzonspor",
+      "awayName": "Eyüpspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393310",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/2",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 28,
+      "player": "Krzysztof Piatek",
+      "shooterClubId": "6890",
+      "homeClubId": "6890",
+      "awayClubId": "449",
+      "homeName": "Basaksehir FK",
+      "awayName": "Trabzonspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393350",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "0:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 30,
+      "player": "Rômulo",
+      "shooterClubId": "1467",
+      "homeClubId": "1467",
+      "awayClubId": "2832",
+      "homeName": "Göztepe",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393367",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 32,
+      "player": "Rey Manaj",
+      "shooterClubId": "2381",
+      "homeClubId": "10484",
+      "awayClubId": "2381",
+      "homeName": "Kasimpasa",
+      "awayName": "Sivasspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393390",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "3:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 32,
+      "player": "Carlo Holse",
+      "shooterClubId": "152",
+      "homeClubId": "11282",
+      "awayClubId": "152",
+      "homeName": "Alanyaspor",
+      "awayName": "Samsunspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393391",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 34,
+      "player": "Gedson Fernandes",
+      "shooterClubId": "114",
+      "homeClubId": "36",
+      "awayClubId": "114",
+      "homeName": "Fenerbahce",
+      "awayName": "Beşiktaş JK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393410",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "0:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 34,
+      "player": "Blaz Kramer",
+      "shooterClubId": "2293",
+      "homeClubId": "589",
+      "awayClubId": "2293",
+      "homeName": "Antalyaspor",
+      "awayName": "Konyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393407",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 34,
+      "player": "Krzysztof Piatek",
+      "shooterClubId": "6890",
+      "homeClubId": "7775",
+      "awayClubId": "6890",
+      "homeName": "Hatayspor",
+      "awayName": "Basaksehir FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393411",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "2:4",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 34,
+      "player": "Mame Thiam",
+      "shooterClubId": "7160",
+      "homeClubId": "152",
+      "awayClubId": "7160",
+      "homeName": "Samsunspor",
+      "awayName": "Eyüpspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393405",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "3:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 35,
+      "player": "Krzysztof Piatek",
+      "shooterClubId": "6890",
+      "homeClubId": "6890",
+      "awayClubId": "36",
+      "homeName": "Basaksehir FK",
+      "awayName": "Fenerbahce",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393417",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "1:4",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 36,
+      "player": "Jonathan Okoronkwo",
+      "shooterClubId": "7775",
+      "homeClubId": "3840",
+      "awayClubId": "7775",
+      "homeName": "Adana Demirspor",
+      "awayName": "Hatayspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393425",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/3",
+      "score": "0:5",
+      "occurrence": 1
+    },
+    {
+      "season": "2024-25",
+      "week": 36,
+      "player": "Jerome Opoku",
+      "shooterClubId": "6890",
+      "homeClubId": "10484",
+      "awayClubId": "6890",
+      "homeName": "Kasimpasa",
+      "awayName": "Basaksehir FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4393427",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2024/plus//page/4",
+      "score": "2:3",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 1,
+      "player": "Talisca",
+      "shooterClubId": "36",
+      "homeClubId": "36",
+      "awayClubId": "11282",
+      "homeName": "Fenerbahce",
+      "awayName": "Alanyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646344",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 2,
+      "player": "Talisca",
+      "shooterClubId": "36",
+      "homeClubId": "1467",
+      "awayClubId": "36",
+      "homeName": "Göztepe",
+      "awayName": "Fenerbahce",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646352",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "0:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 5,
+      "player": "Henry Onyekuru",
+      "shooterClubId": "820",
+      "homeClubId": "126",
+      "awayClubId": "820",
+      "homeName": "Caykur Rizespor",
+      "awayName": "Genclerbirligi Ankara",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4646382",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 8,
+      "player": "Juan",
+      "shooterClubId": "1467",
+      "homeClubId": "1467",
+      "awayClubId": "6890",
+      "homeName": "Göztepe",
+      "awayName": "Basaksehir FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647835",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 8,
+      "player": "David Datro Fofana",
+      "shooterClubId": "6646",
+      "homeClubId": "6646",
+      "awayClubId": "2832",
+      "homeName": "Fatih Karagümrük",
+      "awayName": "Gaziantep FK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647834",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "0:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 10,
+      "player": "Tammy Abraham",
+      "shooterClubId": "114",
+      "homeClubId": "10484",
+      "awayClubId": "114",
+      "homeName": "Kasimpasa",
+      "awayName": "Beşiktaş JK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647849",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 12,
+      "player": "Deian Sorescu",
+      "shooterClubId": "2832",
+      "homeClubId": "2832",
+      "awayClubId": "126",
+      "homeName": "Gaziantep FK",
+      "awayName": "Caykur Rizespor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647890",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 14,
+      "player": "Cengiz Ünder",
+      "shooterClubId": "114",
+      "homeClubId": "6646",
+      "awayClubId": "114",
+      "homeName": "Fatih Karagümrük",
+      "awayName": "Beşiktaş JK",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647880",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "0:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 16,
+      "player": "Mohamed Bayo",
+      "shooterClubId": "2832",
+      "homeClubId": "2832",
+      "awayClubId": "1467",
+      "homeName": "Gaziantep FK",
+      "awayName": "Göztepe",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647872",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "0:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 20,
+      "player": "Paul Onuachu",
+      "shooterClubId": "449",
+      "homeClubId": "589",
+      "awayClubId": "449",
+      "homeName": "Antalyaspor",
+      "awayName": "Trabzonspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647941",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus/",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 23,
+      "player": "László Bénes",
+      "shooterClubId": "3205",
+      "homeClubId": "3205",
+      "awayClubId": "589",
+      "homeName": "Kayserispor",
+      "awayName": "Antalyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647967",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "1:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 24,
+      "player": "Janderson",
+      "shooterClubId": "1467",
+      "homeClubId": "1467",
+      "awayClubId": "7160",
+      "homeName": "Göztepe",
+      "awayName": "Eyüpspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647975",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "0:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 25,
+      "player": "Pape Habib Guèye",
+      "shooterClubId": "10484",
+      "homeClubId": "2293",
+      "awayClubId": "10484",
+      "homeName": "Konyaspor",
+      "awayName": "Kasimpasa",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647984",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "1:1",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 26,
+      "player": "Juan",
+      "shooterClubId": "1467",
+      "homeClubId": "1467",
+      "awayClubId": "11282",
+      "homeName": "Göztepe",
+      "awayName": "Alanyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4647996",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 28,
+      "player": "Olivier Ntcham",
+      "shooterClubId": "152",
+      "homeClubId": "152",
+      "awayClubId": "2293",
+      "homeName": "Samsunspor",
+      "awayName": "Konyaspor",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648012",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "2:2",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 31,
+      "player": "Talisca",
+      "shooterClubId": "36",
+      "homeClubId": "141",
+      "awayClubId": "36",
+      "homeName": "Galatasaray",
+      "awayName": "Fenerbahce",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648044",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "3:0",
+      "occurrence": 1
+    },
+    {
+      "season": "2025-26",
+      "week": 32,
+      "player": "Metehan Mimaroğlu",
+      "shooterClubId": "820",
+      "homeClubId": "6646",
+      "awayClubId": "820",
+      "homeName": "Fatih Karagümrük",
+      "awayName": "Genclerbirligi Ankara",
+      "reportUrl": "https://www.transfermarkt.com/spielbericht/index/spielbericht/4648054",
+      "sourceUrl": "https://www.transfermarkt.com/super-lig/elfmeterstatistik/wettbewerb/TR1/saison_id/2025/plus//page/2",
+      "score": "1:0",
+      "occurrence": 1
+    }
+  ],
+  "matched": 79,
+  "unmatched": [],
+  "scope": "All league clubs normalized by explicit provider/TFF club identity map"
+}
