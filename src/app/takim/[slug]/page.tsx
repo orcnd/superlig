@@ -1,4 +1,5 @@
 import Image from "next/image";
+import type { Metadata } from "next";
 import { Fragment } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -21,6 +22,14 @@ function contributionLog(teamName: string, contribution: ReturnType<typeof score
 }
 
 export const dynamicParams = false;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const team = teams.find((item) => item.slug === slug);
+  if (!team) notFound();
+  const title = `${team.name} avantaj ve dezavantaj bilançosu`;
+  const description = `${team.name} için üç sezonun hafta hafta doğrulanmış penaltı ve kart-ceza etkileri, olay açıklamaları ve kaynakları.`;
+  return { title, description, alternates: { canonical: `/takim/${slug}` }, openGraph: { title, description, locale: "tr_TR", type: "website", url: `/takim/${slug}` } };
+}
 export function generateStaticParams() { return teams.map((team) => ({ slug: team.slug })); }
 
 export default async function TeamPage({ params }: { params: Promise<{ slug: string }> }) {
