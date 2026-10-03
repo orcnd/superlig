@@ -1,8 +1,23 @@
-# Adil Oyun Endeksi
-'Amaç hakemler x takımı kayırdı' iddasını bilimsel bir zemine oturtmaya çalışmak. bunun için ölçülebilir değerlerin futbola olan etkisini bir formüle döktüm. fork edebilir yada geliştirmem için bana info@orcuncandan.com adresinden ulaşabilirsiniz
+# SüperLig Avantaj / Dezavantaj Endeksi
 
-## Geliştirme
-4 büyük takımın gördüğü ve rakiplerinin gördüğü kartlar, bu kartların kritik maçlar öncesinde olup olmadığı, kazanılan ve verilen penaltılar, sakatlıklar, Kart gören oyuncuların takım içindeki değeri gibi kriterler üzerinden bir hesaplama yapmaya çalıştım
+[Canlı uygulama](https://superlig.orcuncandan.com/) · [Veri gezgini](https://superlig.orcuncandan.com/data) · [Metodoloji](https://superlig.orcuncandan.com/methodology) · [Kaynaklar](https://superlig.orcuncandan.com/sources)
+
+Üç Süper Lig sezonunun maç ve olay kayıtlarını kaynak bağlantılarıyla incelemeyi sağlayan Next.js veri uygulaması. Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor için doğrulanmış penaltı kararlarını ve önemli maçlarda değerli oyuncuların doğrulanmış ceza etkilerini açık kurallarla hesaplar.
+
+## Kapsam ve yorumlama
+
+- Endeks, hakem hatası, kasıtlı kayırma veya mağduriyet kanıtı değildir.
+- Normal kartlar, sakatlıklar, maç sonuçları ve kadroda bulunmama tek başına puanlanmaz.
+- Penaltı kararı; gol, kaçırma veya kurtarılmadan bağımsız değerlendirilir.
+- Ceza etkisi için ceza infazı, etkilenen maç ve bağımsız oyuncu puanı kaynakla doğrulanmalıdır.
+- Ağırlıklar açık model varsayımlarıdır; bilimsel sabitler değildir.
+- Ceza ve VAR araştırması tamamlanmamıştır. Doğrulanmamış kayıtlar puanlanmaz; eksik veri sıfır etki anlamına gelmez. Kısmi toplamlar kesin sıralama olarak yorumlanmamalıdır.
+
+## Mühendislik yaklaşımı
+
+Ham kaynak snapshot'ları, normalize JSON, kaynak manifesti ve şema kontrolleri veri işleme sürecini izlenebilir kılar. Veri gezgini sezon ve takım filtreleriyle kayıtları incelemeyi sağlar; kaynak sayfası TFF maç detaylarına bağlantılar sunar. Aynı olayın iki kez puanlanması engellenir.
+
+Katkı ve geri bildirim: info@orcuncandan.com
 
 ## Uygulama
 - Ana sayfa: sezonlar arası endeks sıralaması, bileşenler ve veri kapsamı.
@@ -50,5 +65,5 @@ Olay defterindeki kart, penaltı golü ve bazı maç bağlamı kayıtları TFF v
 
 ## Puanlama yaklaşımı
 
-Olayların etkisi ham etki, güven katsayısı ve kategori ağırlığı üzerinden hesaplanır. Aynı `eventId` puanlamada bir kez işlenir. Veri yokluğu sıfır etki olarak varsayılmaz; bilinmeyen ölçümler ayrı tutulur. Başlangıç ağırlıkları ve normalizasyon yaklaşımı uygulamadaki `/methodology` sayfasında açıklanır.
+Olayların etkisi ham etki, güven katsayısı ve kategori ağırlığı üzerinden hesaplanır. Aynı `eventId` puanlamada bir kez işlenir. Veri yokluğu sıfır etki olarak varsayılmaz; bilinmeyen ölçümler ayrı tutulur. Güncel ağırlıklar, yön çarpanları ve eksik veri yaklaşımı uygulamadaki `/methodology` sayfasında açıklanır.
 
